@@ -13,21 +13,22 @@ Tenho disposição para encarar mudanças. Aprendo, contribuo e evoluo diante da
 Proficiente em softwares de edição de imagem e modelagem 3D.
 
 <details>
-<summary>Contatos</summary>### Contatos
-![[Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://mailto:wellingtonmnf@outlook.com)
-![[Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+<summary><h2>Contatos:</h2></summary>
+[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://mailto:wellingtonmnf@outlook.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://wellingtonmnf/github.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/wellingtonmnf)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wellingtonmnf)
 </details>
 
-### Idiomas
-
+<details>
+<summary><h2>Idiomas:</h2></summary>
 Idioma | Leitura | Escrita | Conversação
 :---: | :---: | :---: | :---:
 Português | Nativo | Nativo | Nativo
 Inglês | Boa | Boa | Médio
 Espanhol | Boa | Baixa | Não
+</details>
 
 
 

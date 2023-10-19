@@ -205,7 +205,7 @@ Proficiente em softwares de edição de imagem e modelagem 3D.
 <summary><h3>STATUS DO MEU GITHUB</h3></summary>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellingtonmnf&show_icons=true&theme=algolia&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonmnf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonmnf&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonmnf&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>

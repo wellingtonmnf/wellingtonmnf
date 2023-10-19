@@ -19,17 +19,18 @@ Proficiente em softwares de edição de imagem e modelagem 3D.
 
 ### Contatos:
 <!---Necessário corrigir a centralização dos badges--->
-<p text-align='center'> 
+<div align='center'> 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wellingtonmnf)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wellingtonmnf)
 [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://mailto:wellingtonmnf@outlook.com)
 
-</p>
+</div>
 
 <!---EXPERIÊNCIA PROFISSIONAL--->
-
+<div id="xp-prof">
+<details>
 ### Formação Acadêmica:
 
    * Universidade Salvador (UNIFACS)
@@ -40,7 +41,7 @@ Proficiente em softwares de edição de imagem e modelagem 3D.
 
    * Escola Reitor Miguel Calmon - SESI Retiro
      Ensino Médio | 2005 - 2007
-
+</details>
 ### Cursos Complementares:
 
    * Estruturas para Arquitetos (48 horas)
@@ -86,6 +87,7 @@ Proficiente em softwares de edição de imagem e modelagem 3D.
      + Foco em adaptar espaços para cumprir requisitos de acessibilidade diante Termo de Compromisso de Ajuste de Conduta assinado pelos Correios, para democratizar o acesso de todas as pessoas as suas instalações;
      + Co-autor no desenvolvimento do projeto de reforma e adequação ao TCAC da agência dos Correios AC Correntina, situada no município de Correntina - BA;
      
+</div>     
 <!---TECNOLOGIAS/HABILIDADES--->
 
 <details>

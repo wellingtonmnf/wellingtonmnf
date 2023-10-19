@@ -37,55 +37,55 @@ Proficiente em softwares de edição de imagem e modelagem 3D.
 
 </div>
 
-<!---EXPERIÊNCIA PROFISSIONAL--->
+<!---FORMAÇÃO E EXPERIÊNCIA PROFISSIONAL--->
 <div id="xp-prof">
 
 <details>
-<summary><h2>EXPERIÊNCIA PROFISSIONAL</h2></summary>
+<summary><h2>FORMAÇÃO E EXPERIÊNCIA</h2></summary>
 
 <details>
 <summary><h3>Formação Acadêmica:</h3></summary>
 
-   * Universidade Salvador (UNIFACS)
-     Bacharelado em Arquitetura e Urbanismo | 2010 - 2015
+   * **Universidade Salvador (UNIFACS)** </br>
+     *Bacharelado em Arquitetura e Urbanismo | 2010 - 2015*
 
-   * SENAI - CETIND
-     Curso Técnico em Desenvolvimento de Software | 2007 - 2008
+   * **SENAI - CETIND** </br>
+     *Curso Técnico em Desenvolvimento de Software | 2007 - 2008*
 
-   * Escola Reitor Miguel Calmon - SESI Retiro
-     Ensino Médio | 2005 - 2007
+   * **Escola Reitor Miguel Calmon - SESI Retiro** </br>
+     *Ensino Médio | 2005 - 2007*
 
 </details>
 
 <details>
 <summary><h3>Cursos Complementares:</h3></summary>
 
-   * Estruturas para Arquitetos (48 horas)
-     SENAI - CIMATEC | 2017
+   * **Estruturas para Arquitetos (48 horas)** </br>
+     *SENAI - CIMATEC | 2017*
 
-   * Curso Básico de REVIT Architecture (30 horas)
-     Andrade Casaes Arquitetura | 2014
+   * **Curso Básico de REVIT Architecture (30 horas)** </br>
+     *Andrade Casaes Arquitetura | 2014*
 
-   * Manutenção de Microcomputadores (600 horas)
-     SENAI | 2006
+   * **Manutenção de Microcomputadores (600 horas)** </br>
+     *SENAI | 2006*
 
 </details>
 
 <details>
 <summary><h3>Experiência Profissional:</h3></summary>
 
-   * Transição de carreira | Pausa na carreira###
+   * **Transição de carreira | Pausa na carreira**
 
-     ago de 2022 - o momento · 5 meses
-     Salvador, Bahia
+     *ago de 2022 - o momento · 5 meses* </br>
+     *Salvador, Bahia*
 
      + Pesquisa e estudo de mercado;
      + Retorno dos estudos na área de T.I. em busca de reinserção no mercado;
 
-   * Arquiteto | Autônomo###
+   * **Arquiteto | Autônomo**
 
-     jan de 2016 - ago de 2022 · 6 anos 8 meses
-     Salvador e Região, Brasil
+     *jan de 2016 - ago de 2022 · 6 anos 8 meses* </br>
+     *Salvador e Região, Brasil*
 
      Atuação em:
 
@@ -94,10 +94,10 @@ Proficiente em softwares de edição de imagem e modelagem 3D.
      + Execução de reformas;
      + Laudos Técnicos;
 
-   * Estagiário de Arquitetura | Correios###
+   * **Estagiário de Arquitetura | Correios**
 
-     jun de 2012 - jun de 2014 · 2 anos 1 mês
-     Salvador
+     *jun de 2012 - jun de 2014 · 2 anos 1 mês* </br>
+     *Salvador*
 
      + Auxílio na digitalização de croquis e cadastros;
      + Auxílio na realização de cadastro;
@@ -182,9 +182,11 @@ Proficiente em softwares de edição de imagem e modelagem 3D.
 ### Soft skills:
 
 [FAZER COMO TABELA COM ÍCONES]
-![]() | ![]() | ![]() | ![]() | 
+
+:---: | :---: | :---: | :---:
+![Organização Badge]() | ![Determinação Badge]() | ![Diplomacia Badge]() | ![Comprometimento Badge]() | 
 Organização | Determinação | Diplomacia | Comprometimento 
-![]() | ![]() | ![]() | ![]() | 
+![Empatia Badge]() | ![Auto-avaliação Badge]() | ![Busca por aprendizado Badge]() | ![Comunicação Escrita Badge]() | 
 Empatia | Auto-avaliação | Busca por aprendizado | Comunicação Escrita 
 
 ### Idiomas:

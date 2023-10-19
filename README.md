@@ -1,10 +1,10 @@
 [AQUI ENTRA A IMAGEM DE TOPO]
 
-- 👋  Olá, eu sou o [Wellington](<a href="https://github.com/wellingtonmnf" target="_blank"></a>)!
+- 👋  Olá, eu sou o <a Wellington href="https://github.com/wellingtonmnf" target="_blank"></a>!
 - 🌱 Eu estou aprendendo atualmente Salesforce, Apex, HTML5, CSS3 e JavaScript
 - 👀 Me interesso por: Programação, Desenvolvimento Web, Salesforce, Análise de Dados, Design Gráfico e Arquitetura e Urbanismo
 - :man_technologist: Estou em transição de carreira, estudando para me tornar um Programador Salesforce 
-- 📫 Você pode acompanhar minha transição lendo o meu blog [Algoritmo Biomimético](<a href="https://medium.com/algoritmo-biomimetico" target="_blank"></a>)
+- 📫 Você pode acompanhar minha transição lendo o meu blog <a Algoritmo Biomimético href="https://medium.com/algoritmo-biomimetico" target="_blank"></a>
 
 Sou um profissional que se encontra em transição de carreira. Depois de anos, retorno aos estudos na área de T.I. para construir um portfólio e me reinserir no mercado.
 
@@ -15,11 +15,31 @@ Proficiente em softwares de edição de imagem e modelagem 3D.
 <details>
 <summary><h2>Contatos:</h2></summary>
 
-[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://mailto:wellingtonmnf@outlook.com)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wellingtonmnf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/wellingtonmnf)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wellingtonmnf)
+<p align='center'>
+  
+  <a href="https://github.com/wellingtonmnf" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/wellingtonmnf" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://medium.com" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/wellingtonmnf" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://mailto:wellingtonmnf@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
+
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wellingtonmnf)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/wellingtonmnf)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wellingtonmnf)
+[![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://mailto:wellingtonmnf@outlook.com)
 
 </details>
 

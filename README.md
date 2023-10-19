@@ -202,11 +202,21 @@ Proficiente em softwares de edição de imagem e modelagem 3D.
 <!---STATUS--->
 <div id="status">
 <details>
-<summary><h3>STATUS DO MEU GITHUB</h3></summary>
+<summary><h2>STATUS DO MEU GITHUB</h2></summary>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellingtonmnf&show_icons=true&theme=algolia&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellingtonmnf&locale=pt-br&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonmnf&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonmnf&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonmnf&repo=github-readme-stats&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 </div>

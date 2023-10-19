@@ -200,6 +200,11 @@ Proficiente em softwares de edição de imagem e modelagem 3D.
 </details>
 
 <!---STATUS--->
+<div id="status">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellingtonmnf&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 <!---CONTEÚDO LIVRE--->
 

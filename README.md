@@ -200,22 +200,23 @@ Proficiente em softwares de edição de imagem e modelagem 3D.
 </details>
 
 <!---STATUS--->
-<div id="status">
+<div id="status" align="center">
 <details>
 <summary><h2>STATUS DO MEU GITHUB</h2></summary>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellingtonmnf&locale=pt-br&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonmnf&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonmnf&locale=pt-br&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=wellingtonmnf&locale=pt-br&theme=algolia)](https://git.io/streak-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wellingtonmnf&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wellingtonmnf&locale=pt-br&show_icons=true&theme=algolia" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonmnf&locale=pt-br" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonmnf&locale=pt-br&layout=compact" />
 </a>
-
-
-
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonmnf&repo=github-readme-stats&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 

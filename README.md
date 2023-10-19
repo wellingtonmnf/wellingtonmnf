@@ -46,46 +46,46 @@ Proficiente em softwares de edição de imagem e modelagem 3D.
 <details>
 <summary><h3>Formação Acadêmica:</h3></summary>
 
-   * **Universidade Salvador (UNIFACS)** </br>
-     *Bacharelado em Arquitetura e Urbanismo | 2010 - 2015*
+   * :classical_building: **Universidade Salvador (UNIFACS)** </br>
+     :books: *Bacharelado em Arquitetura e Urbanismo | :calendar: 2010 - 2015*
 
-   * **SENAI - CETIND** </br>
-     *Curso Técnico em Desenvolvimento de Software | 2007 - 2008*
+   * :classical_building: **SENAI - CETIND** </br>
+     :books: *Curso Técnico em Desenvolvimento de Software | :calendar: 2007 - 2008*
 
-   * **Escola Reitor Miguel Calmon - SESI Retiro** </br>
-     *Ensino Médio | 2005 - 2007*
+   * :classical_building: **Escola Reitor Miguel Calmon - SESI Retiro** </br>
+     :books: *Ensino Médio | :calendar: 2005 - 2007*
 
 </details>
 
 <details>
 <summary><h3>Cursos Complementares:</h3></summary>
 
-   * **Estruturas para Arquitetos (48 horas)** </br>
-     *SENAI - CIMATEC | 2017*
+   * :books: **Estruturas para Arquitetos (:hourglass: 48 horas)** </br>
+     :classical_building: *SENAI - CIMATEC | :calendar: 2017*
 
-   * **Curso Básico de REVIT Architecture (30 horas)** </br>
-     *Andrade Casaes Arquitetura | 2014*
+   * :books: **Curso Básico de REVIT Architecture (:hourglass: 30 horas)** </br>
+     :classical_building: *Andrade Casaes Arquitetura | :calendar: 2014*
 
-   * **Manutenção de Microcomputadores (600 horas)** </br>
-     *SENAI | 2006*
+   * :books: **Manutenção de Microcomputadores (:hourglass: 600 horas)** </br>
+     :classical_building: *SENAI | :calendar: 2006*
 
 </details>
 
 <details>
 <summary><h3>Experiência Profissional:</h3></summary>
 
-   * **Transição de carreira | Pausa na carreira**
+   * :arrows_counterclockwise: **Transição de carreira | Pausa na carreira**
 
-     *ago de 2022 - o momento · 5 meses* </br>
-     *Salvador, Bahia*
+     *:calendar: ago de 2022 - o momento · :hourglass: 5 meses* </br>
+     :mailbox_closed: *Salvador, Bahia*
 
      + Pesquisa e estudo de mercado;
      + Retorno dos estudos na área de T.I. em busca de reinserção no mercado;
 
-   * **Arquiteto | Autônomo**
+   * :construction_worker: **Arquiteto | Autônomo**
 
-     *jan de 2016 - ago de 2022 · 6 anos 8 meses* </br>
-     *Salvador e Região, Brasil*
+     :calendar: *jan de 2016 - ago de 2022 · :hourglass: 6 anos 8 meses* </br>
+     :mailbox_closed: *Salvador e Região, Brasil*
 
      Atuação em:
 
@@ -94,10 +94,10 @@ Proficiente em softwares de edição de imagem e modelagem 3D.
      + Execução de reformas;
      + Laudos Técnicos;
 
-   * **Estagiário de Arquitetura | Correios**
+   * :postbox: **Estagiário de Arquitetura | Correios**
 
-     *jun de 2012 - jun de 2014 · 2 anos 1 mês* </br>
-     *Salvador*
+     :calendar: *jun de 2012 - jun de 2014 · :hourglass: 2 anos 1 mês* </br>
+     :mailbox_closed: *Salvador*
 
      + Auxílio na digitalização de croquis e cadastros;
      + Auxílio na realização de cadastro;
@@ -183,11 +183,11 @@ Proficiente em softwares de edição de imagem e modelagem 3D.
 
 [FAZER COMO TABELA COM ÍCONES]
 
-:---: | :---: | :---: | :---:
-![Organização Badge]() | ![Determinação Badge]() | ![Diplomacia Badge]() | ![Comprometimento Badge]() | 
-Organização | Determinação | Diplomacia | Comprometimento 
-![Empatia Badge]() | ![Auto-avaliação Badge]() | ![Busca por aprendizado Badge]() | ![Comunicação Escrita Badge]() | 
-Empatia | Auto-avaliação | Busca por aprendizado | Comunicação Escrita 
+| :---: | :---: | :---: | :---: |
+| ![Organização Badge]() | ![Determinação Badge]() | ![Diplomacia Badge]() | ![Comprometimento Badge]() | 
+| Organização | Determinação | Diplomacia | Comprometimento |
+| ![Empatia Badge]() | ![Auto-avaliação Badge]() | ![Busca por aprendizado Badge]() | ![Comunicação Escrita Badge]() | 
+| Empatia | Auto-avaliação | Busca por aprendizado | Comunicação Escrita |
 
 ### Idiomas:
 

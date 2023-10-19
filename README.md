@@ -39,6 +39,10 @@ Proficiente em softwares de edição de imagem e modelagem 3D.
 
 <!---EXPERIÊNCIA PROFISSIONAL--->
 <div id="xp-prof">
+
+<details>
+<summary>EXPERIÊNCIA PROFISSIONAL</summary>
+
 <details>
 <summary>Formação Acadêmica:</summary>
 
@@ -102,7 +106,9 @@ Proficiente em softwares de edição de imagem e modelagem 3D.
      + Foco em adaptar espaços para cumprir requisitos de acessibilidade diante Termo de Compromisso de Ajuste de Conduta assinado pelos Correios, para democratizar o acesso de todas as pessoas as suas instalações;
      + Co-autor no desenvolvimento do projeto de reforma e adequação ao TCAC da agência dos Correios AC Correntina, situada no município de Correntina - BA;
      
-</details>     
+</details>  
+
+</details>
 </div>     
 <!---TECNOLOGIAS/HABILIDADES--->
 

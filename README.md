@@ -9,16 +9,25 @@
 - :man_technologist: Estou em transição de carreira, estudando para me tornar um Programador Salesforce
 - 📫 Você pode acompanhar minha transição lendo o meu blog [**Algoritmo Biomimético**](https://medium.com/algoritmo-biomimetico) 
 
+<div id="resumo">
+
 Sou um profissional que se encontra em transição de carreira. Depois de anos na área de Arquitetura e Urbanismo, retorno aos estudos de T.I. para construir um portfólio e me reinserir no mercado.
 
 Tenho disposição para encarar mudanças. Aprendo, contribuo e evoluo diante das necessidades das demandas e oportunidades emergentes.
 
 Proficiente em softwares de edição de imagem e modelagem 3D.
+
+</div>
+
+<div id="img-perfil">
+
 <!---Escolher a imagem principal de perfil--->
 [AQUI ENTRA UMA IMAGEM, AO LADO DO TEXTO DE APRESENTAÇÃO]
 
+</div>
+
 ### Contatos:
-<!---Necessário corrigir a centralização dos badges--->
+
 <div align='center'> 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wellingtonmnf)
@@ -31,7 +40,7 @@ Proficiente em softwares de edição de imagem e modelagem 3D.
 <!---EXPERIÊNCIA PROFISSIONAL--->
 <div id="xp-prof">
 <details>
-### Formação Acadêmica:
+<summary>Formação Acadêmica:</summary>
 
    * Universidade Salvador (UNIFACS)
      Bacharelado em Arquitetura e Urbanismo | 2010 - 2015
@@ -41,8 +50,11 @@ Proficiente em softwares de edição de imagem e modelagem 3D.
 
    * Escola Reitor Miguel Calmon - SESI Retiro
      Ensino Médio | 2005 - 2007
+
 </details>
-### Cursos Complementares:
+
+<details>
+<summary>Cursos Complementares:</summary>
 
    * Estruturas para Arquitetos (48 horas)
      SENAI - CIMATEC | 2017
@@ -53,7 +65,10 @@ Proficiente em softwares de edição de imagem e modelagem 3D.
    * Manutenção de Microcomputadores (600 horas)
      SENAI | 2006
 
-### Experiência Profissional:
+</details>
+
+<details>
+<summary>Experiência Profissional:</summary>
 
    * Transição de carreira | Pausa na carreira###
 
@@ -87,6 +102,7 @@ Proficiente em softwares de edição de imagem e modelagem 3D.
      + Foco em adaptar espaços para cumprir requisitos de acessibilidade diante Termo de Compromisso de Ajuste de Conduta assinado pelos Correios, para democratizar o acesso de todas as pessoas as suas instalações;
      + Co-autor no desenvolvimento do projeto de reforma e adequação ao TCAC da agência dos Correios AC Correntina, situada no município de Correntina - BA;
      
+</details>     
 </div>     
 <!---TECNOLOGIAS/HABILIDADES--->
 

@@ -41,10 +41,10 @@ Proficiente em softwares de edição de imagem e modelagem 3D.
 <div id="xp-prof">
 
 <details>
-<summary>EXPERIÊNCIA PROFISSIONAL</summary>
+<summary><h2>EXPERIÊNCIA PROFISSIONAL</h2></summary>
 
 <details>
-<summary>Formação Acadêmica:</summary>
+<summary><h3>Formação Acadêmica:</h3></summary>
 
    * Universidade Salvador (UNIFACS)
      Bacharelado em Arquitetura e Urbanismo | 2010 - 2015
@@ -58,7 +58,7 @@ Proficiente em softwares de edição de imagem e modelagem 3D.
 </details>
 
 <details>
-<summary>Cursos Complementares:</summary>
+<summary><h3>Cursos Complementares:</h3></summary>
 
    * Estruturas para Arquitetos (48 horas)
      SENAI - CIMATEC | 2017
@@ -72,7 +72,7 @@ Proficiente em softwares de edição de imagem e modelagem 3D.
 </details>
 
 <details>
-<summary>Experiência Profissional:</summary>
+<summary><h3>Experiência Profissional:</h3></summary>
 
    * Transição de carreira | Pausa na carreira###
 
@@ -182,14 +182,10 @@ Proficiente em softwares de edição de imagem e modelagem 3D.
 ### Soft skills:
 
 [FAZER COMO TABELA COM ÍCONES]
-Organização 
-Determinação 
-Diplomacia 
-Comprometimento 
-Empatia 
-Auto-avaliação 
-Busca por aprendizado 
-Comunicação Escrita 
+![]() | ![]() | ![]() | ![]() | 
+Organização | Determinação | Diplomacia | Comprometimento 
+![]() | ![]() | ![]() | ![]() | 
+Empatia | Auto-avaliação | Busca por aprendizado | Comunicação Escrita 
 
 ### Idiomas:
 

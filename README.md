@@ -1,6 +1,14 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
 <head>
-<link rel="stylesheet" href="css/style.css"/>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Tudo sobre Google Glass</title>
+        <link rel="stylesheet" href="css/style.css"/>
 </head>
+
+<body>
 
 <!---APRESENTAÇÃO--->
 
@@ -241,3 +249,6 @@
 wellingtonmnf/wellingtonmnf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+</body>
+</html>

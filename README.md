@@ -1,3 +1,7 @@
+<head>
+<link rel="stylesheet" href="css/style.css"/>
+</head>
+
 <!---APRESENTAÇÃO--->
 
 ![Topo README.md](imagens/topo-readme.png)
@@ -18,16 +22,15 @@ Proficiente em softwares de edição de imagem e modelagem 3D.
 
 </div>
 
-<div id="img-perfil">
+<div id="avata-01">
 
-<!---Escolher a imagem principal de perfil--->
-[AQUI ENTRA UMA IMAGEM, AO LADO DO TEXTO DE APRESENTAÇÃO]
+![Avatar 01](imagens/avatar-01.png)
 
 </div>
 
 ### Contatos:
 
-<div align='center'> 
+<div id="contato" align='center'> 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wellingtonmnf)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)
@@ -114,7 +117,15 @@ Proficiente em softwares de edição de imagem e modelagem 3D.
 <details>
 <summary><h2>TECNOLOGIAS/HABILIDADES</h2></summary>
 
+<div id="avatar-02" align="center">
+
+![Avatar 02](imagens/avatar-02.png)
+
+</div>
+
 ### Hard skills:
+
+<div id="hard-skills" align="center">
 
 * Programação:
 
@@ -178,21 +189,31 @@ Proficiente em softwares de edição de imagem e modelagem 3D.
 ![Badge]()
 ![Badge]()
 
+</div>
+
 ### Soft skills:
 
-| Organização | Determinação | Diplomacia | Comprometimento |
+<div id="soft-skills" align="center">
+
+| **Organização** | **Determinação** | **Diplomacia** | **Comprometimento** |
 | :---: | :---: | :---: | :---: |
 | ![Organização Badge]() | ![Determinação Badge]() | ![Diplomacia Badge]() | ![Comprometimento Badge]() | 
 | **Empatia** | **Auto-avaliação** | **Busca por aprendizado** | **Comunicação Escrita** |
 | ![Empatia Badge]() | ![Auto-avaliação Badge]() | ![Busca por aprendizado Badge]() | ![Comunicação Escrita Badge]() | 
 
+</div>
+
 ### Idiomas:
+
+<div id="idiomas" align="center">
 
 |  Idioma   | Leitura | Escrita | Conversação |
 | :-------: | :-----: | :-----: | :---------: |
 | Português | Nativo  | Nativo  |   Nativo    |
 |  Inglês   |   Boa   |   Boa   |    Médio    |
 | Espanhol  |   Boa   |  Baixa  |     Não     |
+
+</div>
 
 </details>
 
@@ -207,13 +228,6 @@ Proficiente em softwares de edição de imagem e modelagem 3D.
 [![GitHub Streak](https://streak-stats.demolab.com/?user=wellingtonmnf&locale=pt-br&theme=algolia)](https://git.io/streak-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wellingtonmnf&locale=pt-br&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wellingtonmnf&locale=pt-br&show_icons=true&theme=algolia" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonmnf&locale=pt-br&layout=compact" />
-</a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonmnf&repo=github-readme-stats&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 

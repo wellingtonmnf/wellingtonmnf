@@ -14,15 +14,15 @@
 
 <div id="resumo">
 
-Sou um profissional que se encontra em transição de carreira. Depois de anos na área de Arquitetura e Urbanismo, retorno aos estudos de T.I. para construir um portfólio e me reinserir no mercado.
+<p>Sou um profissional que se encontra em transição de carreira. Depois de anos na área de Arquitetura e Urbanismo, retorno aos estudos de T.I. para construir um portfólio e me reinserir no mercado.</p>
 
-Tenho disposição para encarar mudanças. Aprendo, contribuo e evoluo diante das necessidades das demandas e oportunidades emergentes.
+<p>Tenho disposição para encarar mudanças. Aprendo, contribuo e evoluo diante das necessidades das demandas e oportunidades emergentes.</p>
 
-Proficiente em softwares de edição de imagem e modelagem 3D.
+<p>Proficiente em softwares de edição de imagem e modelagem 3D.</p>
 
 </div>
 
-<div id="avata-01">
+<div id="avatar-01">
 
 ![Avatar 01](imagens/avatar-01.png)
 

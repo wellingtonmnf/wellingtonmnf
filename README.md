@@ -1,7 +1,5 @@
 <!---APRESENTAÇÃO--->
 
-<!---Fazer a imagem de capa--->
-[AQUI ENTRA A IMAGEM DE TOPO]
 ![Topo README.md](imagens/topo-readme.png)
 
 - 👋 Olá, eu sou o [**Wellington**](https://github.com/wellingtonmnf)
@@ -184,11 +182,12 @@ Proficiente em softwares de edição de imagem e modelagem 3D.
 
 [FAZER COMO TABELA COM ÍCONES]
 
+
+| Organização | Determinação | Diplomacia | Comprometimento |
 | :---: | :---: | :---: | :---: |
 | ![Organização Badge]() | ![Determinação Badge]() | ![Diplomacia Badge]() | ![Comprometimento Badge]() | 
-| Organização | Determinação | Diplomacia | Comprometimento |
-| ![Empatia Badge]() | ![Auto-avaliação Badge]() | ![Busca por aprendizado Badge]() | ![Comunicação Escrita Badge]() | 
 | Empatia | Auto-avaliação | Busca por aprendizado | Comunicação Escrita |
+| ![Empatia Badge]() | ![Auto-avaliação Badge]() | ![Busca por aprendizado Badge]() | ![Comunicação Escrita Badge]() | 
 
 ### Idiomas:
 
@@ -204,8 +203,6 @@ Proficiente em softwares de edição de imagem e modelagem 3D.
 <div id="status">
 <details>
 <summary><h2>STATUS DO MEU GITHUB</h2></summary>
-
-<align="center"/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellingtonmnf&locale=pt-br&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonmnf&locale=pt-br&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

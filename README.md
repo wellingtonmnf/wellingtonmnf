@@ -180,9 +180,7 @@ Proficiente em softwares de edição de imagem e modelagem 3D.
 
 ### Soft skills:
 
-[FAZER COMO TABELA COM ÍCONES]
-
-
+| Tabela de Soft Skills |
 | Organização | Determinação | Diplomacia | Comprometimento |
 | :---: | :---: | :---: | :---: |
 | ![Organização Badge]() | ![Determinação Badge]() | ![Diplomacia Badge]() | ![Comprometimento Badge]() | 

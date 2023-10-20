@@ -4,7 +4,6 @@
 <head>
         <meta charset="utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Tudo sobre Google Glass</title>
         <link rel="stylesheet" href="css/style.css"/>
 </head>
 
@@ -131,37 +130,37 @@
 
 </div>
 
-### Hard skills:
-
 <div id="hard-skills" align="center">
 
-* Programação:
+### Hard skills:
+
+<h4>Programação:</h4>
 
 ![Java Badge]()
 ![Apex Badge]()
 ---
-* Desenvolvimento Web:
+<h4>Desenvolvimento Web:</h4>
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ---
-* Banco de Dados
+<h4>Banco de Dados</h4>
 
 ![MySQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ---
-* SO:
+<h4>SO:</h4>
 
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Zorin OS Badge](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white)
 ---
-* Versionamento:
+<h4>Versionamento:</h4>
 
 ![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ---
-* IDE's:
+<h4>IDE's:</h4>
 
 ![VS Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![NetBeans Badge](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
@@ -169,27 +168,27 @@
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Notepad++ Badge](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 ---
-* Design:
+<h4>Design:</h4>
 
 ![Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Illustrator Badge](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ---
-* Manutenção de Micro:
+<h4>Manutenção de Micro:</h4>
 
 ![Manutenção de Micro Badge]()
 ---
-* Arquitetura:
+<h4>Arquitetura:</h4>
 
 ![AutoCAD Badge]()
 ![Revit Badge]()
 ![SketchUp Badge]()
 ![Lumion 3D Badge]()
 ---
-* Escrita:
+<h4>Escrita:</h4>
 
 ![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 ---
-* Interesses:
+<h4>Interesses:</h4>
 
 ![Salesforce Badge](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 ![Badge]()
@@ -199,9 +198,9 @@
 
 </div>
 
-### Soft skills:
-
 <div id="soft-skills" align="center">
+
+### Soft skills:
 
 | **Organização** | **Determinação** | **Diplomacia** | **Comprometimento** |
 | :---: | :---: | :---: | :---: |
@@ -211,9 +210,9 @@
 
 </div>
 
-### Idiomas:
-
 <div id="idiomas" align="center">
+
+### Idiomas:
 
 |  Idioma   | Leitura | Escrita | Conversação |
 | :-------: | :-----: | :-----: | :---------: |

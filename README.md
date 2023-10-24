@@ -55,9 +55,9 @@
 
 </div>
 
----
-
 <!---FORMAÇÃO E EXPERIÊNCIA PROFISSIONAL--->
+
+---
 
 <div id="xp-prof">
 
@@ -138,7 +138,9 @@
 <details>
 <summary><h2>TECNOLOGIAS/HABILIDADES</h2></summary>
 
-<img src="imagens/avatar-02.png" alt="Avatar 02" align="center" widht="500px" height="500px">
+<div id="avatar-02">
+
+<img src="imagens/avatar-02.png" alt="Avatar 02" align="center" widht="250px" height="250px">
 
 </div>
 

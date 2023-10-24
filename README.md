@@ -54,10 +54,11 @@
 </section>
 
 </div>
-
-<!---FORMAÇÃO E EXPERIÊNCIA PROFISSIONAL--->
+<br/>
 
 ---
+
+<!---FORMAÇÃO E EXPERIÊNCIA PROFISSIONAL--->
 
 <div id="xp-prof">
 

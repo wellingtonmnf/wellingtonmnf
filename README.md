@@ -70,7 +70,7 @@
 <div id="formacao">
 
 <details>
-<summary><h3>FORMAÇÃO:</h3></summary>
+<summary><h4>FORMAÇÃO:</h4></summary>
 
    #### Acadêmica
 
@@ -101,7 +101,7 @@
 <div id="xp-prof">
 
 <details>
-<summary><h3>EXPERIÊNCIA PROFISSIONAL:</h3></summary>
+<summary><h4>EXPERIÊNCIA PROFISSIONAL:</h4></summary>
 
    #### :arrows_counterclockwise: Transição de Carreira | Pausa na carreira
 

@@ -65,7 +65,7 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
----
+![LInha divisória README.md](imagens/linha-div.png)
 
 <!---CURRÍCULO--->
 
@@ -160,7 +160,7 @@ You can click the Preview link to take a look at your changes.
 
 </section>   
 
----
+![LInha divisória README.md](imagens/linha-div.png)
 <!---TECNOLOGIAS/HABILIDADES--->
 
 <section id="tech-specs">
@@ -280,8 +280,6 @@ You can click the Preview link to take a look at your changes.
 
 </section>
 
----
-
 ![LInha divisória README.md](imagens/linha-div.png)
 
 <!---STATUS--->
@@ -326,7 +324,7 @@ You can click the Preview link to take a look at your changes.
 
 </section>
 
----
+![LInha divisória README.md](imagens/linha-div.png)
 
 <!---RODAPÉ--->
 

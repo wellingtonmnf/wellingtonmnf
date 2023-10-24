@@ -5,8 +5,8 @@
         <meta charset="utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <style>
-                  h3 {
-                    font-size: 12pt;
+                  div#resumo {
+                    width: 350px;
                   }
         </style>
 </head>
@@ -50,7 +50,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wellingtonmnf)
 [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://mailto:wellingtonmnf@outlook.com)
 
-[![Card do Algotirmo Biomimético | Medium](https://github-readme-medium.vercel.app/?username=wellingtonmnf_ti&limit=2&bg=FFFFFF&text=00A1E0)](https://medium.com/@wellingtonmnf_ti)
+[![Card do Algotirmo Biomimético | Medium](https://github-readme-medium.vercel.app/?username=wellingtonmnf_ti&limit=1&bg=00A1E0&text=FFFFFF)](https://medium.com/@wellingtonmnf_ti)
 
 </div>
 

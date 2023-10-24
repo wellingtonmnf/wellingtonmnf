@@ -70,9 +70,9 @@
 <div id="formacao">
 
 <details>
-<summary><h3>FORMAÇÃO:</h3></summary>
+<summary><h4>FORMAÇÃO:</h4></summary>
 
-   ### Acadêmica
+   #### Acadêmica
 
    * :classical_building: **Universidade Salvador (UNIFACS)** </br>
      :books: *Bacharelado em Arquitetura e Urbanismo | :calendar: 2010 - 2015*
@@ -83,7 +83,7 @@
    * :classical_building: **Escola Reitor Miguel Calmon - SESI Retiro** </br>
      :books: *Ensino Médio | :calendar: 2005 - 2007*
 
-  ### Complementar
+  ##### Complementar
 
    * :books: **Estruturas para Arquitetos (:hourglass: 48 horas)** </br>
      :classical_building: *SENAI - CIMATEC | :calendar: 2017*
@@ -112,7 +112,7 @@
      + Pesquisa e estudo de mercado;
      + Retorno dos estudos na área de T.I. em busca de reinserção no mercado;
 
-   ### :construction_worker: Arquiteto | Autônomo
+   #### :construction_worker: Arquiteto | Autônomo
    * :construction_worker: **Arquiteto | Autônomo**
 
      :calendar: *jan de 2016 - ago de 2022 · :hourglass: 6 anos 8 meses* </br>
@@ -125,7 +125,7 @@
      + Execução de reformas;
      + Laudos Técnicos;
 
-   ### :postbox: Estagiário de Arquitetura | Correios
+   #### :postbox: Estagiário de Arquitetura | Correios
    * :postbox: **Estagiário de Arquitetura | Correios**
 
      :calendar: *jun de 2012 - jun de 2014 · :hourglass: 2 anos 1 mês* </br>
@@ -162,25 +162,25 @@
 
 <div id="hard-skills" align="center">
 
-### Hard skills:
+#### Hard skills:
 
-<h4>Programação:</h4>
+<h5>Programação:</h5>
 
 ![Java Badge]()
 ![Apex Badge]()
 ---
-<h4>Desenvolvimento Web:</h4>
+<h5>Desenvolvimento Web:</h5>
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ---
-<h4>Banco de Dados</h4>
+<h5>Banco de Dados</h5>
 
 ![MySQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ---
-<h4>SO:</h4>
+<h5>SO:</h4>
 
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)

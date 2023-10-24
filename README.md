@@ -9,6 +9,7 @@
 <body>
 
 <!---APRESENTAÇÃO--->
+<div id="apresentação">
 
 ![Topo README.md](imagens/topo-readme.png)
 
@@ -19,10 +20,13 @@
 - 📫 Você pode acompanhar minha transição lendo o meu blog [**Algoritmo Biomimético**](https://medium.com/algoritmo-biomimetico) 
 
 ---
+<section id="resumo">
 
-<div id="avatar-01">
+<div id="avatar-01" align="right">
 
 <img src="imagens/avatar-01.png" alt="Avatar 01" align="right" widht="500px" height="500px">
+
+---
 
 ### Contatos:
 
@@ -37,7 +41,7 @@
 
 </div>
 
-<div id="resumo" align="left" widht="320px">
+<div id="resumo" align="left" widht="320px" text-align="justify">
 
 <p>Sou um profissional que se encontra em transição de carreira. Depois de anos na área de Arquitetura e Urbanismo, retorno aos estudos de T.I. para construir um portfólio e me reinserir no mercado.</p>
 
@@ -47,6 +51,9 @@
 
 </div>
 
+</section>
+
+</div>
 ---
 
 <!---FORMAÇÃO E EXPERIÊNCIA PROFISSIONAL--->

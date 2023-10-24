@@ -22,9 +22,19 @@
 ---
 <section id="resumo">
 
-<div id="avatar-01" align="right">
+<div id="txt-resumo" align="left" widht="320px" text-align="justify">
 
-<img src="imagens/avatar-01.png" alt="Avatar 01" align="right" widht="500px" height="500px">
+<p>Sou um profissional que se encontra em transição de carreira. Depois de anos na área de Arquitetura e Urbanismo, retorno aos estudos de T.I. para construir um portfólio e me reinserir no mercado.</p>
+
+<p>Tenho disposição para encarar mudanças. Aprendo, contribuo e evoluo diante das necessidades das demandas e oportunidades emergentes.</p>
+
+<p>Proficiente em softwares de edição de imagem e modelagem 3D.</p>
+
+</div>
+
+<div id="avatar-01">
+
+<img src="imagens/avatar-01.png" alt="Avatar 01" align="right" widht="400px" height="400px">
 
 ---
 
@@ -41,15 +51,6 @@
 
 </div>
 
-<div id="resumo" align="left" widht="320px" text-align="justify">
-
-<p>Sou um profissional que se encontra em transição de carreira. Depois de anos na área de Arquitetura e Urbanismo, retorno aos estudos de T.I. para construir um portfólio e me reinserir no mercado.</p>
-
-<p>Tenho disposição para encarar mudanças. Aprendo, contribuo e evoluo diante das necessidades das demandas e oportunidades emergentes.</p>
-
-<p>Proficiente em softwares de edição de imagem e modelagem 3D.</p>
-
-</div>
 
 </section>
 

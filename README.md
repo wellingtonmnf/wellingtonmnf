@@ -4,7 +4,11 @@
 <head>
         <meta charset="utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="css/style.css"/>
+        <style>
+                  h3 {
+                    font-size = 12pt;
+                  }
+        </style>
 </head>
 
 <body>
@@ -19,7 +23,7 @@
 - :man_technologist: Estou em transição de carreira, estudando para me tornar um Programador Salesforce
 - 📫 Você pode acompanhar minha transição lendo o meu blog [**Algoritmo Biomimético**](https://medium.com/algoritmo-biomimetico) 
 
-<div id="resumo">
+<div id="resumo" align="left" widht="350px">
 
 <p>Sou um profissional que se encontra em transição de carreira. Depois de anos na área de Arquitetura e Urbanismo, retorno aos estudos de T.I. para construir um portfólio e me reinserir no mercado.</p>
 
@@ -29,7 +33,7 @@
 
 </div>
 
-<div id="avatar-01">
+<div id="avatar-01" align="right" widht="500px" height="500px">
 
 ![Avatar 01](imagens/avatar-01.png)
 
@@ -43,6 +47,8 @@
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wellingtonmnf)
 [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://mailto:wellingtonmnf@outlook.com)
+
+[![Card do Algotirmo Biomimético | Medium](https://github-readme-medium.vercel.app/?username=wellingtonmnf_ti&limit=2&bg=FFFFFF&text=00A1E0)](https://medium.com/algoritmo-biomimetico)
 
 </div>
 
@@ -124,7 +130,7 @@
 <details>
 <summary><h2>TECNOLOGIAS/HABILIDADES</h2></summary>
 
-<div id="avatar-02" align="center">
+<div id="avatar-02" align="center" widht="500px" height="500px">
 
 ![Avatar 02](imagens/avatar-02.png)
 

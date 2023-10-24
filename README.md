@@ -250,13 +250,13 @@
 </details>
 </div>
 
-</details>
-
 <div id="avatar-02" align="right">
 
 <img src="imagens/avatar-02.png" alt="Avatar 02" widht="250px" height="250px">
 
 </div>
+
+</details>
 
 </section>
 

@@ -110,14 +110,37 @@ You can click the Preview link to take a look at your changes.
 
    #### :arrows_counterclockwise: Transição de Carreira | Pausa na carreira
 
-     :calendar: **ago de 2022 - o momento · :hourglass: 5 meses** </br>
-     :mailbox_closed: *Salvador, Bahia*
+      **ago de 2022 - o momento · :hourglass: 5 meses** </br>
+      *Salvador, Bahia*
+
+     + Pesquisa e estudo de mercado;
+     + Retorno dos estudos na área de T.I. em busca de reinserção no mercado;
+
+   #### :construction_worker: Arquiteto | Autônomo
+
+     :calendar: **jan de 2016 - ago de 2022 · :hourglass: 6 anos 8 meses** </br>
+     :mailbox_closed: *Salvador e Região, Brasil*
+
+     Atuação em:
+
+     + Projetos residenciais;
+     + Projetos de arquitetura de interiores;
+     + Execução de reformas;
+     + Laudos Técnicos;
+
+   #### :postbox: Estagiário de Arquitetura | Correios
+
+     :calendar: **jun de 2012 - jun de 2014 · :hourglass: 2 anos 1 mês** </br>
+     :mailbox_closed: *Salvador*
+
+     + Auxílio na digitalização de croquis e cadastros;
+     + Auxílio na realização de cadastro;
+     + Auxílio no desenvolvimento de projetos arquitetônicos em AutoCAD;
+     + Auxílio na criação de Layouts;
+     + Foco em adaptar espaços para cumprir requisitos de acessibilidade diante Termo de Compromisso de Ajuste de Conduta assinado pelos Correios, para democratizar o acesso de todas as pessoas as suas instalações;
+     + Co-autor no desenvolvimento do projeto de reforma e adequação ao TCAC da agência dos Correios AC Correntina, situada no município de Correntina - BA;
 
 </details>  
-
-</div>
-
-</details>
 
 </section>   
 

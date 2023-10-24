@@ -81,12 +81,6 @@
    * :classical_building: **Escola Reitor Miguel Calmon - SESI Retiro** </br>
      :books: *Ensino Médio | :calendar: 2005 - 2007*
 
-  | :classical_building: Instituição | :books: Curso | :calendar: Período |
-  | :---: | :---: | :---: |
-  | **Universidade Salvador (UNIFACS)** | *Bacharelado em Arquitetura e Urbanismo* | *2010-2015* |
-  | **SENAI - CETIND** | *Curso Técnico em Desenvolvimento de Software* | *2007-2008* |
-  | **Escola Reitor Miguel Calmon - SESI Retiro** | *Ensino Médio* | *2005-2007* |
-
 </details>
 
 </div>
@@ -104,12 +98,6 @@
 
    * :books: **Manutenção de Microcomputadores (:hourglass: 600 horas)** </br>
      :classical_building: *SENAI | :calendar: 2006*
-
-  | :classical_building: Instituição | :books: Curso | :hourglass: Carga horária | :calendar: Período |
-  | :---: | :---: | :---: |
-  | **Estruturas para Arquitetos** | *Bacharelado em Arquitetura e Urbanismo* | *2010-2015* |
-  | **SENAI - CETIND** | *Curso Técnico em Desenvolvimento de Software* | *2007-2008* |
-  | **Escola Reitor Miguel Calmon - SESI Retiro** | *Ensino Médio* | *2005-2007* |
 
 </details>
 
@@ -151,27 +139,6 @@
      + Auxílio na criação de Layouts;
      + Foco em adaptar espaços para cumprir requisitos de acessibilidade diante Termo de Compromisso de Ajuste de Conduta assinado pelos Correios, para democratizar o acesso de todas as pessoas as suas instalações;
      + Co-autor no desenvolvimento do projeto de reforma e adequação ao TCAC da agência dos Correios AC Correntina, situada no município de Correntina - BA;
-     
-   <table id="tabelaspec" width="500px">
-        <caption>Experiência Profissional:</caption>
-        <tr>
-            <td>Empresa</td>
-            <td>Cargo</td>
-            <td>Atividades</td>
-            <td>Período</td>
-            <td>Local</td>
-        </tr>
-        <tr>
-            <td rowspan="2">Pausa na carreira</td>
-            <td rowspan="2">Transição de carreira</td>
-            <td>Pesquisa e estudo de mercado</td>
-            <td rowspan="2">ago de 2022 - o momento · 5 meses</td>
-            <td rowspan="2">Salvador, Bahia</td>
-        </tr>
-        <tr>
-            <td>Retorno dos estudos na área de T.I. em busca de reinserção no mercado</td>
-        </tr>    
-      </table>
 
 </details>  
 

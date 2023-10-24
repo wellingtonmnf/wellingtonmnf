@@ -264,10 +264,10 @@
 
 <section id="status">
 
-<div id="cards">
-
 <details>
-<summary align="center"><h2>STATUS DO MEU GITHUB</h2></summary>
+<summary><h2>STATUS DO MEU GITHUB</h2></summary>
+
+<div id="cards" align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellingtonmnf&locale=pt-br&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonmnf&locale=pt-br&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -278,8 +278,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonmnf&repo=github-readme-stats&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
 </div>
+
+</details>
 
 </section>
 

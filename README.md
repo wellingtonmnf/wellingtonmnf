@@ -151,13 +151,13 @@
 <details>
 <summary><h3>TECNOLOGIAS/HABILIDADES</h3></summary>
 
-<div id="avatar-02" align="center">
+<div id="avatar-02" align="right">
 
 <img src="imagens/avatar-02.png" alt="Avatar 02" widht="250px" height="250px">
 
 </div>
 
-<div id="hard-skills" align="center">
+<div id="hard-skills" align="left">
 
 <details>
 <summary><h4>HARD SKILLS</h4></summary>
@@ -228,7 +228,7 @@
 </details>
 </div>
 
-<div id="soft-skills" align="center">
+<div id="soft-skills" align="left">
 
 <details>
 <summary><h4>SOFT SKILLS</h4></summary>
@@ -242,7 +242,7 @@
 </details>
 </div>
 
-<div id="idiomas" align="center">
+<div id="idiomas" align="left">
 
 <details>
 <summary><h4>IDIOMAS</h4></summary>

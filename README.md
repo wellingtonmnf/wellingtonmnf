@@ -70,7 +70,9 @@
 <div id="form-xp">
 
 <details>
-<summary><h3>Formação Acadêmica:</h3></summary>
+<summary><h3>Formação</h3></summary>
+
+   ### Acadêmica
 
    * :classical_building: **Universidade Salvador (UNIFACS)** </br>
      :books: *Bacharelado em Arquitetura e Urbanismo | :calendar: 2010 - 2015*
@@ -80,6 +82,17 @@
 
    * :classical_building: **Escola Reitor Miguel Calmon - SESI Retiro** </br>
      :books: *Ensino Médio | :calendar: 2005 - 2007*
+
+  ### Complementar
+
+   * :books: **Estruturas para Arquitetos (:hourglass: 48 horas)** </br>
+     :classical_building: *SENAI - CIMATEC | :calendar: 2017*
+
+   * :books: **Curso Básico de REVIT Architecture (:hourglass: 30 horas)** </br>
+     :classical_building: *Andrade Casaes Arquitetura | :calendar: 2014*
+
+   * :books: **Manutenção de Microcomputadores (:hourglass: 600 horas)** </br>
+     :classical_building: *SENAI | :calendar: 2006*  
 
 </details>
 

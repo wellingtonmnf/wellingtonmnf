@@ -18,13 +18,14 @@ You can click the Preview link to take a look at your changes.
 
 ![Topo README.md](imagens/topo-readme.png)
 
-- 👋 Olá, eu sou o [**Wellington**](https://github.com/wellingtonmnf)
+## Olá, eu sou o [**Wellington**](https://github.com/wellingtonmnf) 👋
+
 - 🌱 Eu estou aprendendo atualmente Salesforce, Apex, HTML5, CSS3 e JavaScript
 - 👀 Me interesso por: Programação, Desenvolvimento Web, Salesforce, Análise de Dados, Design Gráfico e Arquitetura e Urbanismo
 - :man_technologist: Estou em transição de carreira, estudando para me tornar um Programador Salesforce
 - 📫 Você pode acompanhar minha transição lendo o meu blog [**Algoritmo Biomimético**](https://medium.com/algoritmo-biomimetico) 
 
----
+![LInha divisória README.md](imagens/linha-div.png)
 
 <div id="resumo">
 

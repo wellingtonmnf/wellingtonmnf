@@ -66,7 +66,7 @@
 <summary><h2>FORMAÇÃO E EXPERIÊNCIA</h2></summary>
 
 <details>
-<summary><h3>Formação Acadêmica:</h3></summary>
+<summary align="center"><h3>Formação Acadêmica:</h3></summary>
 
    * :classical_building: **Universidade Salvador (UNIFACS)** </br>
      :books: *Bacharelado em Arquitetura e Urbanismo | :calendar: 2010 - 2015*

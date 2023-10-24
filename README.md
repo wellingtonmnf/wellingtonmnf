@@ -279,26 +279,25 @@ You can click the Preview link to take a look at your changes.
 <table id="tabelacard" align="center" border="0">
     <caption>Cards de Status</caption>
     <tr>
-      <td align="center">                            
+      <td width="50%" align="center">                            
           <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=wellingtonmnf&locale=pt-br&show_icons=true&theme=algolia"/>
           <br></br>
           <img  align="center"  src="https://streak-stats.demolab.com/?user=wellingtonmnf&locale=pt-br&theme=algolia"/>
       </td>
-      <td align="center">                            
+      <td width="50%" align="center">                            
           <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonmnf&locale=pt-br&layout=compact"/>
       </td>
     </tr> 
     <tr>
-      <td colspan="2" align="center">
+      <td width="50%" colspan="2" align="center">
           <img align="center"  src="https://github-readme-activity-graph.vercel.app/graph?username=wellingtonmnf&locale=pt-br&theme=react-dark"/>
       </td>
     </tr> 
     <tr>
-      <td colspan="2" align="center">
+      <td width="50%" colspan="2" align="center">
           <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=wellingtonmnf&repo=github-readme-stats&locale=pt-br"/>
       </td>
     </tr>     
-
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 

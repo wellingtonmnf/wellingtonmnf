@@ -70,7 +70,7 @@
 <div id="formacao">
 
 <details>
-<summary><h4>FORMAÇÃO:</h4></summary>
+<summary><h3>FORMAÇÃO:</h3></summary>
 
    #### Acadêmica
 
@@ -83,7 +83,7 @@
    * :classical_building: **Escola Reitor Miguel Calmon - SESI Retiro** </br>
      :books: *Ensino Médio | :calendar: 2005 - 2007*
 
-  ##### Complementar
+  #### Complementar
 
    * :books: **Estruturas para Arquitetos (:hourglass: 48 horas)** </br>
      :classical_building: *SENAI - CIMATEC | :calendar: 2017*
@@ -103,7 +103,7 @@
 <details>
 <summary><h3>EXPERIÊNCIA PROFISSIONAL:</h3></summary>
 
-   ### :arrows_counterclockwise: Transição de Carreira | Pausa na carreira 
+   #### :arrows_counterclockwise: Transição de Carreira | Pausa na carreira 
    * :arrows_counterclockwise: **Transição de carreira | Pausa na carreira**
 
      *:calendar: ago de 2022 - o momento · :hourglass: 5 meses* </br>
@@ -162,7 +162,7 @@
 
 <div id="hard-skills" align="center">
 
-#### Hard skills:
+#### HARD SKILLS:
 
 <h5>Programação:</h5>
 
@@ -180,17 +180,17 @@
 ![MySQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ---
-<h5>SO:</h4>
+<h6>SO:</h6>
 
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Zorin OS Badge](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white)
 ---
-<h4>Versionamento:</h4>
+<h6>Versionamento:</h6>
 
 ![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ---
-<h4>IDE's:</h4>
+<h6>IDE's:</h6>
 
 ![VS Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![NetBeans Badge](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
@@ -198,7 +198,7 @@
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Notepad++ Badge](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 ---
-<h4>Design:</h4>
+<h6>Design:</h6>
 
 ![Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Illustrator Badge](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
@@ -231,7 +231,7 @@
 
 <div id="soft-skills" align="center">
 
-### Soft skills:
+### SOFT SKILLS:
 
 | **Organização** | **Determinação** | **Diplomacia** | **Comprometimento** |
 | :---: | :---: | :---: | :---: |
@@ -243,7 +243,7 @@
 
 <div id="idiomas" align="center">
 
-### Idiomas:
+### IDIOMAS:
 
 |  Idioma   | Leitura | Escrita | Conversação |
 | :-------: | :-----: | :-----: | :---------: |

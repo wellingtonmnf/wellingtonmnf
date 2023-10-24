@@ -9,7 +9,7 @@
 <body>
 
 <!---APRESENTAÇÃO--->
-<div id="apresentação">
+<section id="apresentacao">
 
 ![Topo README.md](imagens/topo-readme.png)
 
@@ -20,7 +20,8 @@
 - 📫 Você pode acompanhar minha transição lendo o meu blog [**Algoritmo Biomimético**](https://medium.com/algoritmo-biomimetico) 
 
 ---
-<section id="resumo">
+
+<div id="resumo">
 
 <div id="avatar-01">
 
@@ -51,22 +52,25 @@
 
 </div>
 
+</div>
+
 </section>
 
-</div>
 <br/>
 
 ---
 
 <!---FORMAÇÃO E EXPERIÊNCIA PROFISSIONAL--->
 
-<div id="xp-prof">
+<section id="curriculo" align="center">
 
 <details>
 <summary><h2>FORMAÇÃO E EXPERIÊNCIA</h2></summary>
 
+<div id="form-xp">
+
 <details>
-<summary align="center"><h3>Formação Acadêmica:</h3></summary>
+<summary><h3>Formação Acadêmica:</h3></summary>
 
    * :classical_building: **Universidade Salvador (UNIFACS)** </br>
      :books: *Bacharelado em Arquitetura e Urbanismo | :calendar: 2010 - 2015*
@@ -78,6 +82,10 @@
      :books: *Ensino Médio | :calendar: 2005 - 2007*
 
 </details>
+
+</div>
+
+<div id="cursos-comp">
 
 <details>
 <summary><h3>Cursos Complementares:</h3></summary>
@@ -92,6 +100,10 @@
      :classical_building: *SENAI | :calendar: 2006*
 
 </details>
+
+</div>
+
+<div id="xp-prof">
 
 <details>
 <summary><h3>Experiência Profissional:</h3></summary>
@@ -130,11 +142,16 @@
      
 </details>  
 
+</div>
+
 </details>
-</div>   
+
+</section>   
 
 ---
 <!---TECNOLOGIAS/HABILIDADES--->
+
+<section id="tech-specs" align="center">
 
 <details>
 <summary><h2>TECNOLOGIAS/HABILIDADES</h2></summary>
@@ -239,10 +256,16 @@
 
 </details>
 
+</section>
+
 ---
 
 <!---STATUS--->
-<div id="status">
+
+<section id="status" align="center">
+
+<div id="cards">
+
 <details>
 <summary><h2>STATUS DO MEU GITHUB</h2></summary>
 
@@ -257,6 +280,8 @@
 
 </details>
 </div>
+
+</section>
 
 <!---CONTEÚDO LIVRE--->
 

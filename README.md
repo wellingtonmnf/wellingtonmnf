@@ -151,12 +151,6 @@
 <details>
 <summary><h3>TECNOLOGIAS/HABILIDADES</h3></summary>
 
-<div id="avatar-02" align="right">
-
-<img src="imagens/avatar-02.png" alt="Avatar 02" widht="250px" height="250px">
-
-</div>
-
 <div id="hard-skills" align="left">
 
 <details>

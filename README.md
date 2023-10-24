@@ -65,7 +65,7 @@
 <section id="curriculo">
 
 <details>
-<summary><h2>FORMAÇÃO E EXPERIÊNCIA</h2></summary>
+<summary><h1>FORMAÇÃO E EXPERIÊNCIA</h1></summary>
 
 <div id="formacao">
 
@@ -103,7 +103,7 @@
 <details>
 <summary><h2>EXPERIÊNCIA PROFISSIONAL:</h2></summary>
 
-   ### :arrows_counterclockwise: Transição de Carreira: 
+   ### :arrows_counterclockwise: Transição de Carreira | Pausa na carreira 
    * :arrows_counterclockwise: **Transição de carreira | Pausa na carreira**
 
      *:calendar: ago de 2022 - o momento · :hourglass: 5 meses* </br>
@@ -112,7 +112,7 @@
      + Pesquisa e estudo de mercado;
      + Retorno dos estudos na área de T.I. em busca de reinserção no mercado;
 
-   ### :construction_worker: Arquiteto: 
+   ### :construction_worker: Arquiteto | Autônomo
    * :construction_worker: **Arquiteto | Autônomo**
 
      :calendar: *jan de 2016 - ago de 2022 · :hourglass: 6 anos 8 meses* </br>
@@ -125,7 +125,7 @@
      + Execução de reformas;
      + Laudos Técnicos;
 
-   ### :postbox: Estagiário de Arquitetura:
+   ### :postbox: Estagiário de Arquitetura | Correios
    * :postbox: **Estagiário de Arquitetura | Correios**
 
      :calendar: *jun de 2012 - jun de 2014 · :hourglass: 2 anos 1 mês* </br>

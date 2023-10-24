@@ -152,7 +152,7 @@
      + Foco em adaptar espaços para cumprir requisitos de acessibilidade diante Termo de Compromisso de Ajuste de Conduta assinado pelos Correios, para democratizar o acesso de todas as pessoas as suas instalações;
      + Co-autor no desenvolvimento do projeto de reforma e adequação ao TCAC da agência dos Correios AC Correntina, situada no município de Correntina - BA;
      
-   <table id="tabelaspec">
+   <table id="tabelaspec" width="500px">
         <caption>Experiência Profissional:</caption>
         <tr>
             <td>Empresa</td>

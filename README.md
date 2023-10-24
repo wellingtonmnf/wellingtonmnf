@@ -159,8 +159,8 @@
 
 <div id="hard-skills" align="left">
 
-<details>
-<summary><h4>HARD SKILLS</h4></summary>
+<!--<details>
+<summary><h4>HARD SKILLS</h4></summary>-->
 
 <h5>Programação:</h5>
 
@@ -225,7 +225,7 @@
 ![Badge]()
 ---
 
-</details>
+<!--</details>-->
 </div>
 
 <div id="soft-skills" align="left">

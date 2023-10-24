@@ -81,6 +81,12 @@
    * :classical_building: **Escola Reitor Miguel Calmon - SESI Retiro** </br>
      :books: *Ensino Médio | :calendar: 2005 - 2007*
 
+  | Instituição | Curso | Período |
+  | :---: | :---: | :---: |
+  | UNIFACS | Arq & Urb | 2010-2015 |
+  | SENAI | T.I. | 2007-2008 |
+  | SESI | Ensino Médio | 2005-2007 |
+
 </details>
 
 </div>
@@ -227,6 +233,7 @@
 ![Badge]()
 ![Badge]()
 ![Badge]()
+---
 
 </div>
 

@@ -157,33 +157,33 @@ You can click the Preview link to take a look at your changes.
 <details>
 <summary><h4>HARD SKILLS</h4></summary>
 
-<h5>Programação:</h5>
+#### Programação:
 
 ![Java Badge]()
 ![Apex Badge]()
 ---
-<h5>Desenvolvimento Web:</h5>
+#### Desenvolvimento Web:
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ---
-<h5>Banco de Dados</h5>
+#### Banco de Dados
 
 ![MySQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ---
-<h5>SO:</h5>
+#### SO:
 
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Zorin OS Badge](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white)
 ---
-<h5>Versionamento:</h5>
+#### Versionamento:
 
 ![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ---
-<h5>IDE's:</h5>
+#### IDE's:
 
 ![VS Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![NetBeans Badge](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
@@ -191,27 +191,27 @@ You can click the Preview link to take a look at your changes.
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Notepad++ Badge](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 ---
-<h5>Design:</h5>
+#### Design:
 
 ![Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Illustrator Badge](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ---
-<h5>Manutenção de Micro:</h5>
+#### Manutenção de Micro:
 
 ![Manutenção de Micro Badge]()
 ---
-<h5>Arquitetura:</h5>
+#### Arquitetura:
 
 ![AutoCAD Badge]()
 ![Revit Badge]()
 ![SketchUp Badge]()
 ![Lumion 3D Badge]()
 ---
-<h5>Escrita:</h5>
+#### Escrita:
 
 ![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 ---
-<h5>Interesses:</h5>
+#### Interesses:
 
 ![Salesforce Badge](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 ![Badge]()

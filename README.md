@@ -24,6 +24,8 @@ You can click the Preview link to take a look at your changes.
 - :man_technologist: Estou em transição de carreira, estudando para me tornar um Programador Salesforce
 - 📫 Você pode acompanhar minha transição lendo o meu blog [**Algoritmo Biomimético**](https://medium.com/algoritmo-biomimetico) 
 
+## #OpentoWork
+
 ---
 
 <div id="resumo">
@@ -272,6 +274,34 @@ You can click the Preview link to take a look at your changes.
 
 <div id="cards" align="center">
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+<table id="tabelacard" align="center" border="0">
+    <caption>Cards de Status</caption>
+    <tr>
+      <td>                            
+          <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=wellingtonmnf&locale=pt-br&show_icons=true&theme=algolia"/>
+          <br></br>
+          <img  align="center"  src="https://streak-stats.demolab.com/?user=wellingtonmnf&locale=pt-br&theme=algolia"/>
+      </td>
+      <td>                            
+          <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonmnf&locale=pt-br&layout=compact"/>
+      </td>
+    </tr> 
+    <tr>
+      <td>
+          <img  colspan="2" align="center"  src="https://github-readme-activity-graph.vercel.app/graph?username=wellingtonmnf&locale=pt-br&theme=react-dark"/>
+      </td>
+    </tr> 
+    <tr>
+      <td>
+          <img  colspan="2" align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=wellingtonmnf&repo=github-readme-stats&locale=pt-br"/>
+      </td>
+    </tr>     
+
+</table>
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellingtonmnf&locale=pt-br&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonmnf&locale=pt-br&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -280,6 +310,8 @@ You can click the Preview link to take a look at your changes.
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wellingtonmnf&locale=pt-br&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonmnf&repo=github-readme-stats&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 </div>
 
@@ -292,17 +324,6 @@ You can click the Preview link to take a look at your changes.
 <!---RODAPÉ--->
 
 <footer id="rodape">
-
-<!-->
-<details>
-<summary><h3>RODAPÉ</h3></summary>
-
-<div id="xxx" align="center">
-
-</div>
-
-</details>
--->
 
 ![Rodapé do skyline de Salvador README.md](imagens/rodape-readme.png)
 

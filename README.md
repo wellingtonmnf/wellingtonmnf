@@ -65,14 +65,14 @@
 <section id="curriculo">
 
 <details>
-<summary><h1>FORMAÇÃO E EXPERIÊNCIA</h1></summary>
+<summary><h3>FORMAÇÃO E EXPERIÊNCIA</h3></summary>
 
 <div id="formacao">
 
 <details>
-<summary><h2>FORMAÇÃO:</h2></summary>
+<summary><h3>FORMAÇÃO:</h3></summary>
 
-   ## Acadêmica
+   ### Acadêmica
 
    * :classical_building: **Universidade Salvador (UNIFACS)** </br>
      :books: *Bacharelado em Arquitetura e Urbanismo | :calendar: 2010 - 2015*
@@ -83,7 +83,7 @@
    * :classical_building: **Escola Reitor Miguel Calmon - SESI Retiro** </br>
      :books: *Ensino Médio | :calendar: 2005 - 2007*
 
-  ## Complementar
+  ### Complementar
 
    * :books: **Estruturas para Arquitetos (:hourglass: 48 horas)** </br>
      :classical_building: *SENAI - CIMATEC | :calendar: 2017*
@@ -101,7 +101,7 @@
 <div id="xp-prof">
 
 <details>
-<summary><h2>EXPERIÊNCIA PROFISSIONAL:</h2></summary>
+<summary><h3>EXPERIÊNCIA PROFISSIONAL:</h3></summary>
 
    ### :arrows_counterclockwise: Transição de Carreira | Pausa na carreira 
    * :arrows_counterclockwise: **Transição de carreira | Pausa na carreira**
@@ -152,7 +152,7 @@
 <section id="tech-specs">
 
 <details>
-<summary><h2>TECNOLOGIAS/HABILIDADES</h2></summary>
+<summary><h3>TECNOLOGIAS/HABILIDADES</h3></summary>
 
 <div id="avatar-02" align="center">
 
@@ -264,7 +264,7 @@
 <section id="status">
 
 <details>
-<summary><h2>STATUS DO MEU GITHUB</h2></summary>
+<summary><h3>STATUS DO MEU GITHUB</h3></summary>
 
 <div id="cards" align="center">
 

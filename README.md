@@ -287,19 +287,22 @@ You can click the Preview link to take a look at your changes.
 
 </section>
 
-<!---CONTEÚDO LIVRE--->
+---
+
+<!---RODAPÉ--->
 
 <footer id="rodape">
 
+<!-->
 <details>
 <summary><h3>RODAPÉ</h3></summary>
 
 <div id="xxx" align="center">
 
-
 </div>
 
 </details>
+-->
 
 ![Rodapé do skyline de Salvador README.md](imagens/rodape-readme.png)
 

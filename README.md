@@ -73,7 +73,6 @@
 <summary><h3>FORMAÇÃO:</h3></summary>
 
    #### Acadêmica
-   ---
 
    * :classical_building: **Universidade Salvador (UNIFACS)** </br>
      :books: *Bacharelado em Arquitetura e Urbanismo | :calendar: 2010 - 2015*
@@ -85,7 +84,6 @@
      :books: *Ensino Médio | :calendar: 2005 - 2007*
 
   #### Complementar
-  ---
 
    * :books: **Estruturas para Arquitetos (:hourglass: 48 horas)** </br>
      :classical_building: *SENAI - CIMATEC | :calendar: 2017*
@@ -106,7 +104,6 @@
 <summary><h3>EXPERIÊNCIA PROFISSIONAL:</h3></summary>
 
    #### :arrows_counterclockwise: Transição de Carreira | Pausa na carreira
-   ---
 
      :calendar: **ago de 2022 - o momento · :hourglass: 5 meses** </br>
      :mailbox_closed: *Salvador, Bahia*
@@ -115,7 +112,6 @@
      + Retorno dos estudos na área de T.I. em busca de reinserção no mercado;
 
    #### :construction_worker: Arquiteto | Autônomo
-   ---
 
      :calendar: **jan de 2016 - ago de 2022 · :hourglass: 6 anos 8 meses** </br>
      :mailbox_closed: *Salvador e Região, Brasil*
@@ -128,7 +124,6 @@
      + Laudos Técnicos;
 
    #### :postbox: Estagiário de Arquitetura | Correios
-   ---
 
      :calendar: **jun de 2012 - jun de 2014 · :hourglass: 2 anos 1 mês** </br>
      :mailbox_closed: *Salvador*
@@ -164,7 +159,8 @@
 
 <div id="hard-skills" align="center">
 
-#### HARD SKILLS:
+<details>
+<summary><h4>HARD SKILLS</h4></summary>
 
 <h5>Programação:</h5>
 
@@ -229,11 +225,13 @@
 ![Badge]()
 ---
 
+</details>
 </div>
 
 <div id="soft-skills" align="center">
 
-### SOFT SKILLS:
+<details>
+<summary><h4>SOFT SKILLS</h4></summary>
 
 | **Organização** | **Determinação** | **Diplomacia** | **Comprometimento** |
 | :---: | :---: | :---: | :---: |
@@ -241,11 +239,13 @@
 | **Empatia** | **Auto-avaliação** | **Busca por aprendizado** | **Comunicação Escrita** |
 | ![Empatia Badge]() | ![Auto-avaliação Badge]() | ![Busca por aprendizado Badge]() | ![Comunicação Escrita Badge]() | 
 
+</details>
 </div>
 
 <div id="idiomas" align="center">
 
-### IDIOMAS:
+<details>
+<summary><h4>IDIOMAS</h4></summary>
 
 |  Idioma   | Leitura | Escrita | Conversação |
 | :-------: | :-----: | :-----: | :---------: |
@@ -253,6 +253,7 @@
 |  Inglês   |   Boa   |   Boa   |    Médio    |
 | Espanhol  |   Boa   |  Baixa  |     Não     |
 
+</details>
 </div>
 
 </details>

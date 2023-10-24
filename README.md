@@ -24,8 +24,6 @@ You can click the Preview link to take a look at your changes.
 - :man_technologist: Estou em transição de carreira, estudando para me tornar um Programador Salesforce
 - 📫 Você pode acompanhar minha transição lendo o meu blog [**Algoritmo Biomimético**](https://medium.com/algoritmo-biomimetico) 
 
-#### #OpentoWork
-
 ---
 
 <div id="resumo">
@@ -37,6 +35,8 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div id="txt-resumo" align="left" widht="320px" text-align="justify">
+
+#### #OpentoWork
 
 <p>Sou um profissional que se encontra em transição de carreira. Depois de anos na área de Arquitetura e Urbanismo, retorno aos estudos de T.I. para construir um portfólio e me reinserir no mercado.</p>
 
@@ -144,6 +144,20 @@ You can click the Preview link to take a look at your changes.
 
 </details>  
 
+<div id="idiomas" align="left">
+
+<details>
+<summary><h4>IDIOMAS</h4></summary>
+
+|  Idioma   | Leitura | Escrita | Conversação |
+| :-------: | :-----: | :-----: | :---------: |
+| Português | Nativo  | Nativo  |   Nativo    |
+|  Inglês   |   Boa   |   Boa   |    Médio    |
+| Espanhol  |   Boa   |  Baixa  |     Não     |
+
+</details>
+</div>
+
 </section>   
 
 ---
@@ -239,18 +253,21 @@ You can click the Preview link to take a look at your changes.
 </details>
 </div>
 
-<div id="idiomas" align="left">
+<div id="setups" align="left">
 
 <details>
-<summary><h4>IDIOMAS</h4></summary>
+<summary><h4>SETUPS</h4></summary>
 
-|  Idioma   | Leitura | Escrita | Conversação |
-| :-------: | :-----: | :-----: | :---------: |
-| Português | Nativo  | Nativo  |   Nativo    |
-|  Inglês   |   Boa   |   Boa   |    Médio    |
-| Espanhol  |   Boa   |  Baixa  |     Não     |
+* OS: MacOS 13 Ventura
+* Laptop: Macbook Air M1
+* Browser: Chrome & Safari
+* Terminal: ZSH: Oh My Zsh (PowerLevel10k)
+* Code Editor: VSCode - The best editor out there
+* Other Tools: Postman, Notion, Bitwarden and Raindrop
+* To Stay Updated: Twitter, Product Hunt and Hacker News
 
 </details>
+
 </div>
 
 <div id="avatar-02" align="right">
@@ -265,6 +282,8 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
+![LInha divisória README.md](imagens/linha-div.png)
+
 <!---STATUS--->
 
 <section id="status">
@@ -277,7 +296,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <table id="tabelacard" align="center" border="0">
-    <caption>Cards de Status</caption>
     <tr>
       <td width="50%" align="center">                            
           <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=wellingtonmnf&locale=pt-br&show_icons=true&theme=algolia"/>

@@ -20,23 +20,9 @@
 
 ---
 
-<div id="resumo" align="left" widht="320px">
-
-<p>Sou um profissional que se encontra em transição de carreira. Depois de anos na área de Arquitetura e Urbanismo, retorno aos estudos de T.I. para construir um portfólio e me reinserir no mercado.</p>
-
-<p>Tenho disposição para encarar mudanças. Aprendo, contribuo e evoluo diante das necessidades das demandas e oportunidades emergentes.</p>
-
-<p>Proficiente em softwares de edição de imagem e modelagem 3D.</p>
-
-</div>
-
 <div id="avatar-01">
 
 <img src="imagens/avatar-01.png" alt="Avatar 01" align="right" widht="500px" height="500px">
-
-<!--![Avatar 01](imagens/avatar-01.png)-->
-
-</div>
 
 ### Contatos:
 
@@ -46,6 +32,18 @@
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wellingtonmnf)
 [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://mailto:wellingtonmnf@outlook.com)
+
+</div>
+
+</div>
+
+<div id="resumo" align="left" widht="320px">
+
+<p>Sou um profissional que se encontra em transição de carreira. Depois de anos na área de Arquitetura e Urbanismo, retorno aos estudos de T.I. para construir um portfólio e me reinserir no mercado.</p>
+
+<p>Tenho disposição para encarar mudanças. Aprendo, contribuo e evoluo diante das necessidades das demandas e oportunidades emergentes.</p>
+
+<p>Proficiente em softwares de edição de imagem e modelagem 3D.</p>
 
 </div>
 
@@ -131,9 +129,7 @@
 <details>
 <summary><h2>TECNOLOGIAS/HABILIDADES</h2></summary>
 
-<div id="avatar-02" align="center" widht="500px" height="500px">
-
-![Avatar 02](imagens/avatar-02.png)
+<img src="imagens/avatar-02.png" alt="Avatar 02" align="center" widht="500px" height="500px">
 
 </div>
 

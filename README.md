@@ -62,7 +62,7 @@
 
 <!---FORMAÇÃO E EXPERIÊNCIA PROFISSIONAL--->
 
-<section id="curriculo" align="center">
+<section id="curriculo">
 
 <details>
 <summary><h2>FORMAÇÃO E EXPERIÊNCIA</h2></summary>
@@ -151,14 +151,14 @@
 ---
 <!---TECNOLOGIAS/HABILIDADES--->
 
-<section id="tech-specs" align="center">
+<section id="tech-specs">
 
 <details>
 <summary><h2>TECNOLOGIAS/HABILIDADES</h2></summary>
 
-<div id="avatar-02">
+<div id="avatar-02" align="center">
 
-<img src="imagens/avatar-02.png" alt="Avatar 02" align="center" widht="250px" height="250px">
+<img src="imagens/avatar-02.png" alt="Avatar 02" widht="250px" height="250px">
 
 </div>
 
@@ -262,12 +262,12 @@
 
 <!---STATUS--->
 
-<section id="status" align="center">
+<section id="status">
 
 <div id="cards">
 
 <details>
-<summary><h2>STATUS DO MEU GITHUB</h2></summary>
+<summary align="center"><h2>STATUS DO MEU GITHUB</h2></summary>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellingtonmnf&locale=pt-br&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonmnf&locale=pt-br&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

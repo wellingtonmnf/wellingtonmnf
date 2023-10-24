@@ -73,6 +73,7 @@
 <summary><h3>FORMAÇÃO:</h3></summary>
 
    #### Acadêmica
+   ---
 
    * :classical_building: **Universidade Salvador (UNIFACS)** </br>
      :books: *Bacharelado em Arquitetura e Urbanismo | :calendar: 2010 - 2015*
@@ -84,6 +85,7 @@
      :books: *Ensino Médio | :calendar: 2005 - 2007*
 
   #### Complementar
+  ---
 
    * :books: **Estruturas para Arquitetos (:hourglass: 48 horas)** </br>
      :classical_building: *SENAI - CIMATEC | :calendar: 2017*
@@ -103,19 +105,19 @@
 <details>
 <summary><h3>EXPERIÊNCIA PROFISSIONAL:</h3></summary>
 
-   #### :arrows_counterclockwise: Transição de Carreira | Pausa na carreira 
-   * :arrows_counterclockwise: **Transição de carreira | Pausa na carreira**
+   #### :arrows_counterclockwise: Transição de Carreira | Pausa na carreira
+   ---
 
-     *:calendar: ago de 2022 - o momento · :hourglass: 5 meses* </br>
+     :calendar: **ago de 2022 - o momento · :hourglass: 5 meses** </br>
      :mailbox_closed: *Salvador, Bahia*
 
      + Pesquisa e estudo de mercado;
      + Retorno dos estudos na área de T.I. em busca de reinserção no mercado;
 
    #### :construction_worker: Arquiteto | Autônomo
-   * :construction_worker: **Arquiteto | Autônomo**
+   ---
 
-     :calendar: *jan de 2016 - ago de 2022 · :hourglass: 6 anos 8 meses* </br>
+     :calendar: **jan de 2016 - ago de 2022 · :hourglass: 6 anos 8 meses** </br>
      :mailbox_closed: *Salvador e Região, Brasil*
 
      Atuação em:
@@ -126,9 +128,9 @@
      + Laudos Técnicos;
 
    #### :postbox: Estagiário de Arquitetura | Correios
-   * :postbox: **Estagiário de Arquitetura | Correios**
+   ---
 
-     :calendar: *jun de 2012 - jun de 2014 · :hourglass: 2 anos 1 mês* </br>
+     :calendar: **jun de 2012 - jun de 2014 · :hourglass: 2 anos 1 mês** </br>
      :mailbox_closed: *Salvador*
 
      + Auxílio na digitalização de croquis e cadastros;

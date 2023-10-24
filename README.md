@@ -319,6 +319,9 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wellingtonmnf&theme=transparent&locale=pt-br"/>
+
+
 </div>
 
 </details>

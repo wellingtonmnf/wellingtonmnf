@@ -110,11 +110,11 @@ You can click the Preview link to take a look at your changes.
 
    #### :arrows_counterclockwise: Transição de Carreira | Pausa na carreira
 
-      **ago de 2022 - o momento · :hourglass: 5 meses** </br>
-      *Salvador, Bahia*
+   :calendar: **ago de 2022 - o momento · :hourglass: 5 meses** </br>
+   :mailbox_closed: *Salvador, Bahia*
 
-     + Pesquisa e estudo de mercado;
-     + Retorno dos estudos na área de T.I. em busca de reinserção no mercado;
+   + Pesquisa e estudo de mercado;
+   + Retorno dos estudos na área de T.I. em busca de reinserção no mercado;
 
    #### :construction_worker: Arquiteto | Autônomo
 

@@ -105,7 +105,18 @@ You can click the Preview link to take a look at your changes.
 
 <div id="xp-prof">
 
- 
+<details>
+<summary><h4>EXPERIÊNCIA PROFISSIONAL:</h4></summary>
+
+   #### :arrows_counterclockwise: Transição de Carreira | Pausa na carreira
+
+     :calendar: **ago de 2022 - o momento · :hourglass: 5 meses** </br>
+     :mailbox_closed: *Salvador, Bahia*
+
+     + Pesquisa e estudo de mercado;
+     + Retorno dos estudos na área de T.I. em busca de reinserção no mercado;
+
+</details>  
 
 </div>
 

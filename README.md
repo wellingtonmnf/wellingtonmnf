@@ -292,7 +292,7 @@ You can click the Preview link to take a look at your changes.
 
 <div id="cards" align="center">
 
-<table id="tabelacard" align="center" border="0" color="#00A1E0">
+<table id="tabelacard" align="center" border="0" bordercolor="#00A1E0">
     <tr>
       <td width="50%" align="center">                            
           <img  align="center"  src="https://github-readme-stats-wellingtonmnf.vercel.app/api?username=wellingtonmnf&locale=pt-br&show_icons=true&theme=salesforce"/>

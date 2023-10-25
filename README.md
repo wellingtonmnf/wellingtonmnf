@@ -167,7 +167,7 @@ You can click the Preview link to take a look at your changes.
 <section id="tech-specs">
 
 <details>
-<summary><h3>TECNOLOGIAS/HABILIDADES</h3></summary>
+<summary><h3>TECHS | SKILLS</h3></summary>
 
 <div id="hard-skills" align="left">
 
@@ -288,11 +288,11 @@ You can click the Preview link to take a look at your changes.
 <section id="status">   
 
 <details>
-<summary><h3>STATUS DO MEU GITHUB</h3></summary>
+<summary><h3>STATUS | GITHUB</h3></summary>
 
 <div id="cards" align="center">
 
-<table id="tabelacard" align="center" border="1" bordercolor="#00A1E0">
+<table id="tabelacard" align="center" border="0">
     <tr>
       <td width="50%" align="center">                            
           <img  align="center"  src="https://github-readme-stats-wellingtonmnf.vercel.app/api?username=wellingtonmnf&locale=pt-br&show_icons=true&theme=salesforce"/>

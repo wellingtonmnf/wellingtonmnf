@@ -247,33 +247,34 @@ You can click the Preview link to take a look at your changes.
 
 <table id="soft-skills" align="left" border="0">
   <tr align="center">
-    <td width="100px" height="50px"><strong>Organização</strong></td>
-    <td width="100px" height="50px"><strong>Determinação</strong></td>
-    <td width="100px" height="50px"><strong>Diplomacia</strong></td>
-    <td width="100px" height="50px"><strong>Comprometimento</strong></td>
+    <td width="150px" height="50px"><strong>Organização</strong></td>
+    <td width="150px" height="50px"><strong>Determinação</strong></td>
+    <td width="150px" height="50px"><strong>Diplomacia</strong></td>
+    <td width="150px" height="50px"><strong>Comprometimento</strong></td>
   </tr>
   <tr align="center">
-    <td width="100px" height="100px"><img src="icones/organizacao.svg" width="75px" height="75px" alt="Organização"></td>
-    <td width="100px" height="100px"><img src="icones/determinacao.svg" width="75px" height="75px" alt="Determinação"></td>
-    <td width="100px" height="100px"><img src="icones/diplomacia.svg" width="75px" height="75px" alt="Diplomacia"></td>
-    <td width="100px" height="100px"><img src="icones/comprometimento.svg" width="75px" height="75px" alt="Comprometimento"></td>
+    <td width="150px" height="100px"><img src="icones/organizacao.svg" width="75px" height="75px" alt="Organização"></td>
+    <td width="150px" height="100px"><img src="icones/determinacao.svg" width="75px" height="75px" alt="Determinação"></td>
+    <td width="150px" height="100px"><img src="icones/diplomacia.svg" width="75px" height="75px" alt="Diplomacia"></td>
+    <td width="150px" height="100px"><img src="icones/comprometimento.svg" width="75px" height="75px" alt="Comprometimento"></td>
   </tr>
   <tr align="center">
-    <td width="100px" height="50px"><strong>Empatia</strong></td>
-    <td width="100px" height="50px"><strong>Auto-avaliação</strong></td>
-    <td width="100px" height="50px"><strong>Busca por aprendizado</strong></td>
-    <td width="100px" height="50px"><strong>Comunicação Escrita</strong></td>
+    <td width="150px" height="50px"><strong>Empatia</strong></td>
+    <td width="150px" height="50px"><strong>Auto-avaliação</strong></td>
+    <td width="150px" height="50px"><strong>Busca por aprendizado</strong></td>
+    <td width="150px" height="50px"><strong>Comunicação Escrita</strong></td>
   </tr>
   <tr align="center">
-    <td width="100px" height="100px"><img src="icones/empatia.svg" width="75px" height="75px" alt="Empatia"></td>
-    <td width="100px" height="100px"><img src="icones/auto-avaliacao.svg" width="75px" height="75px" alt="Auto-avaliação"></td>
-    <td width="100px" height="100px"><img src="icones/aprendizado.svg" width="75px" height="75px" alt="Busca por aprendizado"></td>
-    <td width="100px" height="100px"><img src="icones/com-escrita.svg" width="75px" height="75px" alt="Comunicação Escrita"></td>
+    <td width="150px" height="100px"><img src="icones/empatia.svg" width="75px" height="75px" alt="Empatia"></td>
+    <td width="150px" height="100px"><img src="icones/auto-avaliacao.svg" width="75px" height="75px" alt="Auto-avaliação"></td>
+    <td width="150px" height="100px"><img src="icones/aprendizado.svg" width="75px" height="75px" alt="Busca por aprendizado"></td>
+    <td width="150px" height="100px"><img src="icones/com-escrita.svg" width="75px" height="75px" alt="Comunicação Escrita"></td>
   </tr>
 </table>
 
 </details>
 </div>
+
 
 <div id="setups" align="left">
 

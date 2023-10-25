@@ -245,12 +245,12 @@ You can click the Preview link to take a look at your changes.
 <details>
 <summary><h4>SOFT SKILLS</h4></summary>
 
-<table>
+<table id="soft-skills" align="center" border="0">
   <tr>
-    <td width="100px" height="100px">Organização</td>
-    <td width="100px" height="100px">Determinação</td>
-    <td width="100px" height="100px">Diplomacia</td>
-    <td width="100px" height="100px">Comprometimento</td>
+    <td width="100px" height="50px"><strong>Organização</strong></td>
+    <td width="100px" height="50px"><strong>Determinação</strong></td>
+    <td width="100px" height="50px"><strong>Diplomacia</strong></td>
+    <td width="100px" height="50px"><strong>Comprometimento</strong></td>
   </tr>
   <tr>
     <td width="100px" height="100px"><img src="icones/organizacao.svg" width="75px" height="75px" alt="Organização"></td>
@@ -259,10 +259,10 @@ You can click the Preview link to take a look at your changes.
     <td width="100px" height="100px"><img src="icones/comprometimento.svg" width="75px" height="75px" alt="Comprometimento"></td>
   </tr>
   <tr>
-    <td width="100px" height="100px">Empatia</td>
-    <td width="100px" height="100px">Auto-avaliação</td>
-    <td width="100px" height="100px">Busca por aprendizado</td>
-    <td width="100px" height="100px">Comunicação Escrita</td>
+    <td width="100px" height="50px"><strong>Empatia</strong></td>
+    <td width="100px" height="50px"><strong>Auto-avaliação</strong></td>
+    <td width="100px" height="50px"><strong>Busca por aprendizado</strong></td>
+    <td width="100px" height="50px"><strong>Comunicação Escrita</strong></td>
   </tr>
   <tr>
     <td width="100px" height="100px"><img src="icones/empatia.svg" width="75px" height="75px" alt="Empatia"></td>
@@ -271,12 +271,6 @@ You can click the Preview link to take a look at your changes.
     <td width="100px" height="100px"><img src="icones/com-escrita.svg" width="75px" height="75px" alt="Comunicação Escrita"></td>
   </tr>
 </table>
-
-| **Organização** | **Determinação** | **Diplomacia** | **Comprometimento** |
-| :---: | :---: | :---: | :---: |
-| <img src="icones/organizacao.svg" width="75px" height="75px" alt="Organização"> | <img src="icones/determinacao.svg" width="75px" height="75px" alt="Determinação"> | <img src="icones/diplomacia.svg" width="75px" height="75px" alt="Diplomacia"> | <img src="icones/comprometimento.svg" width="75px" height="75px" alt="Comprometimento"> | 
-| **Empatia** | **Auto-avaliação** | **Busca por aprendizado** | **Comunicação Escrita** |
-| <img src="icones/empatia.svg" width="75px" height="75px" alt="Empatia"> | <img src="icones/auto-avaliacao.svg" width="75px" height="75px" alt="Auto-avaliação"> | <img src="icones/aprendizado.svg" width="75px" height="75px" alt="Busca por aprendizado"> | <img src="icones/com-escrita.svg" width="75px" height="75px" alt="Comunicação Escrita"> | 
 
 </details>
 </div>

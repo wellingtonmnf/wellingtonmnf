@@ -292,8 +292,6 @@ You can click the Preview link to take a look at your changes.
 
 <div id="cards" align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
 <table id="tabelacard" align="center" border="0">
     <tr>
       <td width="50%" align="center">                            
@@ -316,8 +314,6 @@ You can click the Preview link to take a look at your changes.
       </td>
     </tr>     
 </table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 </div>
 

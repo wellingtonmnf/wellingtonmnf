@@ -299,15 +299,15 @@ You can click the Preview link to take a look at your changes.
       <td width="50%" align="center">                            
           <img  align="center"  src="https://github-readme-stats-wellingtonmnf.vercel.app/api?username=wellingtonmnf&locale=pt-br&show_icons=true&theme=salesforce"/>
           <br></br>
-          <img  align="center"  src="https://github-readme-streak-stats-wellingtonmnf.vercel.app/?user=wellingtonmnf&locale=pt-br&theme=default"/>
+          <img  align="center"  src="https://github-readme-streak-stats-wellingtonmnf.vercel.app/?user=wellingtonmnf&locale=pt-br&theme=salesforce"/>
       </td>
       <td width="50%" align="center">                            
-          <img  align="center"  src="https://github-readme-stats-wellingtonmnf.vercel.app/api/top-langs/?username=wellingtonmnf&locale=pt-br&layout=compact&theme=default"/>
+          <img  align="center"  src="https://github-readme-stats-wellingtonmnf.vercel.app/api/top-langs/?username=wellingtonmnf&locale=pt-br&layout=compact&theme=salesforce"/>
       </td>
     </tr> 
     <tr>
       <td width="50%" colspan="2" align="center">
-          <img align="center"  src="https://github-readme-activity-graph-wellingtonmnf.vercel.app/graph?username=wellingtonmnf&locale=pt-br&theme=default"/>
+          <img align="center"  src="https://github-readme-activity-graph-wellingtonmnf.vercel.app/graph?username=wellingtonmnf&locale=pt-br&theme=salesforce"/>
       </td>
     </tr> 
     <tr>

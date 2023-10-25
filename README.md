@@ -297,7 +297,7 @@ You can click the Preview link to take a look at your changes.
 <table id="tabelacard" align="center" border="0">
     <tr>
       <td width="50%" align="center">                            
-          <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=wellingtonmnf&locale=pt-br&show_icons=true&theme=default"/>
+          <img  align="center"  src="https://github-readme-stats-wellingtonmnf.vercel.app/api?username=wellingtonmnf&locale=pt-br&show_icons=true&theme=salesforce"/>
           <br></br>
           <img  align="center"  src="https://streak-stats.demolab.com/?user=wellingtonmnf&locale=pt-br&theme=default"/>
       </td>

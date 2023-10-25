@@ -312,7 +312,7 @@ You can click the Preview link to take a look at your changes.
     </tr> 
     <tr>
       <td width="50%" colspan="2" align="center">
-          <img align="center"  src="https://github-readme-stats-wellingtonmnf.vercel.app/api/pin/?username=wellingtonmnf&repo=github-readme-stats&locale=pt-br"/>
+          <img align="center"  src="https://github-readme-stats-wellingtonmnf.vercel.app/api/pin/?username=wellingtonmnf&repo=github-readme-stats&locale=pt-br&theme=salesforce"/>
       </td>
     </tr>     
 </table>

@@ -247,9 +247,9 @@ You can click the Preview link to take a look at your changes.
 
 | **Organização** | **Determinação** | **Diplomacia** | **Comprometimento** |
 | :---: | :---: | :---: | :---: |
-| ![Organização Badge]() | ![Determinação Badge]() | ![Diplomacia Badge]() | ![Comprometimento Badge]() | 
+| ![Organização Badge](icones/organizacao.svg) | ![Determinação Badge](icones/determinacao.svg) | ![Diplomacia Badge](icones/diplomacia.svg) | ![Comprometimento Badge](icones/comprometimento.svg) | 
 | **Empatia** | **Auto-avaliação** | **Busca por aprendizado** | **Comunicação Escrita** |
-| ![Empatia Badge]() | ![Auto-avaliação Badge]() | ![Busca por aprendizado Badge]() | ![Comunicação Escrita Badge]() | 
+| ![Empatia Badge](icones/empatia.svg) | ![Auto-avaliação Badge](icones/auto-avaliacao.svg) | ![Busca por aprendizado Badge](icones/aprendizado.svg) | ![Comunicação Escrita Badge](icones/com-escrita.svg) | 
 
 </details>
 </div>

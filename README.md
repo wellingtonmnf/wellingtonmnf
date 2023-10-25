@@ -285,7 +285,7 @@ You can click the Preview link to take a look at your changes.
 
 <!---STATUS--->
 
-<section id="status">
+<section id="status">   
 
 <details>
 <summary><h3>STATUS DO MEU GITHUB</h3></summary>

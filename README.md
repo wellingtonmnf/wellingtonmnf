@@ -245,6 +245,33 @@ You can click the Preview link to take a look at your changes.
 <details>
 <summary><h4>SOFT SKILLS</h4></summary>
 
+<table>
+  <tr>
+    <td width="100px" height="100px">Organização</td>
+    <td width="100px" height="100px">Determinação</td>
+    <td width="100px" height="100px">Diplomacia</td>
+    <td width="100px" height="100px">Comprometimento</td>
+  </tr>
+  <tr>
+    <td width="100px" height="100px"><img src="icones/organizacao.svg" width="75px" height="75px" alt="Organização"></td>
+    <td width="100px" height="100px"><img src="icones/determinacao.svg" width="75px" height="75px" alt="Determinação"></td>
+    <td width="100px" height="100px"><img src="icones/diplomacia.svg" width="75px" height="75px" alt="Diplomacia"></td>
+    <td width="100px" height="100px"><img src="icones/comprometimento.svg" width="75px" height="75px" alt="Comprometimento"></td>
+  </tr>
+  <tr>
+    <td width="100px" height="100px">Empatia</td>
+    <td width="100px" height="100px">Auto-avaliação</td>
+    <td width="100px" height="100px">Busca por aprendizado</td>
+    <td width="100px" height="100px">Comunicação Escrita</td>
+  </tr>
+  <tr>
+    <td width="100px" height="100px"><img src="icones/empatia.svg" width="75px" height="75px" alt="Empatia"></td>
+    <td width="100px" height="100px"><img src="icones/auto-avaliacao.svg" width="75px" height="75px" alt="Auto-avaliação"></td>
+    <td width="100px" height="100px"><img src="icones/aprendizado.svg" width="75px" height="75px" alt="Busca por aprendizado"></td>
+    <td width="100px" height="100px"><img src="icones/com-escrita.svg" width="75px" height="75px" alt="Comunicação Escrita"></td>
+  </tr>
+</table>
+
 | **Organização** | **Determinação** | **Diplomacia** | **Comprometimento** |
 | :---: | :---: | :---: | :---: |
 | <img src="icones/organizacao.svg" width="75px" height="75px" alt="Organização"> | <img src="icones/determinacao.svg" width="75px" height="75px" alt="Determinação"> | <img src="icones/diplomacia.svg" width="75px" height="75px" alt="Diplomacia"> | <img src="icones/comprometimento.svg" width="75px" height="75px" alt="Comprometimento"> | 

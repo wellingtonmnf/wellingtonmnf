@@ -247,9 +247,9 @@ You can click the Preview link to take a look at your changes.
 
 | **Organização** | **Determinação** | **Diplomacia** | **Comprometimento** |
 | :---: | :---: | :---: | :---: |
-| <img src="icones/organizacao.svg" width="50px" height="50px" alt="Organização"> | ![Determinação Badge](icones/determinacao.svg) | ![Diplomacia Badge](icones/diplomacia.svg) | ![Comprometimento Badge](icones/comprometimento.svg) | 
+| <img src="icones/organizacao.svg" width="75px" height="75px" alt="Organização"> | <img src="icones/determinacao.svg" width="75px" height="75px" alt="Determinação"> | <img src="icones/diplomacia.svg" width="75px" height="75px" alt="Diplomacia"> | <img src="icones/comprometimento.svg" width="75px" height="75px" alt="Comprometimento"> | 
 | **Empatia** | **Auto-avaliação** | **Busca por aprendizado** | **Comunicação Escrita** |
-| ![Empatia Badge](icones/empatia.svg) | ![Auto-avaliação Badge](icones/auto-avaliacao.svg) | ![Busca por aprendizado Badge](icones/aprendizado.svg) | ![Comunicação Escrita Badge](icones/com-escrita.svg) | 
+| <img src="icones/empatia.svg" width="75px" height="75px" alt="Empatia"> | <img src="icones/auto-avaliacao.svg" width="75px" height="75px" alt="Auto-avaliação"> | <img src="icones/aprendizado.svg" width="75px" height="75px" alt="Busca por aprendizado"> | <img src="icones/com-escrita.svg" width="75px" height="75px" alt="Comunicação Escrita"> | 
 
 </details>
 </div>

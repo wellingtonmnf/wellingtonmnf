@@ -240,14 +240,14 @@ You can click the Preview link to take a look at your changes.
 </details>
 </div>
 
-<div id="soft-skills" align="left">
+<div id="soft-skills" align="left">  
 
 <details>
 <summary><h4>SOFT SKILLS</h4></summary>
 
 | **Organização** | **Determinação** | **Diplomacia** | **Comprometimento** |
 | :---: | :---: | :---: | :---: |
-| ![Organização Badge](icones/organizacao.svg) | ![Determinação Badge](icones/determinacao.svg) | ![Diplomacia Badge](icones/diplomacia.svg) | ![Comprometimento Badge](icones/comprometimento.svg) | 
+| <img src="icones/organizacao.svg" width="50px" height="50px" alt="Organização"> | ![Determinação Badge](icones/determinacao.svg) | ![Diplomacia Badge](icones/diplomacia.svg) | ![Comprometimento Badge](icones/comprometimento.svg) | 
 | **Empatia** | **Auto-avaliação** | **Busca por aprendizado** | **Comunicação Escrita** |
 | ![Empatia Badge](icones/empatia.svg) | ![Auto-avaliação Badge](icones/auto-avaliacao.svg) | ![Busca por aprendizado Badge](icones/aprendizado.svg) | ![Comunicação Escrita Badge](icones/com-escrita.svg) | 
 

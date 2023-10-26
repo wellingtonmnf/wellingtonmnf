@@ -305,7 +305,6 @@ You can click the Preview link to take a look at your changes.
 * **OS:** Windows 10
 * **Desktop:** ASUS TUF GAMING B550M-PLUS (Wi-Fi) | Ryzen 5 5600X | GeForce 3070Ti | RAM: 32 GB | SSD: 2,5 TB
 * **Navegadores:** Opera GX | Opera | Mozilla Firefox | Brave | Edge | Chrome
-
 --- 
 #### SETUP 02
 * **OS:** Zorin OS 16.3
@@ -313,7 +312,7 @@ You can click the Preview link to take a look at your changes.
 * **Navegadores:** Opera | Mozilla Firefox | Brave
 ---
 #### FERRAMENTAS
-* **Editores de código:** VSCode | NeBeans | Sublime Text | Notepad++
+* **Editores de código:** VSCode | NetBeans | Sublime Text | Notepad++
 * **Planejamento:** Trello | Notion
 
 </details>
@@ -382,14 +381,16 @@ You can click the Preview link to take a look at your changes.
 
 <footer id="rodape">
 
-### FUN FACTS
+### REFERÊNCIAS
 
-* Notícias: The News, Twitter, Product Hunt and Hacker News;
-* Livros: Essencialismo - Greg McKeown
-* Bandas: Audioslave; Green day;
-* Música: Simple Man (Acoustic Version) - Shinedown
+* **Notícias:** [The News](), [Twitter](), [CanalTech(https://canaltech.com.br/), [DevMedia](https://www.devmedia.com.br/artigos/)
+* **Blogs:** [Tera](https://blog.somostera.com/), [Data Hackers](https://www.datahackers.com.br/blog), [Curso em Vídeo](https://www.cursoemvideo.com/blog/), [](), []()
+* **Podcasts:** [ScubaDev](https://www.alura.com.br/podcasts/scubadev?gclid=Cj0KCQiA-oqdBhDfARIsAO0TrGEnlx7hLPurHUtgUEL42GT5pX54Vl6el69UVXwRElnxh0uadaO8FTkaAjQLEALw_wcB), [Data Hackers](https://www.datahackers.com.br/podcast), [CanalTech](https://canaltech.com.br/podcast/podcast-canaltech/), [Porta 101](https://canaltech.com.br/podcast/porta-101/)
+* **Livros:** Essencialismo - Greg McKeown
+* **Bandas:** Audioslave; Green day;
+* **Música:** Simple Man (Acoustic Version) - Shinedown
 
-<p align="center">Com muito orgulho, com muito amor, eu sou de...</p>
+<p align="center"><h4>Com muito orgulho, com muito amor, eu sou de...</h4></p>
 
 ![Rodapé do skyline de Salvador README.md](imagens/rodape-readme.png)
 

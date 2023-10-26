@@ -152,28 +152,28 @@ You can click the Preview link to take a look at your changes.
 
 <table id="table-lang" border="0">
 <tr>
-  <td><strong>Idioma<</strong>/td>
-  <td><strong>Leitura<</strong>/td>
-  <td><strong>Escrita<</strong>/td>
+  <td><strong>Idioma</strong></td>
+  <td><strong>Leitura</strong></td>
+  <td><strong>Escrita</strong></td>
   <td><strong>Conversação</strong></td>
 </tr>
-<tr>
-  <td><em>Português</em></td>
-  <td>Nativo</td>
-  <td>Nativo</td>
-  <td>Nativo</td>
+<tr align="center">
+  <td align="left">Português</td>
+  <td><em>Nativo</em></td>
+  <td><em>Nativo</em></td>
+  <td><em>Nativo</em></td>
 </tr>
-<tr>
-  <td><em>Inglês</em></td>
-  <td>Bom</td>
-  <td>Bom</td>
-  <td>Intermediário</td>
+<tr align="center">
+  <td align="left">Inglês</td>
+  <td><em>Bom</em></td>
+  <td><em>Bom</em></td>
+  <td><em>Intermediário</em></td>
 </tr>
-<tr>
-  <td><em>Espanhol</em></td>
-  <td>Bom</td>
-  <td>Baixo</td>
-  <td> - </td>
+<tr align="center">
+  <td align="left">Espanhol</td>
+  <td><em>Bom</em></td>
+  <td><em>Baixo</em></td>
+  <td><em> - </em></td>
 </tr>
 </table>
 

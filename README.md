@@ -21,9 +21,9 @@ You can click the Preview link to take a look at your changes.
 ## Olá, eu sou o [**Wellington**](https://github.com/wellingtonmnf) 👋
 
 - :man_technologist: Estou em processo de transição de carreira, estudando para me tornar um Desenvolvedor Salesforce
-- 🌱 Eu estou aprendendo atualmente Salesforce(CRM), Apex, HTML5, CSS3 e JavaScript
+- 🌱 Eu estou aprendendo atualmente Salesforce (CRM), Apex, HTML5, CSS3 e JavaScript
 - 👀 Me interesso por: Programação, Desenvolvimento Web, Análise de Dados, Design Gráfico e Arquitetura e Urbanismo
-- :thumbsup: Também gosto de escutar músicas e podcasts :headphones:, viajar :airplane:, sair com os amigos :man: :bearded_person: :woman: :curly_haired_woman: e do E.C. Vitória! :lion: :red_circle: :black_circle: :soccer:
+- :thumbsup: Também gosto de escutar músicas e podcasts :headphones:, viajar e conhecer novos lugares :airplane::world_map::national_park:, sair com os amigos :man: :bearded_person: :woman: :curly_haired_woman: e do E.C. Vitória! :lion: :red_circle: :black_circle: :soccer:
 - :open_book: Você pode acompanhar minha transição de carreira lendo o meu blog [**Algoritmo Biomimético**](https://medium.com/algoritmo-biomimetico) :electron:
 
 ![LInha divisória README.md](imagens/linha-div.png)

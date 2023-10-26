@@ -383,14 +383,18 @@ You can click the Preview link to take a look at your changes.
 
 ### REFERÊNCIAS
 
-* **Notícias:** [The News](), [Twitter](), [CanalTech(https://canaltech.com.br/), [DevMedia](https://www.devmedia.com.br/artigos/)
-* **Blogs:** [Tera](https://blog.somostera.com/), [Data Hackers](https://www.datahackers.com.br/blog), [Curso em Vídeo](https://www.cursoemvideo.com/blog/), [](), []()
-* **Podcasts:** [ScubaDev](https://www.alura.com.br/podcasts/scubadev?gclid=Cj0KCQiA-oqdBhDfARIsAO0TrGEnlx7hLPurHUtgUEL42GT5pX54Vl6el69UVXwRElnxh0uadaO8FTkaAjQLEALw_wcB), [Data Hackers](https://www.datahackers.com.br/podcast), [CanalTech](https://canaltech.com.br/podcast/podcast-canaltech/), [Porta 101](https://canaltech.com.br/podcast/porta-101/)
-* **Livros:** Essencialismo - Greg McKeown
-* **Bandas:** Audioslave; Green day;
+* **Notícias:** [The News](https://thenewscc.com.br/) | [Twitter](htts://twitter.com) | [CanalTech](https://canaltech.com.br/) | [DevMedia](https://www.devmedia.com.br/artigos/)
+* **Blogs:** [Tera](https://blog.somostera.com/) | [Data Hackers](https://www.datahackers.com.br/blog) | [Curso em Vídeo](https://www.cursoemvideo.com/blog/) |
+* **Podcasts:** [ScubaDev](https://www.scuba.dev.br/) | [Data Hackers](https://www.datahackers.com.br/podcast) | [CanalTech](https://canaltech.com.br/podcast/podcast-canaltech/) | [Porta 101](https://canaltech.com.br/podcast/porta-101/)
+* **Livros:** [Essencialismo - Greg McKeown] (https://www.amazon.com.br/Essencialismo-disciplinada-busca-por-menos-ebook/dp/B00WJ1L21O/ref=sr_1_1?keywords=essencialismo+greg+mckeown&sr=8-1)
+* **Bandas:** [Audioslave](https://music.amazon.com.br/artists/B0012292WC/audioslave); [Green Day](https://music.amazon.com.br/artists/B000QJJOSO/green-day);
 * **Música:** Simple Man (Acoustic Version) - Shinedown
 
-<p align="center"><h4>Com muito orgulho, com muito amor, eu sou de...</h4></p>
+<iframe id='AmazonMusicEmbedB002ECS928' src='https://music.amazon.com.br/embed/B002ECS928/?id=7wKVuofs19&marketplaceId=ART4WZ8MWBX2Y&musicTerritory=BR' width='100%' height='352px' frameBorder='0' style='border-radius:20px;border:1px solid rgba(0, 0, 0, 0.12);max-width:500px'></iframe>
+
+<div id="salvador" align="center">
+<h4>Com muito orgulho, com muito amor, eu sou de...</h4>
+</div>
 
 ![Rodapé do skyline de Salvador README.md](imagens/rodape-readme.png)
 

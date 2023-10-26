@@ -197,7 +197,7 @@ You can click the Preview link to take a look at your changes.
 
 #### Programação:
 
-![Java Badge]()
+![Java Badge](https://img.shields.io/badge/java-red?style=for-the-badge&logo=CoffeeScript&logoColor=white)
 ![Apex Badge]()
 ---
 #### Desenvolvimento Web:
@@ -252,7 +252,7 @@ You can click the Preview link to take a look at your changes.
 #### Interesses:
 
 ![Salesforce Badge](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
-![Badge]()
+![Trello Badge](https://img.shields.io/badge/planning-blue?style=for-the-badge&logo=Trello&logoColor=white)
 ![Badge]()
 ![Badge]()
 ![Badge]()
@@ -313,6 +313,7 @@ You can click the Preview link to take a look at your changes.
 ---
 #### FERRAMENTAS
 * **Editores de código:** VSCode | NetBeans | Sublime Text | Notepad++
+* **Design:** Illustrator | Photoshop
 * **Planejamento:** Trello | Notion
 
 </details>

@@ -296,6 +296,8 @@ You can click the Preview link to take a look at your changes.
 </details>
 </div>
 
+<div><br/></div>
+
 <div id="setups" align="left">
 
 <details>
@@ -307,7 +309,7 @@ You can click the Preview link to take a look at your changes.
 * Terminal: ZSH: Oh My Zsh (PowerLevel10k)
 * Code Editor: VSCode, NeBeans, Sublime Text, Notepad++
 * Other Tools: Trello, Notion,
-
+--- 
 * OS: Zorin OS 16.3
 * Laptop: Dell Inspiton 15
 * Browser: Opera, Mozilla Firefox e Brave
@@ -381,9 +383,14 @@ You can click the Preview link to take a look at your changes.
 
 <footer id="rodape">
 
-## FUN FACTS
+### FUN FACTS
 
-* Para me atualizar: Twitter, Product Hunt and Hacker News
+* Notícias: The News, Twitter, Product Hunt and Hacker News;
+* Livros: Essencialismo - Greg McKeown
+* Bandas: Audioslave; Green day;
+* Música: Simple Man (Acoustic Version) - Shinedown
+
+<p align="center">Com muito orgulho, com muito amor, eu sou de...</p>
 
 ![Rodapé do skyline de Salvador README.md](imagens/rodape-readme.png)
 

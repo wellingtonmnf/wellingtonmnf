@@ -202,58 +202,58 @@ You can click the Preview link to take a look at your changes.
 ---
 #### Desenvolvimento Web:
 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=999999&logo=html5&logoColor=white)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=999999&logo=css3&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&labelColor=999999&logo=JavaScript&logoColor=white)
 ---
 #### Banco de Dados
 
-![MySQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&labelColor=999999&logo=mysql&logoColor=white)
+![PSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&labelColor=999999&logo=postgresql&logoColor=white)
 ---
 #### SO:
 
-![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Zorin OS Badge](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white)
+![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&labelColor=999999&logo=windows&logoColor=white)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&labelColor=999999&logo=linux&logoColor=black)
+![Zorin OS Badge](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&labelColor=999999&logo=zorin&logoColor=white)
 ---
 #### Versionamento:
 
-![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&labelColor=999999&logo=git&logoColor=white)
 ---
 #### IDE's:
 
-![VS Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![NetBeans Badge](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
-![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
-![Notepad++ Badge](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
+![VS Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&labelColor=999999&logo=visual%20studio%20code&logoColor=white)
+![NetBeans Badge](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&labelColor=999999&logo=apache%20netbeans%20IDE&logoColor=white)
+![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&labelColor=999999&logo=github&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&labelColor=999999&logo=sublime-text&logoColor=important)
+![Notepad++ Badge](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&labelColor=999999&logo=notepad%2B%2B&logoColor=black)
 ---
 #### Design:
 
-![Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Illustrator Badge](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&labelColor=999999&logo=Adobe%20Photoshop&logoColor=black)
+![Illustrator Badge](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&labelColor=999999&logo=adobe%20illustrator&logoColor=white)
 ---
 #### Manutenção de Micro: 
 
-![Manutenção de Micro Badge](https://img.shields.io/badge/Manutenção%20de%20Micro-B0C4DE?style=for-the-badge&logo=PCGamingWiki&logoColor=white)
+![Manutenção de Micro Badge](https://img.shields.io/badge/Manutenção%20de%20Micro-B0C4DE?style=for-the-badge&labelColor=999999&logo=PCGamingWiki&logoColor=white)
 ---
 #### Arquitetura:
 
-![AutoCAD Badge](https://img.shields.io/badge/autocad-c34922?style=for-the-badge&logo=autodesk&logoColor=white)
-![Revit Badge](https://img.shields.io/badge/revit-186BFF?style=for-the-badge&logo=autodesk%20revit&logoColor=white)
-![SketchUp Badge](https://img.shields.io/badge/sketchup-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
-![Lumion 3D Badge](https://img.shields.io/badge/lumion-007aff?style=for-the-badge&logo=spring&logoColor=white)
+![AutoCAD Badge](https://img.shields.io/badge/autocad-c34922?style=for-the-badge&labelColor=999999&logo=autodesk&logoColor=white)
+![Revit Badge](https://img.shields.io/badge/revit-186BFF?style=for-the-badge&labelColor=999999&logo=autodesk%20revit&logoColor=white)
+![SketchUp Badge](https://img.shields.io/badge/sketchup-005F9E?style=for-the-badge&labelColor=999999&logo=sketchup&logoColor=white)
+![Lumion 3D Badge](https://img.shields.io/badge/lumion-007aff?style=for-the-badge&labelColor=999999&logo=spring&logoColor=white)
 ---
 #### Escrita:
 
-![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&labelColor=999999&logo=medium&logoColor=white)
 ---
 #### Interesses:
 
-![Salesforce Badge](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
-![Trello Badge](https://img.shields.io/badge/trello-blue?style=for-the-badge&logo=Trello&logoColor=white)
-![Office Badge](https://img.shields.io/badge/microsoft%20office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Salesforce Badge](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&labelColor=999999&logo=Salesforce&logoColor=white)
+![Trello Badge](https://img.shields.io/badge/trello-blue?style=for-the-badge&labelColor=999999&logo=Trello&logoColor=white)
+![Office Badge](https://img.shields.io/badge/microsoft%20office-D83B01?style=for-the-badge&labelColor=999999&logo=microsoft-office&logoColor=white)
 ---
 
 </details>

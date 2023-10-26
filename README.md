@@ -18,12 +18,13 @@ You can click the Preview link to take a look at your changes.
 
 ![Topo README.md](imagens/topo-readme.png)
 
-## Olá, eu sou o [**Wellington**](https://github.com/wellingtonmnf) 👋
+## 👋 Olá, eu sou o [**Wellington**](https://github.com/wellingtonmnf)
 
-- 🌱 Eu estou aprendendo atualmente Salesforce, Apex, HTML5, CSS3 e JavaScript
-- 👀 Me interesso por: Programação, Desenvolvimento Web, Salesforce, Análise de Dados, Design Gráfico e Arquitetura e Urbanismo
-- :man_technologist: Estou em transição de carreira, estudando para me tornar um Programador Salesforce
-- 📫 Você pode acompanhar minha transição lendo o meu blog [**Algoritmo Biomimético**](https://medium.com/algoritmo-biomimetico) 
+- :man_technologist: Estou em processo de transição de carreira, estudando para me tornar um Desenvolvedor Salesforce
+- 🌱 Eu estou aprendendo atualmente Salesforce(CRM), Apex, HTML5, CSS3 e JavaScript
+- 👀 Me interesso por: Programação, Desenvolvimento Web, Análise de Dados, Design Gráfico e Arquitetura e Urbanismo
+- :thumbsup: Também gosto de escutar músicas e podcasts :headphones:, sair com os amigos :man: :bearded_person: :woman: :curly_haired_woman: e do E.C. Vitória! :lion: :red_circle: :black_circle: :soccer:
+- :open_book: Você pode acompanhar minha transição de carreira lendo o meu blog [**Algoritmo Biomimético**](https://medium.com/algoritmo-biomimetico) 
 
 ![LInha divisória README.md](imagens/linha-div.png)
 
@@ -37,19 +38,19 @@ You can click the Preview link to take a look at your changes.
 
 <div id="txt-resumo" align="left" widht="320px" text-align="justify">
 
-#### #OpentoWork
+#### #OpentoWork :man_mechanic:
 
-<p>Sou um profissional que se encontra em transição de carreira. Depois de anos na área de Arquitetura e Urbanismo, retorno aos estudos de T.I. para construir um portfólio e me reinserir no mercado.</p>
+<p>Depois de anos atuando como Arquiteto e Urbanista, retorno aos estudos na área de T.I. para construir um portfólio e me reinserir no mercado de trabalho.</p>
 
-<p>Tenho disposição para encarar mudanças. Aprendo, contribuo e evoluo diante das necessidades das demandas e oportunidades emergentes.</p>
+<p>Encaro essa mudança com muita disposição e entusiasmo, aprendendo, contribuindo e evoluindo diante das necessidades, das demandas e das oportunidades emergentes.</p>
 
-<p>Proficiente em softwares de edição de imagem e modelagem 3D.</p>
+<p>Sou proficiente em softwares de edição de imagem e modelagem 3D.</p>
 
 </div>
 
 ---
 
-### Contatos:
+### Contatos: :calling:
 
 <div id="contato" align='center'> 
 
@@ -73,7 +74,7 @@ You can click the Preview link to take a look at your changes.
 <section id="curriculo">
 
 <details>
-<summary><h3>CURRÍCULO</h3></summary>
+<summary><h3>:page_facing_up: CURRÍCULO</h3></summary>
 
 <div id="formacao">
 

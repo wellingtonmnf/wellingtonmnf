@@ -390,8 +390,6 @@ You can click the Preview link to take a look at your changes.
 * **Bandas:** [Audioslave](https://music.amazon.com.br/artists/B0012292WC/audioslave)|[Green Day](https://music.amazon.com.br/artists/B000QJJOSO/green-day)
 * **Música:** Simple Man (Acoustic Version) - Shinedown
 
-<iframe align="center" id='AmazonMusicEmbedB002ECS928' src='https://music.amazon.com.br/embed/B002ECS928/?id=7wKVuofs19&marketplaceId=ART4WZ8MWBX2Y&musicTerritory=BR' width='100%' height='352px' frameBorder='0' style='border-radius:20px;border:1px solid rgba(0, 0, 0, 0.12);max-width:500px'></iframe>
-
 ---
 
 <div id="salvador" align="center">

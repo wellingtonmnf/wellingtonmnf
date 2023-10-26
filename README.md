@@ -271,7 +271,7 @@ You can click the Preview link to take a look at your changes.
     <td width="150px" height="100px"><img src="icones/com-escrita.svg" width="75px" height="75px" alt="Comunicação Escrita"></td>
   </tr>
 </table>
-
+</br>
 </details>
 </div>
 

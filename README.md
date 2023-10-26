@@ -301,12 +301,12 @@ You can click the Preview link to take a look at your changes.
 <details>
 <summary><h4>SETUPS</h4></summary>
 
-#### SETUP 01
+#### SETUP \_#\_01
 * **OS:** Windows 10
 * **Desktop:** ASUS TUF GAMING B550M-PLUS (Wi-Fi) | Ryzen 5 5600X | GeForce 3070Ti | RAM: 32 GB | SSD: 2,5 TB
 * **Navegadores:** Opera GX | Opera | Mozilla Firefox | Brave | Edge | Chrome
 --- 
-#### SETUP 02
+#### SETUP \_#\_02
 * **OS:** Zorin OS 16.3
 * **Laptop:** Dell Vostro 3550 | i5-2430M | Intel® HD Graphics 3000 | RAM: 16 GB | SSD: 1 TB
 * **Navegadores:** Opera | Mozilla Firefox | Brave

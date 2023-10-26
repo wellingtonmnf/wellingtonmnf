@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### Contatos: :calling:
+### Contatos: :iphone:
 
 <div id="contato" align='center'> 
 
@@ -194,7 +194,7 @@ You can click the Preview link to take a look at your changes.
 <div id="hard-skills" align="left">
 
 <details>
-<summary><h4>:triangular_ruler: HARD SKILLS</h4></summary>
+<summary><h4>HARD SKILLS :triangular_ruler:</h4></summary>
 
 <div id="hard-skills-list" align="center">
 
@@ -271,7 +271,7 @@ You can click the Preview link to take a look at your changes.
 <div id="soft-skills" align="left">  
 
 <details>
-<summary><h4>SOFT SKILLS</h4></summary>
+<summary><h4>SOFT SKILLS :potted_plant:</h4></summary>
 
 <table id="soft-skills" align="center" border="0">
   <tr align="center">
@@ -306,7 +306,7 @@ You can click the Preview link to take a look at your changes.
 <div id="setups" align="left">
 
 <details>
-<summary><h4>SETUPS</h4></summary>
+<summary><h4>SETUPS :desktop_computer::keyboard::computer_mouse:</h4></summary>
 
 #### :desktop_computer: SETUP \#01
 * **OS:** Windows 10
@@ -344,7 +344,7 @@ You can click the Preview link to take a look at your changes.
 <section id="status">   
 
 <details>
-<summary><h3>STATUS | GITHUB</h3></summary>
+<summary><h3>:bar_chart: STATUS | GITHUB</h3></summary>
 
 <div id="cards" align="center">
 
@@ -389,14 +389,14 @@ You can click the Preview link to take a look at your changes.
 
 <footer id="rodape">
 
-### REFERÊNCIAS
+### :bookmark_tabs: REFERÊNCIAS
 
-* **Notícias:** [The News](https://thenewscc.com.br/) | [Twitter](https://twitter.com) | [CanalTech](https://canaltech.com.br/) | [DevMedia](https://www.devmedia.com.br/artigos/)
-* **Blogs:** [Tera](https://blog.somostera.com/) | [Data Hackers](https://www.datahackers.com.br/blog) | [Curso em Vídeo](https://www.cursoemvideo.com/blog/) |
-* **Podcasts:** [ScubaDev](https://www.scuba.dev.br/) | [Data Hackers](https://www.datahackers.com.br/podcast) | [CanalTech](https://canaltech.com.br/podcast/podcast-canaltech/) | [Porta 101](https://canaltech.com.br/podcast/porta-101/)
-* **Livros:** [Essencialismo (Greg McKeown)](https://www.amazon.com.br/Essencialismo-disciplinada-busca-por-menos-ebook/dp/B00WJ1L21O/ref=sr_1_1?keywords=essencialismo+greg+mckeown&sr=8-1)
-* **Bandas:** [Audioslave](https://music.amazon.com.br/artists/B0012292WC/audioslave)|[Green Day](https://music.amazon.com.br/artists/B000QJJOSO/green-day)
-* **Música:** Simple Man (Acoustic Version) - Shinedown
+* :newspaper: **Notícias:** [The News](https://thenewscc.com.br/) | [Twitter](https://twitter.com) | [CanalTech](https://canaltech.com.br/) | [DevMedia](https://www.devmedia.com.br/artigos/)
+* :pencil: **Blogs:** [Tera](https://blog.somostera.com/) | [Data Hackers](https://www.datahackers.com.br/blog) | [Curso em Vídeo](https://www.cursoemvideo.com/blog/) |
+* :studio_microphone: **Podcasts:** [ScubaDev](https://www.scuba.dev.br/) | [Data Hackers](https://www.datahackers.com.br/podcast) | [CanalTech](https://canaltech.com.br/podcast/podcast-canaltech/) | [Porta 101](https://canaltech.com.br/podcast/porta-101/)
+* :books: **Livros:** [Essencialismo (Greg McKeown)](https://www.amazon.com.br/Essencialismo-disciplinada-busca-por-menos-ebook/dp/B00WJ1L21O/ref=sr_1_1?keywords=essencialismo+greg+mckeown&sr=8-1)
+* :microphone: **Bandas:** [Audioslave](https://music.amazon.com.br/artists/B0012292WC/audioslave)|[Green Day](https://music.amazon.com.br/artists/B000QJJOSO/green-day)
+* :musical_note: **Música:** Simple Man (Acoustic Version) - Shinedown
 
 ---
 

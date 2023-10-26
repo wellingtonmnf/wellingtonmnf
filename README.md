@@ -401,7 +401,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 <div id="salvador" align="center">
-<h3>Com muito orgulho, com muito amor, eu sou de...</h3>
+<h3>:pushpin::earth_americas: Com muito orgulho, com muito amor, eu sou de...</h3>
 </div>
 
 ![Rodapé do skyline de Salvador README.md](imagens/rodape-readme.png)

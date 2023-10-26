@@ -240,12 +240,12 @@ You can click the Preview link to take a look at your changes.
 </details>
 </div>
 
-<div id="soft-skills" align="left">  
+<div id="soft-skills" align="left" width="100%">  
 
 <details>
 <summary><h4>SOFT SKILLS</h4></summary>
 
-<table id="soft-skills" align="left" border="0" width="100%">
+<table id="soft-skills" align="left" border="0">
   <tr align="center">
     <td width="150px" height="50px"><strong>Organização</strong></td>
     <td width="150px" height="50px"><strong>Determinação</strong></td>

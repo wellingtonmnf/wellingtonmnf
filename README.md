@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Topo README.md](imagens/topo-readme.png)
 
-## 👋 Olá, eu sou o [**Wellington**](https://github.com/wellingtonmnf)
+## Olá, eu sou o [**Wellington**](https://github.com/wellingtonmnf) 👋
 
 - :man_technologist: Estou em processo de transição de carreira, estudando para me tornar um Desenvolvedor Salesforce
 - 🌱 Eu estou aprendendo atualmente Salesforce(CRM), Apex, HTML5, CSS3 e JavaScript
@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 
 <div id="txt-resumo" align="left" widht="320px" text-align="justify">
 
-#### :man_mechanic: #OpentoWork 
+#### #OpentoWork :man_mechanic:
 
 <p>Depois de anos atuando como Arquiteto e Urbanista, retorno aos estudos na área de T.I. para construir um portfólio e me reinserir no mercado de trabalho.</p>
 
@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### :calling: Contatos: 
+### Contatos: :calling:
 
 <div id="contato" align='center'> 
 
@@ -149,7 +149,7 @@ You can click the Preview link to take a look at your changes.
 <div id="idiomas" align="left">
 
 <details>
-<summary><h4>IDIOMAS</h4></summary>
+<summary><h4>:speaking_head: IDIOMAS</h4></summary>
 
 <table id="table-lang" align="center" border="0">
 <tr align="center">
@@ -165,7 +165,7 @@ You can click the Preview link to take a look at your changes.
   <td><em>Nativo</em></td>
 </tr>
 <tr align="center">
-  <td align="left">:uk: :us: Inglês</td>
+  <td align="left">:uk: Inglês</td>
   <td><em>Bom</em></td>
   <td><em>Bom</em></td>
   <td><em>Intermediário</em></td>
@@ -189,12 +189,12 @@ You can click the Preview link to take a look at your changes.
 <section id="tech-specs">
 
 <details>
-<summary><h3>TECHS | SKILLS</h3></summary>
+<summary><h3>:card_index_dividers: TECHS | SKILLS</h3></summary>
 
 <div id="hard-skills" align="left">
 
 <details>
-<summary><h4>HARD SKILLS</h4></summary>
+<summary><h4>:triangular_ruler: HARD SKILLS</h4></summary>
 
 <div id="hard-skills-list" align="center">
 

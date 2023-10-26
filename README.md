@@ -301,19 +301,20 @@ You can click the Preview link to take a look at your changes.
 <details>
 <summary><h4>SETUPS</h4></summary>
 
-* OS: Windows 10
-* Desktop: Macbook Air M1
-* Browser: Opera GX, Opera, Mozilla Firefox, Brave, Edge e Chrome
-* Terminal: ZSH: Oh My Zsh (PowerLevel10k)
-* Code Editor: VSCode, NeBeans, Sublime Text, Notepad++
-* Other Tools: Trello, Notion,
+#### SETUP 01
+* **OS:** Windows 10
+* **Desktop:** ASUS TUF GAMING B550M-PLUS (Wi-Fi) | Ryzen 5 5600X | GeForce 3070Ti | RAM: 32 GB | SSD: 2,5 TB
+* **Navegadores:** Opera GX | Opera | Mozilla Firefox | Brave | Edge | Chrome
+
 --- 
-* OS: Zorin OS 16.3
-* Laptop: Dell Inspiton 15
-* Browser: Opera, Mozilla Firefox e Brave
-* Terminal: ZSH: Oh My Zsh (PowerLevel10k)
-* Code Editor: VSCode, NeBeans, Sublime Text, Notepad++
-* Other Tools: Trello, Notion
+#### SETUP 02
+* **OS:** Zorin OS 16.3
+* **Laptop:** Dell Vostro 3550 | i5-2430M | Intel® HD Graphics 3000 | RAM: 16 GB | SSD: 1 TB
+* **Navegadores:** Opera | Mozilla Firefox | Brave
+---
+#### FERRAMENTAS
+* **Editores de código:** VSCode | NeBeans | Sublime Text | Notepad++
+* **Planejamento:** Trello | Notion
 
 </details>
 

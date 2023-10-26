@@ -150,11 +150,32 @@ You can click the Preview link to take a look at your changes.
 <details>
 <summary><h4>IDIOMAS</h4></summary>
 
-|  Idioma   | Leitura | Escrita | Conversação |
-| :-------: | :-----: | :-----: | :---------: |
-| Português | Nativo  | Nativo  |   Nativo    |
-|  Inglês   |   Boa   |   Boa   |    Médio    |
-| Espanhol  |   Boa   |  Baixa  |     Não     |
+<table id="table-lang" border="0">
+<tr>
+  <td><strong>Idioma<</strong>/td>
+  <td><strong>Leitura<</strong>/td>
+  <td><strong>Escrita<</strong>/td>
+  <td><strong>Conversação</strong></td>
+</tr>
+<tr>
+  <td><em>Português</em></td>
+  <td>Nativo</td>
+  <td>Nativo</td>
+  <td>Nativo</td>
+</tr>
+<tr>
+  <td><em>Inglês</em></td>
+  <td>Bom</td>
+  <td>Bom</td>
+  <td>Intermediário</td>
+</tr>
+<tr>
+  <td><em>Espanhol</em></td>
+  <td>Bom</td>
+  <td>Baixo</td>
+  <td> - </td>
+</tr>
+</table>
 
 </details>
 </div>
@@ -240,7 +261,7 @@ You can click the Preview link to take a look at your changes.
 </details>
 </div>
 
-<div id="soft-skills" align="left" width="100%">  
+<div id="soft-skills" align="left">  
 
 <details>
 <summary><h4>SOFT SKILLS</h4></summary>
@@ -280,13 +301,19 @@ You can click the Preview link to take a look at your changes.
 <details>
 <summary><h4>SETUPS</h4></summary>
 
-* OS: MacOS 13 Ventura
-* Laptop: Macbook Air M1
-* Browser: Chrome & Safari
+* OS: Windows 10
+* Desktop: Macbook Air M1
+* Browser: Opera GX, Opera, Mozilla Firefox, Brave, Edge e Chrome
 * Terminal: ZSH: Oh My Zsh (PowerLevel10k)
-* Code Editor: VSCode - The best editor out there
-* Other Tools: Postman, Notion, Bitwarden and Raindrop
-* To Stay Updated: Twitter, Product Hunt and Hacker News
+* Code Editor: VSCode, NeBeans, Sublime Text, Notepad++
+* Other Tools: Trello, Notion,
+
+* OS: Zorin OS 16.3
+* Laptop: Dell Inspiton 15
+* Browser: Opera, Mozilla Firefox e Brave
+* Terminal: ZSH: Oh My Zsh (PowerLevel10k)
+* Code Editor: VSCode, NeBeans, Sublime Text, Notepad++
+* Other Tools: Trello, Notion
 
 </details>
 
@@ -330,11 +357,11 @@ You can click the Preview link to take a look at your changes.
           <img  align="center"  src="https://github-readme-stats-wellingtonmnf.vercel.app/api/top-langs/?username=wellingtonmnf&locale=pt-br&layout=compact&theme=salesforce"/>
       </td>
     </tr>
-    <tr>
+<!--<tr>
       <td width="100%" align="center">
           <img align="center"  src="https://github-readme-activity-graph-wellingtonmnf.vercel.app/graph?username=wellingtonmnf&locale=pt-br&theme=salesforce"/>
       </td>
-    </tr> 
+    </tr>--> 
     <tr>
       <td width="100%" align="center">
           <img align="center"  src="https://github-readme-stats-wellingtonmnf.vercel.app/api/pin/?username=wellingtonmnf&repo=github-readme-stats&locale=pt-br&theme=salesforce"/>
@@ -353,6 +380,10 @@ You can click the Preview link to take a look at your changes.
 <!---RODAPÉ--->
 
 <footer id="rodape">
+
+## FUN FACTS
+
+* Para me atualizar: Twitter, Product Hunt and Hacker News
 
 ![Rodapé do skyline de Salvador README.md](imagens/rodape-readme.png)
 

@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 Eu estou aprendendo atualmente Salesforce(CRM), Apex, HTML5, CSS3 e JavaScript
 - 👀 Me interesso por: Programação, Desenvolvimento Web, Análise de Dados, Design Gráfico e Arquitetura e Urbanismo
 - :thumbsup: Também gosto de escutar músicas e podcasts :headphones:, viajar :airplane:, sair com os amigos :man: :bearded_person: :woman: :curly_haired_woman: e do E.C. Vitória! :lion: :red_circle: :black_circle: :soccer:
-- :open_book: Você pode acompanhar minha transição de carreira lendo o meu blog [**Algoritmo Biomimético**](https://medium.com/algoritmo-biomimetico) 
+- :open_book: Você pode acompanhar minha transição de carreira lendo o meu blog [**Algoritmo Biomimético**](https://medium.com/algoritmo-biomimetico) :electron:
 
 ![LInha divisória README.md](imagens/linha-div.png)
 
@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### Contatos: :iphone:
+### :iphone: Contatos: 
 
 <div id="contato" align='center'> 
 

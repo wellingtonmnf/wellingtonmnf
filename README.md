@@ -396,7 +396,7 @@ You can click the Preview link to take a look at your changes.
 * :studio_microphone: ***Podcasts:*** [ScubaDev](https://www.scuba.dev.br/) | [Data Hackers](https://www.datahackers.com.br/podcast) | [CanalTech](https://canaltech.com.br/podcast/podcast-canaltech/) | [Porta 101](https://canaltech.com.br/podcast/porta-101/)
 * :books: ***Livros:*** [Essencialismo (Greg McKeown)](https://www.amazon.com.br/Essencialismo-disciplinada-busca-por-menos-ebook/dp/B00WJ1L21O/ref=sr_1_1?keywords=essencialismo+greg+mckeown&sr=8-1)
 * :microphone: ***Bandas:*** [Audioslave](https://music.amazon.com.br/artists/B0012292WC/audioslave)|[Green Day](https://music.amazon.com.br/artists/B000QJJOSO/green-day)
-* :musical_note: ***Música:*** Simple Man (Acoustic Version) - Shinedown
+* :musical_note: ***Música:*** [*Simple Man (Acoustic Version)* - **Shinedown**](https://music.amazon.com.br/albums/B002ECQC9K?marketplaceId=ART4WZ8MWBX2Y&musicTerritory=BR&ref=dm_sh_DOJTDH4y6c3IU5HeafqNhzhPO&trackAsin=B002ECS928)
 
 ---
 

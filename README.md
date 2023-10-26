@@ -198,7 +198,7 @@ You can click the Preview link to take a look at your changes.
 #### Programação:
 
 ![Java Badge](https://img.shields.io/badge/java-red?style=for-the-badge&logo=CoffeeScript&logoColor=white)
-![Apex Badge]()
+![Apex Badge](https://img.shields.io/badge/apex-00A1E0?style=for-the-badge&logo=apex&logoColor=white)
 ---
 #### Desenvolvimento Web:
 

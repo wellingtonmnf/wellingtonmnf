@@ -151,8 +151,8 @@ You can click the Preview link to take a look at your changes.
 <summary><h4>IDIOMAS</h4></summary>
 
 <table id="table-lang" align="center" border="0">
-<tr>
-  <td align="left"><strong>Idioma</strong></td>
+<tr align="center">
+  <td><strong>Idioma</strong></td>
   <td><strong>Leitura</strong></td>
   <td><strong>Escrita</strong></td>
   <td><strong>Conversação</strong></td>

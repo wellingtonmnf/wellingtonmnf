@@ -252,7 +252,7 @@ You can click the Preview link to take a look at your changes.
 #### Interesses:
 
 ![Salesforce Badge](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
-![Trello Badge](https://img.shields.io/badge/planning-blue?style=for-the-badge&logo=Trello&logoColor=white)
+![Trello Badge](https://img.shields.io/badge/trello-blue?style=for-the-badge&logo=Trello&logoColor=white)
 ![Badge]()
 ![Badge]()
 ![Badge]()

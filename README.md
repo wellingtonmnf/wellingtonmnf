@@ -231,7 +231,7 @@ You can click the Preview link to take a look at your changes.
 ---
 #### Design:
 
-![Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&labelColor=999999&logo=Adobe%20Photoshop&logoColor=black)
+![Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&labelColor=999999&logo=Adobe%20Photoshop&logoColor=white)
 ![Illustrator Badge](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&labelColor=999999&logo=adobe%20illustrator&logoColor=white)
 ---
 #### Manutenção de Micro: 

@@ -150,26 +150,26 @@ You can click the Preview link to take a look at your changes.
 <details>
 <summary><h4>IDIOMAS</h4></summary>
 
-<table id="table-lang" border="0">
-<tr>
-  <td><strong>Idioma</strong></td>
+<table id="table-lang" align="center" border="0">
+<tr bgcolor="blue">
+  <td align="left"><strong>Idioma</strong></td>
   <td><strong>Leitura</strong></td>
   <td><strong>Escrita</strong></td>
   <td><strong>Conversação</strong></td>
 </tr>
-<tr align="center">
+<tr>
   <td align="left">Português</td>
   <td><em>Nativo</em></td>
   <td><em>Nativo</em></td>
   <td><em>Nativo</em></td>
 </tr>
-<tr align="center">
+<tr>
   <td align="left">Inglês</td>
   <td><em>Bom</em></td>
   <td><em>Bom</em></td>
   <td><em>Intermediário</em></td>
 </tr>
-<tr align="center">
+<tr>
   <td align="left">Espanhol</td>
   <td><em>Bom</em></td>
   <td><em>Baixo</em></td>

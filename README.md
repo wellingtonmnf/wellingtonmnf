@@ -194,7 +194,8 @@ You can click the Preview link to take a look at your changes.
 
 <details>
 <summary><h4>HARD SKILLS</h4></summary>
-<div align="center">
+
+<div id="hard-skills-list" align="center">
 
 #### Programação:
 
@@ -257,6 +258,7 @@ You can click the Preview link to take a look at your changes.
 ![Office Badge](https://img.shields.io/badge/microsoft%20office-D83B01?style=for-the-badge&labelColor=999999&logo=microsoft-office&logoColor=white)
 ---
 </div>
+
 </details>
 </div>
 

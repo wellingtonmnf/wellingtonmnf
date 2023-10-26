@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 - :man_technologist: Estou em processo de transição de carreira, estudando para me tornar um Desenvolvedor Salesforce
 - 🌱 Eu estou aprendendo atualmente Salesforce(CRM), Apex, HTML5, CSS3 e JavaScript
 - 👀 Me interesso por: Programação, Desenvolvimento Web, Análise de Dados, Design Gráfico e Arquitetura e Urbanismo
-- :thumbsup: Também gosto de escutar músicas e podcasts :headphones:, sair com os amigos :man: :bearded_person: :woman: :curly_haired_woman: e do E.C. Vitória! :lion: :red_circle: :black_circle: :soccer:
+- :thumbsup: Também gosto de escutar músicas e podcasts :headphones:, viajar :airplane:, sair com os amigos :man: :bearded_person: :woman: :curly_haired_woman: e do E.C. Vitória! :lion: :red_circle: :black_circle: :soccer:
 - :open_book: Você pode acompanhar minha transição de carreira lendo o meu blog [**Algoritmo Biomimético**](https://medium.com/algoritmo-biomimetico) 
 
 ![LInha divisória README.md](imagens/linha-div.png)
@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 
 <div id="txt-resumo" align="left" widht="320px" text-align="justify">
 
-#### #OpentoWork :man_mechanic:
+#### :man_mechanic: #OpentoWork 
 
 <p>Depois de anos atuando como Arquiteto e Urbanista, retorno aos estudos na área de T.I. para construir um portfólio e me reinserir no mercado de trabalho.</p>
 
@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### Contatos: :calling:
+### :calling: Contatos: 
 
 <div id="contato" align='center'> 
 
@@ -79,9 +79,9 @@ You can click the Preview link to take a look at your changes.
 <div id="formacao">
 
 <details>
-<summary><h4>FORMAÇÃO:</h4></summary>
+<summary><h4>:mortar_board: FORMAÇÃO:</h4></summary>
 
-   #### Acadêmica
+   #### :man_student: Acadêmica
 
    * :classical_building: **Universidade Salvador (UNIFACS)** </br>
      :books: *Bacharelado em Arquitetura e Urbanismo | :calendar: 2010 - 2015*
@@ -92,7 +92,7 @@ You can click the Preview link to take a look at your changes.
    * :classical_building: **Escola Reitor Miguel Calmon - SESI Retiro** </br>
      :books: *Ensino Médio | :calendar: 2005 - 2007*
 
-  #### Complementar
+  #### :dart: Complementar
 
    * :books: **Estruturas para Arquitetos (:hourglass: 48 horas)** </br>
      :classical_building: *SENAI - CIMATEC | :calendar: 2017*
@@ -110,7 +110,7 @@ You can click the Preview link to take a look at your changes.
 <div id="xp-prof">
 
 <details>
-<summary><h4>EXPERIÊNCIA PROFISSIONAL:</h4></summary>
+<summary><h4>:necktie: EXPERIÊNCIA PROFISSIONAL:</h4></summary>
 
    #### :arrows_counterclockwise: Transição de Carreira | Pausa na carreira
 
@@ -159,19 +159,19 @@ You can click the Preview link to take a look at your changes.
   <td><strong>Conversação</strong></td>
 </tr>
 <tr align="center">
-  <td align="left">Português</td>
+  <td align="left">:brazil: Português</td>
   <td><em>Nativo</em></td>
   <td><em>Nativo</em></td>
   <td><em>Nativo</em></td>
 </tr>
 <tr align="center">
-  <td align="left">Inglês</td>
+  <td align="left">:uk: :us: Inglês</td>
   <td><em>Bom</em></td>
   <td><em>Bom</em></td>
   <td><em>Intermediário</em></td>
 </tr>
 <tr align="center">
-  <td align="left">Espanhol</td>
+  <td align="left">:es: Espanhol</td>
   <td><em>Bom</em></td>
   <td><em>Baixo</em></td>
   <td><em> - </em></td>
@@ -308,17 +308,17 @@ You can click the Preview link to take a look at your changes.
 <details>
 <summary><h4>SETUPS</h4></summary>
 
-#### SETUP \#01
+#### :desktop_computer: SETUP \#01
 * **OS:** Windows 10
 * **Desktop:** ASUS TUF GAMING B550M-PLUS (Wi-Fi) | Ryzen 5 5600X | GeForce 3070Ti | RAM: 32 GB | SSD: 2,5 TB
 * **Navegadores:** Opera GX | Opera | Mozilla Firefox | Brave | Edge | Chrome
 --- 
-#### SETUP \#02
+#### :computer: SETUP \#02
 * **OS:** Zorin OS 16.3
 * **Laptop:** Dell Vostro 3550 | i5-2430M | Intel HD Graphics 3000 | RAM: 16 GB | SSD: 1 TB
 * **Navegadores:** Opera | Mozilla Firefox | Brave
 ---
-#### FERRAMENTAS
+#### :wrench: FERRAMENTAS
 * **Editores de código:** VSCode | NetBeans | Sublime Text | Notepad++
 * **Design:** Illustrator | Photoshop
 * **Planejamento:** Trello | Notion

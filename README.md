@@ -240,10 +240,10 @@ You can click the Preview link to take a look at your changes.
 ---
 #### Arquitetura:
 
-![AutoCAD Badge]()
-![Revit Badge]()
-![SketchUp Badge]()
-![Lumion 3D Badge]()
+![AutoCAD Badge](https://img.shields.io/badge/autocad-e41050?style=for-the-badge&logo=autodesk&logoColor=white)
+![Revit Badge](https://img.shields.io/badge/revit-186BFF?style=for-the-badge&logo=autodesk%20revit&logoColor=white)
+![SketchUp Badge](https://img.shields.io/badge/sketchup-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
+![Lumion 3D Badge](https://img.shields.io/badge/lumion-007aff?style=for-the-badge&logo=lumion&logoColor=white)
 ---
 #### Escrita:
 

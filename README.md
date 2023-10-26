@@ -266,7 +266,7 @@ You can click the Preview link to take a look at your changes.
 <details>
 <summary><h4>SOFT SKILLS</h4></summary>
 
-<table id="soft-skills" align="left" border="0">
+<table id="soft-skills" align="center" border="0">
   <tr align="center">
     <td width="150px" height="50px"><strong>Organização</strong></td>
     <td width="150px" height="50px"><strong>Determinação</strong></td>
@@ -295,8 +295,6 @@ You can click the Preview link to take a look at your changes.
 
 </details>
 </div>
-
-<div><br/></div>
 
 <div id="setups" align="left">
 

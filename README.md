@@ -243,7 +243,7 @@ You can click the Preview link to take a look at your changes.
 ![AutoCAD Badge](https://img.shields.io/badge/autocad-c34922?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Revit Badge](https://img.shields.io/badge/revit-186BFF?style=for-the-badge&logo=autodesk%20revit&logoColor=white)
 ![SketchUp Badge](https://img.shields.io/badge/sketchup-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
-![Lumion 3D Badge](https://img.shields.io/badge/lumion-007aff?style=for-the-badge&logo=lumion&logoColor=white)
+![Lumion 3D Badge](https://img.shields.io/badge/lumion-007aff?style=for-the-badge&logo=spring&logoColor=white)
 ---
 #### Escrita:
 
@@ -253,6 +253,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Salesforce Badge](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 ![Trello Badge](https://img.shields.io/badge/trello-blue?style=for-the-badge&logo=Trello&logoColor=white)
+![Office Badge](https://img.shields.io/badge/microsoft%20office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ---
 
 </details>

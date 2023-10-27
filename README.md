@@ -114,7 +114,7 @@ You can click the Preview link to take a look at your changes.
 
    #### :arrows_counterclockwise: Transição de Carreira | Pausa na carreira
 
-   :calendar: **ago de 2022 - o momento · :hourglass: 5 meses** </br>
+   :calendar: **ago de 2022 - o momento · :hourglass: 1 ano e 3 meses** </br>
    :mailbox_closed: *Salvador, Bahia*
 
    + Pesquisa e estudo de mercado;
@@ -357,7 +357,7 @@ You can click the Preview link to take a look at your changes.
     <tr>
       <td width="100%" align="center">                            
           <img  align="center" src="https://streak-stats.demolab.com?user=wellingtonmnf&theme=transparent&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=500&background=FFFFFF&border=00A1E0&stroke=00A1E0&ring=00A1E0&fire=00A1E0&currStreakNum=00A1E0&sideNums=00A1E0&currStreakLabel=00A1E0&sideLabels=00A1E0&dates=00B1E8&excludeDaysLabel=00A1E0"/>
-          <img  align="center"  src="https://github-readme-streak-stats-wellingtonmnf.vercel.app/api?username=wellingtonmnf&locale=pt-br&theme=salesforce"/>
+          <!--<img  align="center"  src="https://github-readme-streak-stats-wellingtonmnf.vercel.app/api?username=wellingtonmnf&locale=pt-br&theme=salesforce"/>-->
       </td>
     </tr> 
     <tr>
@@ -401,7 +401,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 <div id="salvador" align="center">
-<h3>:pushpin::earth_americas: Com muito orgulho, com muito amor, eu sou de...</h3>
+<h3>:earth_americas: Com muito ORGULHO, com muito AMOR, eu sou de...</h3>
 </div>
 
 ![Rodapé do skyline de Salvador README.md](imagens/rodape-readme.png)

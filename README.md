@@ -348,6 +348,8 @@ You can click the Preview link to take a look at your changes.
 
 <div id="cards" align="center">
 
+---
+
 <img  align="center"  src="https://github-readme-stats-wellingtonmnf.vercel.app/api?username=wellingtonmnf&locale=pt-br&show_icons=true&theme=salesforce&card_width=500"/>
 
 ---

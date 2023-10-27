@@ -350,9 +350,13 @@ You can click the Preview link to take a look at your changes.
 
 <img  align="center"  src="https://github-readme-stats-wellingtonmnf.vercel.app/api?username=wellingtonmnf&locale=pt-br&show_icons=true&theme=salesforce&card_width=450"/>
 
+---
+
 <img  align="center" src="https://streak-stats.demolab.com?user=wellingtonmnf&theme=transparent&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=450&background=FFFFFF&border=00A1E0&stroke=00A1E0&ring=00A1E0&fire=00A1E0&currStreakNum=00A1E0&sideNums=00A1E0&currStreakLabel=00A1E0&sideLabels=00A1E0&dates=00B1E8&excludeDaysLabel=00A1E0"/>
 
-<img  align="center"  src="https://github-readme-stats-wellingtonmnf.vercel.app/api/top-langs/?username=wellingtonmnf&locale=pt-br&layout=compact&theme=salesforce&card_width=300"/>
+---
+
+<img  align="center"  src="https://github-readme-stats-wellingtonmnf.vercel.app/api/top-langs/?username=wellingtonmnf&locale=pt-br&layout=compact&theme=salesforce&card_width=500"/>
 
 ---
 

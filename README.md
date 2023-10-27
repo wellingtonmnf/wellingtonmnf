@@ -344,7 +344,7 @@ You can click the Preview link to take a look at your changes.
 <section id="status">   
 
 <details>
-<summary><h3>:bar_chart: STATUS | GITHUB</h3></summary>
+<summary><h3>:bar_chart: MÉTRICAS | GITHUB</h3></summary>
 
 <div id="cards" align="center">
 

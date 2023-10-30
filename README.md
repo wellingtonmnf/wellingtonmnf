@@ -352,7 +352,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<img  align="center"  src="https://github-readme-stats-wellingtonmnf.vercel.app/api?username=wellingtonmnf&locale=pt-br&show_icons=true&theme=salesforce&card_width=500"/>
+<img  align="center"  src="https://github-readme-stats-wellingtonmnf.vercel.app/api?username=wellingtonmnf&locale=pt-br&show_icons=true&theme=salesforce&card_width=400"/>
 
 ---
 
@@ -390,7 +390,7 @@ You can click the Preview link to take a look at your changes.
 * :pencil: ***Blogs:*** [Tera](https://blog.somostera.com/) | [Data Hackers](https://www.datahackers.com.br/blog) | [Curso em Vídeo](https://www.cursoemvideo.com/blog/) 
 * :studio_microphone: ***Podcasts:*** [ScubaDev](https://www.scuba.dev.br/) | [Data Hackers](https://www.datahackers.com.br/podcast) | [CanalTech](https://canaltech.com.br/podcast/podcast-canaltech/) | [Porta 101](https://canaltech.com.br/podcast/porta-101/)
 * :books: ***Livros:*** [Essencialismo (Greg McKeown)](https://www.amazon.com.br/Essencialismo-disciplinada-busca-por-menos-ebook/dp/B00WJ1L21O/ref=sr_1_1?keywords=essencialismo+greg+mckeown&sr=8-1)
-* :microphone: ***Bandas:*** [Audioslave](https://www.youtube.com/@AudioslaveOfficial/featured) | [Arctic Monkeys](https://www.youtube.com/channel/UC-KTRBl9_6AX10-Y7IKwKdw) | [Green Day](https://www.youtube.com/@GreenDay)
+* :microphone: ***Bandas:*** [Audioslave](https://www.youtube.com/@AudioslaveOfficial/featured) | [Green Day](https://www.youtube.com/@GreenDay)
 * :musical_note: ***Música:*** [*Simple Man (Acoustic Version)* - **Shinedown**](https://www.youtube.com/watch?v=rgFQ6WmxdMs)
 
 ---

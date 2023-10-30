@@ -320,8 +320,12 @@ You can click the Preview link to take a look at your changes.
 ---
 #### :wrench: FERRAMENTAS
 * **Editores de código:** VSCode | NetBeans | Sublime Text | Notepad++
+* **Repositório:** GitHub Desktop
 * **Design:** Illustrator | Photoshop
 * **Planejamento:** Trello | Notion
+* **Office:** Word | PowerPoint | Excel | Outlook
+
+<br/>
 
 </details>
 
@@ -385,10 +389,10 @@ You can click the Preview link to take a look at your changes.
 ### :bookmark_tabs: REFERÊNCIAS
 
 * :newspaper: ***Notícias:*** [The News](https://thenewscc.com.br/) | [Twitter](https://twitter.com) | [CanalTech](https://canaltech.com.br/) | [DevMedia](https://www.devmedia.com.br/artigos/)
-* :pencil: ***Blogs:*** [Tera](https://blog.somostera.com/) | [Data Hackers](https://www.datahackers.com.br/blog) | [Curso em Vídeo](https://www.cursoemvideo.com/blog/) |
+* :pencil: ***Blogs:*** [Tera](https://blog.somostera.com/) | [Data Hackers](https://www.datahackers.com.br/blog) | [Curso em Vídeo](https://www.cursoemvideo.com/blog/) 
 * :studio_microphone: ***Podcasts:*** [ScubaDev](https://www.scuba.dev.br/) | [Data Hackers](https://www.datahackers.com.br/podcast) | [CanalTech](https://canaltech.com.br/podcast/podcast-canaltech/) | [Porta 101](https://canaltech.com.br/podcast/porta-101/)
 * :books: ***Livros:*** [Essencialismo (Greg McKeown)](https://www.amazon.com.br/Essencialismo-disciplinada-busca-por-menos-ebook/dp/B00WJ1L21O/ref=sr_1_1?keywords=essencialismo+greg+mckeown&sr=8-1)
-* :microphone: ***Bandas:*** [Audioslave](https://music.amazon.com.br/artists/B0012292WC/audioslave)|[Green Day](https://music.amazon.com.br/artists/B000QJJOSO/green-day)
+* :microphone: ***Bandas:*** [Audioslave](https://music.amazon.com.br/artists/B0012292WC/audioslave) | [Green Day](https://music.amazon.com.br/artists/B000QJJOSO/green-day)
 * :musical_note: ***Música:*** [*Simple Man (Acoustic Version)* - **Shinedown**](https://music.amazon.com.br/albums/B002ECQC9K?marketplaceId=ART4WZ8MWBX2Y&musicTerritory=BR&ref=dm_sh_DOJTDH4y6c3IU5HeafqNhzhPO&trackAsin=B002ECS928)
 
 ---

@@ -165,13 +165,13 @@ You can click the Preview link to take a look at your changes.
   <td><em>Nativo</em></td>
 </tr>
 <tr align="center">
-  <td><img src="icones/flags/england.svg" width="25px"> Inglês</td>
+  <td><img src="icones/flags/england.svg" width="25px" valign="middle"> Inglês</td>
   <td><em>Bom</em></td>
   <td><em>Bom</em></td>
   <td><em>Intermediário</em></td>
 </tr>
 <tr align="center">
-  <td><img src="icones/flags/spain.svg" width="25px"> Espanhol</td>
+  <td><img src="icones/flags/spain.svg" width="25px" valign="middle"> Espanhol</td>
   <td><em>Bom</em></td>
   <td><em>Baixo</em></td>
   <td><em> - </em></td>

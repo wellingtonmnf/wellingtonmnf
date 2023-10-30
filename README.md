@@ -271,7 +271,7 @@ You can click the Preview link to take a look at your changes.
 <div id="soft-skills" align="left">  
 
 <details>
-<summary><h4>SOFT SKILLS :potted_plant:</h4></summary>
+<summary><h4>SOFT SKILLS :leaves:</h4></summary>
 
 <table id="soft-skills" align="center" border="0">
   <tr align="center">

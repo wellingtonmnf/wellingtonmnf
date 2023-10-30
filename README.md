@@ -153,7 +153,7 @@ You can click the Preview link to take a look at your changes.
 
 <table id="table-lang" align="center" border="0">
 <tr align="center">
-  <td><strong>Idioma</strong></td>
+  <td width="200px"><strong>Idioma</strong></td>
   <td><strong>Leitura</strong></td>
   <td><strong>Escrita</strong></td>
   <td><strong>Conversação</strong></td>

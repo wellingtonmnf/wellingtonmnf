@@ -65,8 +65,6 @@ You can click the Preview link to take a look at your changes.
 
 </section>
 
-<br/>
-
 ![LInha divisória README.md](imagens/linha-div.png)
 
 <!---CURRÍCULO--->

@@ -352,7 +352,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<img  align="center"  src="https://github-readme-stats-wellingtonmnf.vercel.app/api?username=wellingtonmnf&locale=pt-br&show_icons=true&theme=salesforce&card_width=400"/>
+<img  align="center"  src="https://github-readme-stats-wellingtonmnf.vercel.app/api?username=wellingtonmnf&locale=pt-br&show_icons=true&theme=salesforce&card_width=500"/>
 
 ---
 

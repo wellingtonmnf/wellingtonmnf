@@ -389,7 +389,7 @@ You can click the Preview link to take a look at your changes.
 * :newspaper: ***Notícias:*** [The News](https://thenewscc.com.br/) **|** [Twitter](https://twitter.com) **|** [CanalTech](https://canaltech.com.br/) **|** [DevMedia](https://www.devmedia.com.br/artigos/)
 * :pencil: ***Blogs:*** [Tera](https://blog.somostera.com/) **|** [Data Hackers](https://www.datahackers.com.br/blog) **|** [Curso em Vídeo](https://www.cursoemvideo.com/blog/) 
 * :studio_microphone: ***Podcasts:*** [ScubaDev](https://www.scuba.dev.br/) **|** [Data Hackers](https://www.datahackers.com.br/podcast) **|** [CanalTech](https://canaltech.com.br/podcast/podcast-canaltech/) **|** [Porta 101](https://canaltech.com.br/podcast/porta-101/)
-* :books: ***Livros:*** [Essencialismo (Greg McKeown)](https://www.amazon.com.br/Essencialismo-disciplinada-busca-por-menos-ebook/dp/B00WJ1L21O/ref=sr_1_1?keywords=essencialismo+greg+mckeown&sr=8-1)
+* :books: ***Livros:*** [Essencialismo (Greg McKeown)](https://sextante.com.br/livros/essencialismo/)
 * :microphone: ***Bandas:*** [Audioslave](https://www.youtube.com/@AudioslaveOfficial/featured) **|** [Green Day](https://www.youtube.com/@GreenDay)
 * :musical_note: ***Música:*** [*Simple Man (Acoustic Version)* - **Shinedown**](https://www.youtube.com/watch?v=rgFQ6WmxdMs)
 

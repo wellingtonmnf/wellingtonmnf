@@ -159,19 +159,19 @@ You can click the Preview link to take a look at your changes.
   <td><strong>Conversação</strong></td>
 </tr>
 <tr align="center">
-  <td>:brazil: Português</td>
+  <td><img src="icones/flags/brazil.svg"> Português</td>
   <td><em>Nativo</em></td>
   <td><em>Nativo</em></td>
   <td><em>Nativo</em></td>
 </tr>
 <tr align="center">
-  <td>:uk: Inglês</td>
+  <td><img src="icones/flags/england.svg">  Inglês</td>
   <td><em>Bom</em></td>
   <td><em>Bom</em></td>
   <td><em>Intermediário</em></td>
 </tr>
 <tr align="center">
-  <td>:es: Espanhol</td>
+  <td><img src="icones/flags/spain.svg">  Espanhol</td>
   <td><em>Bom</em></td>
   <td><em>Baixo</em></td>
   <td><em> - </em></td>

@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 
 <div id="avatar-01">
 
-<img src="imagens/avatar-01.png" alt="Avatar 01" align="right" widht="400px" height="400px">
+<img src="imagens/avatar-01.png" alt="Avatar 01" align="right" widht="300px" height="300px">
 
 </div>
 

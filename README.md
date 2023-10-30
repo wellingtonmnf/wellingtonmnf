@@ -159,7 +159,7 @@ You can click the Preview link to take a look at your changes.
   <td><strong>Conversação</strong></td>
 </tr>
 <tr align="center">
-  <td><img src="icones/flags/brazil.svg" width="25px"> Português</td>
+  <td valign="middle"><img src="icones/flags/brazil.svg" width="25px"> Português</td>
   <td><em>Nativo</em></td>
   <td><em>Nativo</em></td>
   <td><em>Nativo</em></td>

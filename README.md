@@ -372,8 +372,6 @@ You can click the Preview link to take a look at your changes.
 
 <img align="center"  src="https://github-readme-stats-wellingtonmnf.vercel.app/api/pin/?username=wellingtonmnf&repo=github-readme-stats&locale=pt-br&theme=salesforce"/>
 
----
-
 </div>
 
 </details>

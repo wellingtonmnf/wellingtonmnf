@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 
 <p>Encaro essa mudança com muita disposição e entusiasmo, aprendendo, contribuindo e evoluindo diante das necessidades, das demandas e das oportunidades emergentes.</p>
 
-<p>Sou proficiente em softwares de edição de imagem e modelagem 3D.</p>
+<p>Sou proficiente em softwares de edição de imagens e de modelagem 3D.</p>
 
 </div>
 
@@ -72,7 +72,7 @@ You can click the Preview link to take a look at your changes.
 <section id="curriculo">
 
 <details>
-<summary><h3>:page_facing_up: CURRÍCULO</h3></summary>
+<summary><h3>:page_facing_up: CURRÍCULO | <a href="curriculo/Currículo - T.I. (SALESFORCE) - RGB - A4.pdf">[PDF]</a></h3></summary>
 
 <div id="formacao">
 

@@ -112,7 +112,7 @@ You can click the Preview link to take a look at your changes.
 
    #### :arrows_counterclockwise: Transição de Carreira | Pausa na carreira
 
-   :calendar: **ago de 2022 - o momento · :hourglass: 1 ano e 3 meses** </br>
+   :calendar: **ago de 2022 - o momento** </br>
    :mailbox_closed: *Salvador, Bahia*
 
    + Pesquisa e estudo de mercado;

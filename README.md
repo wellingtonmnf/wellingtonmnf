@@ -121,7 +121,7 @@ You can click the Preview link to take a look at your changes.
    #### :construction_worker: Arquiteto | Autônomo
 
    :calendar: **jan de 2016 - ago de 2022 · :hourglass: 6 anos 8 meses** </br>
-   :mailbox_closed: *Salvador e Região, Brasil*
+   :mailbox_closed: *Salvador e Região, Bahia*
 
    Atuação em:
 
@@ -133,7 +133,7 @@ You can click the Preview link to take a look at your changes.
    #### :postbox: Estagiário de Arquitetura | Correios
 
    :calendar: **jun de 2012 - jun de 2014 · :hourglass: 2 anos 1 mês** </br>
-   :mailbox_closed: *Salvador*
+   :mailbox_closed: *Salvador, Bahia*
 
    + Auxílio na digitalização de croquis e cadastros;
    + Auxílio na realização de cadastro;

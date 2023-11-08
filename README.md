@@ -81,25 +81,25 @@ You can click the Preview link to take a look at your changes.
 
    #### :man_student: Acadêmica
 
-   * :classical_building: **Universidade Salvador (UNIFACS)** </br>
-     :books: *Bacharelado em Arquitetura e Urbanismo | :calendar: 2010 - 2015*
+   * :books: **Bacharelado em Arquitetura e Urbanismo** </br>
+     :classical_building: *Universidade Salvador (UNIFACS)* | :calendar: *2010 - 2015*
 
-   * :classical_building: **SENAI - CETIND** </br>
-     :books: *Curso Técnico em Desenvolvimento de Software | :calendar: 2007 - 2008*
+   * :books: **Curso Técnico em Desenvolvimento de Software** </br>
+     :classical_building: *SENAI - CETIND* | :calendar: *2007 - 2008*
 
-   * :classical_building: **Escola Reitor Miguel Calmon - SESI Retiro** </br>
-     :books: *Ensino Médio | :calendar: 2005 - 2007*
+   * :books: **Ensino Médio Completo** </br>
+     :classical_building: *Escola Reitor Miguel Calmon - SESI* | :calendar: *2005 - 2007*
 
   #### :dart: Complementar
 
    * :books: **Estruturas para Arquitetos (:hourglass: 48 horas)** </br>
-     :classical_building: *SENAI - CIMATEC | :calendar: 2017*
+     :classical_building: *SENAI - CIMATEC* | :calendar: *2017*
 
    * :books: **Curso Básico de REVIT Architecture (:hourglass: 30 horas)** </br>
-     :classical_building: *Andrade Casaes Arquitetura | :calendar: 2014*
+     :classical_building: *Andrade Casaes Arquitetura* | :calendar: *2014*
 
    * :books: **Manutenção de Microcomputadores (:hourglass: 600 horas)** </br>
-     :classical_building: *SENAI | :calendar: 2006*  
+     :classical_building: *SENAI* | :calendar: *2006*  
 
 </details>
 

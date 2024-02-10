@@ -307,14 +307,14 @@ You can click the Preview link to take a look at your changes.
 <summary><h4>SETUPS :desktop_computer::keyboard::computer_mouse:</h4></summary>
 
 #### :desktop_computer: SETUP \#01
-* **OS:** Windows 10
+* **OS:** Windows 11
 * **Desktop:** ASUS TUF GAMING B550M-PLUS (Wi-Fi) | Ryzen 5 5600X | GeForce 3070Ti | RAM: 32 GB | SSD: 2,5 TB
-* **Navegadores:** Opera GX | Opera | Mozilla Firefox | Brave | Edge | Chrome
+* **Navegadores:** Opera | Opera GX | Brave | Firefox | Edge | Chrome
 --- 
 #### :computer: SETUP \#02
-* **OS:** Zorin OS 16.3
+* **OS:** Linux Mint 21.3 “Virginia”
 * **Laptop:** Dell Vostro 3550 | i5-2430M | Intel HD Graphics 3000 | RAM: 16 GB | SSD: 1 TB
-* **Navegadores:** Opera | Mozilla Firefox | Brave
+* **Navegadores:** Vivaldi | Brave | Firefox | Chromium
 ---
 #### :wrench: FERRAMENTAS
 * **Editores de código:** VSCode | NetBeans | Sublime Text | Notepad++

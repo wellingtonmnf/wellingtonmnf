@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 ## Olá, eu sou o [**Wellington**](https://github.com/wellingtonmnf) 👋
 
 - :man_technologist: Estou em processo de transição de carreira, estudando para me tornar um Desenvolvedor Salesforce
-- 🌱 Eu estou aprendendo atualmente Salesforce (CRM), Apex, HTML5, CSS3 e JavaScript
+- 🌱 Eu estou aprendendo atualmente Salesforce (CRM), Apex, SOQL, HTML5, CSS3 e JavaScript
 - 👀 Me interesso por: Programação, Desenvolvimento Web, Análise de Dados, Design Gráfico e Arquitetura e Urbanismo
 - :thumbsup: Também gosto de escutar músicas e podcasts :headphones:, viajar e conhecer novos lugares :airplane::world_map::national_park:, sair com os amigos :man: :bearded_person: :woman: :curly_haired_woman: e do E.C. Vitória! :lion: :red_circle: :black_circle: :soccer:
 - :open_book: Você pode acompanhar minha transição de carreira lendo o meu blog [**Algoritmo Biomimético**](https://medium.com/algoritmo-biomimetico) :electron:
@@ -117,6 +117,13 @@ You can click the Preview link to take a look at your changes.
 
    + Pesquisa e estudo de mercado;
    + Retorno dos estudos na área de T.I. em busca de reinserção no mercado;
+   + Estudo de cursos livres de:
+     - Lógica de Programação; 
+     - Java, POO;
+     - HTML5, CSS3;
+   + Estudo em Salesforce:
+     - Livro "Salesforce para não programadores e programadores";
+     - Plataforma Trailhead;  
 
    #### :construction_worker: Arquiteto | Autônomo
 
@@ -309,7 +316,7 @@ You can click the Preview link to take a look at your changes.
 #### :desktop_computer: SETUP \#01
 * **OS:** Windows 11
 * **Desktop:** ASUS TUF GAMING B550M-PLUS (Wi-Fi) | Ryzen 5 5600X | GeForce 3070Ti | RAM: 32 GB | SSD: 2,5 TB
-* **Navegadores:** Opera | Opera GX | Brave | Firefox | Edge | Chrome
+* **Navegadores:** Vivaldi | Brave | Firefox | Edge | Chrome | DuckDuckGo
 --- 
 #### :computer: SETUP \#02
 * **OS:** Linux Mint 21.3 “Virginia”
@@ -318,10 +325,11 @@ You can click the Preview link to take a look at your changes.
 ---
 #### :wrench: FERRAMENTAS
 * **Editores de código:** VSCode | NetBeans | Sublime Text | Notepad++
-* **Repositório:** GitHub Desktop
+* **Versionamento:** Git
+* **Repositório:** GitHub
 * **Design:** Illustrator | Photoshop
 * **Planejamento:** Trello | Notion
-* **Office:** Word | PowerPoint | Excel | Outlook
+* **Office:** ONLYOFFICE
 
 <br/>
 
@@ -352,7 +360,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<img  align="center"  src="https://github-readme-stats-wellingtonmnf.vercel.app/api?username=wellingtonmnf&locale=pt-br&show_icons=true&theme=salesforce&card_width=500"/>
+<!--<img  align="center"  src="https://github-readme-stats-wellingtonmnf.vercel.app/api?username=wellingtonmnf&locale=pt-br&show_icons=true&theme=salesforce&card_width=500"/> -->
 
 ---
 
@@ -362,7 +370,7 @@ You can click the Preview link to take a look at your changes.
 
 --- 
 
-<img  align="center"  src="https://github-readme-stats-wellingtonmnf.vercel.app/api/top-langs/?username=wellingtonmnf&locale=pt-br&layout=compact&theme=salesforce&card_width=500"/>
+<!-- <img  align="center"  src="https://github-readme-stats-wellingtonmnf.vercel.app/api/top-langs/?username=wellingtonmnf&locale=pt-br&layout=compact&theme=salesforce&card_width=500"/> -->
 
 ---
 
@@ -370,7 +378,7 @@ You can click the Preview link to take a look at your changes.
 
 --- -->
 
-<img align="center"  src="https://github-readme-stats-wellingtonmnf.vercel.app/api/pin/?username=wellingtonmnf&repo=github-readme-stats&locale=pt-br&theme=salesforce"/>
+<!-- <img align="center"  src="https://github-readme-stats-wellingtonmnf.vercel.app/api/pin/?username=wellingtonmnf&repo=github-readme-stats&locale=pt-br&theme=salesforce"/> -->
 
 </div>
 

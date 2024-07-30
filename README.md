@@ -218,7 +218,7 @@ You can click the Preview link to take a look at your changes.
 ![JavaScript Badge](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&labelColor=999999&logo=JavaScript&logoColor=white)
 ---
 
-#### Banco de Dados
+#### Banco de Dados:
 
 ![MySQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&labelColor=999999&logo=mysql&logoColor=white)
 ![PSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&labelColor=999999&logo=postgresql&logoColor=white)

@@ -121,8 +121,11 @@ You can click the Preview link to take a look at your changes.
      - Lógica de Programação; 
      - Java, POO;
      - HTML5, CSS3;
+     - MySQL;
    + Estudo em Salesforce:
+     - Apex, CLI, Lightning, SOQL;
      - Livro "Salesforce para não programadores e programadores";
+     - Livro "Salesforce APEX - Implemente soluções com padrões e técnicas de Orientação a Objetos"
      - Plataforma Trailhead;  
 
    #### :construction_worker: Arquiteto | Autônomo
@@ -214,13 +217,13 @@ You can click the Preview link to take a look at your changes.
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=999999&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&labelColor=999999&logo=JavaScript&logoColor=white)
 ---
-<!--
+
 #### Banco de Dados
 
 ![MySQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&labelColor=999999&logo=mysql&logoColor=white)
 ![PSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&labelColor=999999&logo=postgresql&logoColor=white)
 --- 
--->
+
 #### SO:
 
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&labelColor=999999&logo=windows&logoColor=white)
@@ -319,16 +322,19 @@ You can click the Preview link to take a look at your changes.
 * **Navegadores:** Vivaldi | Brave | Firefox | Edge | Chrome | DuckDuckGo
 --- 
 #### :computer: SETUP \#02
-* **OS:** Linux Mint 21.3 “Virginia”
+* **OS:** Fedora 40
 * **Laptop:** Dell Vostro 3550 | i5-2430M | Intel HD Graphics 3000 | RAM: 16 GB | SSD: 1 TB
 * **Navegadores:** Vivaldi | Brave | Firefox | Chromium
 ---
 #### :wrench: FERRAMENTAS
-* **Editores de código:** VSCode | NetBeans | Sublime Text | Notepad++
-* **Versionamento:** Git
+* **Editores de código:** VSCode | IntelliJ IDEA | NetBeans | Sublime Text | Notepad++
+* **Banco de dados:** MySQL Workbench | PGAdmin4
+* **Versionamento:** Git 
 * **Repositório:** GitHub
+* **Plataformas:** Java | Node.js | XAMPP
+* **Virtualização:** VirtualBox
 * **Design:** Illustrator | Photoshop
-* **Planejamento:** Trello | Notion
+* **Planejamento:** Notion
 * **Office:** ONLYOFFICE
 
 <br/>
@@ -357,8 +363,8 @@ You can click the Preview link to take a look at your changes.
 <summary><h3>:bar_chart: MÉTRICAS | GITHUB</h3></summary>
 
 <div id="cards" align="center">
-
----
+<!--
+--- -->
 
 <!--<img  align="center"  src="https://github-readme-stats-wellingtonmnf.vercel.app/api?username=wellingtonmnf&locale=pt-br&show_icons=true&theme=salesforce&card_width=500"/> -->
 
@@ -370,9 +376,9 @@ You can click the Preview link to take a look at your changes.
 
 --- 
 
-<!-- <img  align="center"  src="https://github-readme-stats-wellingtonmnf.vercel.app/api/top-langs/?username=wellingtonmnf&locale=pt-br&layout=compact&theme=salesforce&card_width=500"/> -->
+<!-- <img  align="center"  src="https://github-readme-stats-wellingtonmnf.vercel.app/api/top-langs/?username=wellingtonmnf&locale=pt-br&layout=compact&theme=salesforce&card_width=500"/> 
 
----
+--- -->
 
 <!-- <img align="center"  src="https://github-readme-activity-graph-wellingtonmnf.vercel.app/graph?username=wellingtonmnf&locale=pt-br&theme=salesforce"/> 
 
@@ -394,9 +400,9 @@ You can click the Preview link to take a look at your changes.
 
 ### :bookmark_tabs: REFERÊNCIAS
 
-* :newspaper: ***Notícias:*** [The News](https://thenewscc.com.br/) **|** [Twitter](https://twitter.com) **|** [CanalTech](https://canaltech.com.br/) **|** [DevMedia](https://www.devmedia.com.br/artigos/)
+* :newspaper: ***Notícias:*** [The News](https://thenewscc.com.br/) **|** [Twitter](https://twitter.com) **|** [CanalTech](https://canaltech.com.br/) **|** [DevMedia](https://www.devmedia.com.br/artigos/) **|** [Guia de TI](https://guiadeti.com.br/)
 * :pencil: ***Blogs:*** [Tera](https://blog.somostera.com/) **|** [Data Hackers](https://www.datahackers.com.br/blog) **|** [Curso em Vídeo](https://www.cursoemvideo.com/blog/) 
-* :studio_microphone: ***Podcasts:*** [ScubaDev](https://www.scuba.dev.br/) **|** [Data Hackers](https://www.datahackers.com.br/podcast) **|** [CanalTech](https://canaltech.com.br/podcast/podcast-canaltech/) **|** [Porta 101](https://canaltech.com.br/podcast/porta-101/)
+* :studio_microphone: ***Podcasts:*** [ScubaDev](https://www.scuba.dev.br/) **|** [Dev Sem Fronteiras](https://www.devsemfronteiras.tech/podcasts/) **|** [Data Hackers](https://www.datahackers.com.br/podcast) **|** [CanalTech](https://canaltech.com.br/podcast/podcast-canaltech/) **|** [Porta 101](https://canaltech.com.br/podcast/porta-101/)
 * :books: ***Livros:*** [Essencialismo (Greg McKeown)](https://sextante.com.br/livros/essencialismo/) **|** [A coragem de não agradar (Ichiro Kishimi, Fumitake Koga)](https://sextante.com.br/livros/a-coragem-de-nao-agradar/)
 * :microphone: ***Bandas:*** [Audioslave](https://www.youtube.com/@AudioslaveOfficial/featured) **|** [Green Day](https://www.youtube.com/@GreenDay) **|** [Linkin Park](https://www.youtube.com/channel/UCZU9T1ceaOgwfLRq7OKFU4Q)
 * :musical_note: ***Música:*** [*Simple Man (Acoustic Version)* - **Shinedown**](https://www.youtube.com/watch?v=rgFQ6WmxdMs)

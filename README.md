@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 ## Olá, eu sou o [**Wellington**](https://github.com/wellingtonmnf) 👋
 
 - :man_technologist: Estou em processo de transição de carreira, estudando para me tornar um Desenvolvedor Salesforce
-- 🌱 Eu estou aprendendo atualmente Salesforce (CRM), Apex, SOQL, HTML5, CSS3 e JavaScript
+- 🌱 Eu estou aprendendo atualmente: Salesforce (CRM), Apex, SOQL, HTML5, CSS3 e JavaScript
 - 👀 Me interesso por: Programação, Desenvolvimento Web, Análise de Dados, Design Gráfico e Arquitetura e Urbanismo
 - :thumbsup: Também gosto de escutar músicas e podcasts :headphones:, viajar e conhecer novos lugares :airplane::world_map::national_park:, sair com os amigos :man: :bearded_person: :woman: :curly_haired_woman: e do E.C. Vitória! :lion: :red_circle: :black_circle: :soccer:
 - :open_book: Você pode acompanhar minha transição de carreira lendo o meu blog [**Algoritmo Biomimético**](https://medium.com/algoritmo-biomimetico) :electron:
@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wellingtonmnf)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wellingtonmnf)
+<!--[![X Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wellingtonmnf)-->
 [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://mailto:wellingtonmnf@outlook.com)
 
 </div>
@@ -117,11 +117,15 @@ You can click the Preview link to take a look at your changes.
 
    + Pesquisa e estudo de mercado;
    + Retorno dos estudos na área de T.I. em busca de reinserção no mercado;
-   + Estudo de cursos livres de:
+   + Cursos livres:
      - Lógica de Programação; 
      - Java, POO;
      - HTML5, CSS3;
+     - JavaScript;
      - MySQL;
+   + Imersões:  
+     - IA Generativa (Gemini, Google AI Studio) | Alura;
+     - Dev_ com Gemini (Front-end) | Alura
    + Estudo em Salesforce:
      - Apex, CLI, Lightning, SOQL;
      - Livro "Salesforce para não programadores e programadores";
@@ -221,6 +225,7 @@ You can click the Preview link to take a look at your changes.
 #### Banco de Dados:
 
 ![MySQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&labelColor=999999&logo=mysql&logoColor=white)
+![XAMPP Badge](https://img.shields.io/badge/xampp-FB7A24?style=for-the-badge&labelColor=999999&logo=xampp&logoColor=white)
 ![PSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&labelColor=999999&logo=postgresql&logoColor=white)
 --- 
 
@@ -228,7 +233,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&labelColor=999999&logo=windows&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&labelColor=999999&logo=linux&logoColor=white)
-![Zorin OS Badge](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&labelColor=999999&logo=zorin&logoColor=white)
+![Fedora OS Badge](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&labelColor=999999&logo=fedora&logoColor=white)
 ---
 #### Versionamento:
 
@@ -238,6 +243,7 @@ You can click the Preview link to take a look at your changes.
 #### Edição de código:
 
 ![VS Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&labelColor=999999&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ IDEA Badge](https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&labelColor=999999&logo=intellijidea&logoColor=white)
 ![NetBeans Badge](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&labelColor=999999&logo=apache%20netbeans%20IDE&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&labelColor=999999&logo=sublime-text&logoColor=white)
 ![Notepad++ Badge](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&labelColor=999999&logo=notepad%2B%2B&logoColor=white)
@@ -257,8 +263,9 @@ You can click the Preview link to take a look at your changes.
 ---
 #### Planejamento | Pacote Office:
 
+![Notion Badge](https://img.shields.io/badge/notion-000000?style=for-the-badge&labelColor=999999&logo=notion&logoColor=white)
 ![Trello Badge](https://img.shields.io/badge/trello-blue?style=for-the-badge&labelColor=999999&logo=Trello&logoColor=white)
-![Office Badge](https://img.shields.io/badge/microsoft%20office-D83B01?style=for-the-badge&labelColor=999999&logo=microsoft-office&logoColor=white)
+![ONLYOFFICE Badge](https://img.shields.io/badge/onlyoffice-444444?style=for-the-badge&labelColor=999999&logo=onlyoffice&logoColor=white)
 ---
 #### Manutenção de Micro: 
 
@@ -267,9 +274,9 @@ You can click the Preview link to take a look at your changes.
 #### BIM | CAD | Modelagem 3D | Renderização:
 
 ![Revit Badge](https://img.shields.io/badge/revit-186BFF?style=for-the-badge&labelColor=999999&logo=autodesk%20revit&logoColor=white)
-![AutoCAD Badge](https://img.shields.io/badge/autocad-c34922?style=for-the-badge&labelColor=999999&logo=autodesk&logoColor=white)
+![AutoCAD Badge](https://img.shields.io/badge/autocad-E51050?style=for-the-badge&labelColor=999999&logo=autocad&logoColor=white)
 ![SketchUp Badge](https://img.shields.io/badge/sketchup-005F9E?style=for-the-badge&labelColor=999999&logo=sketchup&logoColor=white)
-![Lumion 3D Badge](https://img.shields.io/badge/lumion-007aff?style=for-the-badge&labelColor=999999&logo=spring&logoColor=white)
+![Lumion 3D Badge](https://img.shields.io/badge/lumion-007aff?style=for-the-badge&labelColor=999999&logo=logstash&logoColor=white)
 ---
 </div>
 

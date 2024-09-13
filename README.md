@@ -40,11 +40,11 @@ You can click the Preview link to take a look at your changes.
 
 #### #OpentoWork :man_mechanic:
 
-<p>Depois de anos atuando como Arquiteto e Urbanista, retorno aos estudos na área de T.I. para construir um portfólio e me reinserir no mercado de trabalho.</p>
+<p text-align="justify">Depois de anos atuando como Arquiteto e Urbanista, retorno aos estudos na área de T.I. para construir um portfólio e me reinserir no mercado de trabalho.</p>
 
-<p>Encaro essa mudança com muita disposição e entusiasmo, aprendendo, contribuindo e evoluindo diante das necessidades, das demandas e das oportunidades emergentes.</p>
+<p text-align="justify">Encaro essa mudança com muita disposição e entusiasmo, aprendendo, contribuindo e evoluindo diante das necessidades, das demandas e das oportunidades emergentes.</p>
 
-<p>Sou proficiente em softwares de edição de imagens e de modelagem 3D.</p>
+<p text-align="justify">Sou proficiente em softwares de edição de imagens e de modelagem 3D.</p>
 
 </div>
 
@@ -56,8 +56,8 @@ You can click the Preview link to take a look at your changes.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wellingtonmnf)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)
+[![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=mailboxdotorg&logoColor=white)](https://mailto:wellingtonmnf@outlook.com)
 <!--[![X Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wellingtonmnf)-->
-[![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://mailto:wellingtonmnf@outlook.com)
 
 </div>
 
@@ -235,6 +235,10 @@ You can click the Preview link to take a look at your changes.
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&labelColor=999999&logo=linux&logoColor=white)
 ![Fedora OS Badge](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&labelColor=999999&logo=fedora&logoColor=white)
 ---
+#### Virtualização:
+
+![VirtualBox Badge](https://img.shields.io/badge/virtualbox-183A61?style=for-the-badge&labelColor=999999&logo=virtualbox&logoColor=white)
+---
 #### Versionamento:
 
 ![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&labelColor=999999&logo=git&logoColor=white)
@@ -318,6 +322,26 @@ You can click the Preview link to take a look at your changes.
 </details>
 </div>
 
+<div id="mad-skills" align="left">  
+
+<details>
+<summary><h4>MAD SKILLS 🤹‍♂️</h4></summary>
+
+## *"Organização, criatividade e expresão: a ordem em meio ao caos."* 
+
+Estou sempre buscando otimizar as rotinas da minha vida de forma organizada, sem deixar de explorar minha criatividade com ideias e emoções através da escrita e da arte digital.
+
+**📦🗃️ Organização Minimalista:** A filosofia minimalista me permite focar no essencial, eliminando o excesso ao meu redor e otimizando meu tempo e energia. Com isso, consigo gerenciar os projetos e tarefas com eficiência, mantendo a organização e clareza em meus pensamentos, metas e ações. 
+
+**🎨🖼️ Expressão Artística Digital:** A criação de imagens como papéis de parede personalizados, explorando temas que me atraem, é uma das formas de expressar minha criatividade. Combinando a inspiração com minhas habilidades com softwares de edição de imagem, transformo ideias em arte digital que reflete meus interesses e estilo pessoal. 
+
+**✒️📝 Escrita como Desabafo:** A escrita, tanto de textos como de poemas, sempre foi minha válvula de escape para processar emoções e pensamentos. Através dela, consigo organizar ideias, refletir sobre experiências e expressar sentimentos de forma genuína. Essa habilidade me permite ter um olhar crítico, analítico e aberto sobre o mundo, além de fortalecer minha capacidade de comunicação escrita. 
+
+Acredito que a combinação dessas *"mad skills"* me permite ter uma visão equilibrada e holística, adaptando-me com flexibilidade às diferentes demandas do ambiente de trabalho. Minha paixão por organização, criatividade e expressão me impulsiona a contribuir ativamente e buscar soluções inovadoras para as situações mais variadas. 
+
+</details>
+</div>
+
 <div id="setups" align="left">
 
 <details>
@@ -334,7 +358,7 @@ You can click the Preview link to take a look at your changes.
 * **Navegadores:** Vivaldi | Brave | Firefox | Chromium
 ---
 #### :wrench: FERRAMENTAS
-* **Editores de código:** VSCode | IntelliJ IDEA | NetBeans | Sublime Text | Notepad++
+* **Editores de código:** VS Code | IntelliJ IDEA | NetBeans | Sublime Text | Notepad++
 * **Banco de dados:** MySQL Workbench | PGAdmin4
 * **Versionamento:** Git 
 * **Repositório:** GitHub
@@ -407,9 +431,9 @@ You can click the Preview link to take a look at your changes.
 
 ### :bookmark_tabs: REFERÊNCIAS
 
-* :newspaper: ***Notícias:*** [The News](https://thenewscc.com.br/) **|** [Twitter](https://twitter.com) **|** [CanalTech](https://canaltech.com.br/) **|** [DevMedia](https://www.devmedia.com.br/artigos/) **|** [Guia de TI](https://guiadeti.com.br/)
+* :newspaper: ***Notícias:*** [The News](https://thenewscc.com.br/) **|** [CanalTech](https://canaltech.com.br/) **|** [DevMedia](https://www.devmedia.com.br/artigos/) **|** [Guia de TI](https://guiadeti.com.br/)
 * :pencil: ***Blogs:*** [Tera](https://blog.somostera.com/) **|** [Data Hackers](https://www.datahackers.com.br/blog) **|** [Curso em Vídeo](https://www.cursoemvideo.com/blog/) 
-* :studio_microphone: ***Podcasts:*** [ScubaDev](https://www.scuba.dev.br/) **|** [Dev Sem Fronteiras](https://www.devsemfronteiras.tech/podcasts/) **|** [Data Hackers](https://www.datahackers.com.br/podcast) **|** [CanalTech](https://canaltech.com.br/podcast/podcast-canaltech/) **|** [Porta 101](https://canaltech.com.br/podcast/porta-101/)
+* :studio_microphone: ***Podcasts:*** [NerdTech](https://www.jovemnerd.com.br/podcasts/nerdtech) **|** [ScubaDev](https://www.scuba.dev.br/) **|** [Dev Sem Fronteiras](https://www.devsemfronteiras.tech/podcasts/) **|** [Data Hackers](https://www.datahackers.com.br/podcast) **|** [CanalTech](https://canaltech.com.br/podcast/podcast-canaltech/) **|** [Porta 101](https://canaltech.com.br/podcast/porta-101/)
 * :books: ***Livros:*** [Essencialismo (Greg McKeown)](https://sextante.com.br/livros/essencialismo/) **|** [A coragem de não agradar (Ichiro Kishimi, Fumitake Koga)](https://sextante.com.br/livros/a-coragem-de-nao-agradar/)
 * :microphone: ***Bandas:*** [Audioslave](https://www.youtube.com/@AudioslaveOfficial/featured) **|** [Green Day](https://www.youtube.com/@GreenDay) **|** [Linkin Park](https://www.youtube.com/channel/UCZU9T1ceaOgwfLRq7OKFU4Q)
 * :musical_note: ***Música:*** [*Simple Man (Acoustic Version)* - **Shinedown**](https://www.youtube.com/watch?v=rgFQ6WmxdMs)

@@ -266,6 +266,7 @@ You can click the Preview link to take a look at your changes.
 ![Gemini Badge](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&labelColor=999999&logo=googlegemini&logoColor=white)
 ![Antrophic Badge](https://img.shields.io/badge/Claude-191919?style=for-the-badge&labelColor=999999&logo=anthropic&logoColor=white)
 ![Perplexity Badge](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&labelColor=999999&logo=perplexity&logoColor=white)
+![Alexa Badge](https://img.shields.io/badge/Alexa-00CAFF?style=for-the-badge&labelColor=999999&logo=amazonalexa&logoColor=white)
 ---
 #### CRM:
 

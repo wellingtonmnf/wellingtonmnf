@@ -247,14 +247,34 @@ You can click the Preview link to take a look at your changes.
 #### Edição de código:
 
 ![VS Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&labelColor=999999&logo=visual%20studio%20code&logoColor=white)
-![IntelliJ IDEA Badge](https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&labelColor=999999&logo=intellijidea&logoColor=white)
+![IntelliJ IDEA Badge](https://img.shields.io/badge/intellij_idea-000000?style=for-the-badge&labelColor=999999&logo=intellijidea&logoColor=white)
 ![NetBeans Badge](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&labelColor=999999&logo=apache%20netbeans%20IDE&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&labelColor=999999&logo=sublime-text&logoColor=white)
+![Sublime Text Badge](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&labelColor=999999&logo=sublime-text&logoColor=white)
 ![Notepad++ Badge](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&labelColor=999999&logo=notepad%2B%2B&logoColor=white)
+---
+#### Navegadores:
+
+![Vivaldi Badge](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&labelColor=999999&logo=vivaldi&logoColor=white)
+![Brave Badge](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&labelColor=999999&logo=brave&logoColor=white)
+![Firefox Badge](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&labelColor=999999&logo=firefoxbrowser&logoColor=white)
+![Chrome Badge](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&labelColor=999999&logo=googlechrome&logoColor=white)
+![DuckDuckGo Badge](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&labelColor=999999&logo=duckduckgo&logoColor=white)
+---
+#### Inteligência Artificial:
+
+![ChatGPT Badge](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&labelColor=999999&logo=openai&logoColor=white)
+![Gemini Badge](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&labelColor=999999&logo=googlegemini&logoColor=white)
+![Antrophic Badge](https://img.shields.io/badge/Claude-191919?style=for-the-badge&labelColor=999999&logo=anthropic&logoColor=white)
+![Perplexity Badge](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&labelColor=999999&logo=perplexity&logoColor=white)
 ---
 #### CRM:
 
 ![Salesforce Badge](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&labelColor=999999&logo=Salesforce&logoColor=white)
+---
+#### Conteinerização:
+
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=999999&logo=docker&logoColor=white)
+![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&labelColor=999999&logo=kubernetes&logoColor=white)
 ---
 #### Design gráfico:
 
@@ -337,6 +357,8 @@ Estou sempre buscando otimizar as rotinas da minha vida de forma organizada, sem
 
 **✒️📝 Escrita como Desabafo:** A escrita, tanto de textos como de poemas, sempre foi minha válvula de escape para processar emoções e pensamentos. Através dela, consigo organizar ideias, refletir sobre experiências e expressar sentimentos de forma genuína. Essa habilidade me permite ter um olhar crítico, analítico e aberto sobre o mundo, além de fortalecer minha capacidade de comunicação escrita. 
 
+**💻📱 Experimentação Tecnológica:** Sou fascinado pelas possibilidades que a tecnologia oferece e busco sempre aprimorar meus conhecimentos nesse universo. Adoro conhecer e explorar novos produtos, ferramentas e plataformas, testando recursos e aprendendo sobre as últimas tendências. A paixão por tecnologia me impulsiona a buscar soluções inovadoras e me manter atualizado com as mudanças constantes do mercado.
+
 Acredito que a combinação dessas *"mad skills"* me permite ter uma visão equilibrada e holística, adaptando-me com flexibilidade às diferentes demandas do ambiente de trabalho. Minha paixão por organização, criatividade e expressão me impulsiona a contribuir ativamente e buscar soluções inovadoras para as situações mais variadas. 
 
 </details>
@@ -367,6 +389,7 @@ Acredito que a combinação dessas *"mad skills"* me permite ter uma visão equi
 * **Design:** Illustrator | Photoshop
 * **Planejamento:** Notion
 * **Office:** ONLYOFFICE
+* **Inteligência Artificial:** ChatGPT | Gemini | Google AI Studio 
 
 <br/>
 
@@ -431,8 +454,8 @@ Acredito que a combinação dessas *"mad skills"* me permite ter uma visão equi
 
 ### :bookmark_tabs: REFERÊNCIAS
 
-* :newspaper: ***Notícias:*** [The News](https://thenewscc.com.br/) **|** [CanalTech](https://canaltech.com.br/) **|** [DevMedia](https://www.devmedia.com.br/artigos/) **|** [Guia de TI](https://guiadeti.com.br/)
-* :pencil: ***Blogs:*** [Tera](https://blog.somostera.com/) **|** [Data Hackers](https://www.datahackers.com.br/blog) **|** [Curso em Vídeo](https://www.cursoemvideo.com/blog/) 
+* :newspaper: ***Notícias:*** [The News](https://thenewscc.com.br/) **|** [CanalTech](https://canaltech.com.br/) **|** [IT Forum](https://itforum.com.br/) **|** [Guia de TI](https://guiadeti.com.br/)
+* :pencil: ***Blogs:*** [Tera](https://blog.somostera.com/) **|** [Data Hackers](https://www.datahackers.com.br/blog) **|** [Curso em Vídeo](https://www.cursoemvideo.com/blog/) **|** [DevMedia](https://www.devmedia.com.br/artigos/) 
 * :studio_microphone: ***Podcasts:*** [NerdTech](https://www.jovemnerd.com.br/podcasts/nerdtech) **|** [ScubaDev](https://www.scuba.dev.br/) **|** [Dev Sem Fronteiras](https://www.devsemfronteiras.tech/podcasts/) **|** [Data Hackers](https://www.datahackers.com.br/podcast) **|** [CanalTech](https://canaltech.com.br/podcast/podcast-canaltech/) **|** [Porta 101](https://canaltech.com.br/podcast/porta-101/)
 * :books: ***Livros:*** [Essencialismo (Greg McKeown)](https://sextante.com.br/livros/essencialismo/) **|** [A coragem de não agradar (Ichiro Kishimi, Fumitake Koga)](https://sextante.com.br/livros/a-coragem-de-nao-agradar/)
 * :microphone: ***Bandas:*** [Audioslave](https://www.youtube.com/@AudioslaveOfficial/featured) **|** [Green Day](https://www.youtube.com/@GreenDay) **|** [Linkin Park](https://www.youtube.com/channel/UCZU9T1ceaOgwfLRq7OKFU4Q)

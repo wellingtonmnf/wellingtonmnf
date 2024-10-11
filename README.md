@@ -350,7 +350,7 @@ You can click the Preview link to take a look at your changes.
 ## *"Organização, criatividade e expresão: a ordem em meio ao caos."* 
 
 Estou sempre buscando otimizar as rotinas da minha vida de forma organizada, sem deixar de explorar minha criatividade com ideias e emoções através da escrita e da arte digital.
----
+
 * **📦🗃️ Organização Minimalista:** A filosofia minimalista me permite focar no essencial, eliminando o excesso ao meu redor e otimizando meu tempo e energia. Com isso, consigo gerenciar os projetos e tarefas com eficiência, mantendo a organização e clareza em meus pensamentos, metas e ações. 
 
 * **🎨🖼️ Expressão Artística Digital:** A criação de imagens como papéis de parede personalizados, explorando temas que me atraem, é uma das formas de expressar minha criatividade. Combinando a inspiração com minhas habilidades com softwares de edição de imagem, transformo ideias em arte digital que reflete meus interesses e estilo pessoal. 

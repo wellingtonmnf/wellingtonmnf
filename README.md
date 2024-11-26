@@ -126,6 +126,7 @@ You can click the Preview link to take a look at your changes.
    + Imersões:  
      - IA Generativa (Gemini, Google AI Studio) | Alura;
      - Dev_ com Gemini (Front-end) | Alura
+     - Dev_ com Gemini (Back-end) | Alura
    + Estudo em Salesforce:
      - Apex, CLI, Lightning, SOQL;
      - Livro "Salesforce para não programadores e programadores";
@@ -220,6 +221,10 @@ You can click the Preview link to take a look at your changes.
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=999999&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=999999&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&labelColor=999999&logo=JavaScript&logoColor=white)
+![Node.js Badge](https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&labelColor=999999&logo=nodedotjs&logoColor=white) 
+![.Env Badge](https://img.shields.io/badge/.env-ECD53F?style=for-the-badge&labelColor=999999&logo=dotenv&logoColor=white) 
+![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=999999&logo=postman&logoColor=white)
+![Insomnia Badge](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&labelColor=999999&logo=insomnia&logoColor=white)
 ---
 
 #### Banco de Dados:
@@ -227,6 +232,7 @@ You can click the Preview link to take a look at your changes.
 ![MySQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&labelColor=999999&logo=mysql&logoColor=white)
 ![XAMPP Badge](https://img.shields.io/badge/xampp-FB7A24?style=for-the-badge&labelColor=999999&logo=xampp&logoColor=white)
 ![PSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&labelColor=999999&logo=postgresql&logoColor=white)
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&labelColor=999999&logo=mongodb&logoColor=white)
 --- 
 
 #### SO:
@@ -376,7 +382,7 @@ Acredito que a combinação dessas *"mad skills"* me permite ter uma visão equi
 * **Navegadores:** Vivaldi | Brave | Firefox | Edge | Chrome | DuckDuckGo
 --- 
 #### :computer: SETUP \#02
-* **OS:** Fedora 40
+* **OS:** Fedora 41
 * **Laptop:** Dell Vostro 3550 | i5-2430M | Intel HD Graphics 3000 | RAM: 16 GB | SSD: 1 TB
 * **Navegadores:** Vivaldi | Brave | Firefox | Chromium
 ---
@@ -390,7 +396,7 @@ Acredito que a combinação dessas *"mad skills"* me permite ter uma visão equi
 * **Design:** Illustrator | Photoshop
 * **Planejamento:** Notion
 * **Office:** ONLYOFFICE
-* **Inteligência Artificial:** ChatGPT | Gemini | Google AI Studio 
+* **Inteligência Artificial:** ChatGPT | Gemini | Google AI Studio | Perplexity
 
 <br/>
 

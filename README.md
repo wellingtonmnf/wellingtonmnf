@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 - :thumbsup: Também gosto de escutar músicas e podcasts :headphones:, viajar e conhecer novos lugares :airplane::world_map::national_park:, sair com os amigos :man: :bearded_person: :woman: :curly_haired_woman: e do E.C. Vitória! :lion: :red_circle: :black_circle: :soccer:
 - :open_book: Você pode acompanhar minha transição de carreira lendo o meu blog [**Algoritmo Biomimético**](https://medium.com/algoritmo-biomimetico) :electron:
 
-![LInha divisória README.md](imagens/linha-div.png)
+![Linha divisória README.md](imagens/linha-div.png)
 
 <div id="resumo">
 
@@ -48,7 +48,11 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
----
+</section>
+
+<section id="contato">
+
+![Linha divisória README.md](imagens/linha-div.png)
 
 ### :iphone: Contatos: 
 

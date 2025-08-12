@@ -57,8 +57,11 @@ You can click the Preview link to take a look at your changes.
 [![LinkedIn Badge](https://custom-icon-badges.demolab.com/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoSource=feather&logoColor=white)](https://linkedin.com/in/wellingtonmnf)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)
 [![Outlook Badge](https://custom-icon-badges.demolab.com/badge/Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white)](https://mailto:wellingtonmnf@outlook.com)
-[![Bluesky Badge](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/wellingtonmnf.bsky.social)
+
+</br>
+
 [![X Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wellingtonmnf)
+[![Bluesky Badge](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/wellingtonmnf.bsky.social)
 [![Reddit Badge](https://img.shields.io/badge/reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/wellingtonmnf/)
 <!--[![Stack Overflow Badge](https://img.shields.io/badge/stack_overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/28856585/wellingtonmnf)-->
 <!--[![Discord Badge](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://x.com/wellingtonmnf)-->
@@ -235,8 +238,8 @@ You can click the Preview link to take a look at your changes.
 ![JavaScript Badge](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&labelColor=999999&logo=JavaScript&logoColor=white)
 ![Node.js Badge](https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&labelColor=999999&logo=nodedotjs&logoColor=white) 
 ![.Env Badge](https://img.shields.io/badge/.env-ECD53F?style=for-the-badge&labelColor=999999&logo=dotenv&logoColor=white) 
-![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=999999&logo=postman&logoColor=white)
 ![Insomnia Badge](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&labelColor=999999&logo=insomnia&logoColor=white)
+<!--![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=999999&logo=postman&logoColor=white)-->
 ---
 
 #### Banco de Dados:
@@ -266,21 +269,21 @@ You can click the Preview link to take a look at your changes.
 #### Edição de código:
 
 <!--![VS Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&labelColor=999999&logo=visual%20studio%20code&logoColor=white)-->
-![VS Code Badge](https://custom-icon-badges.demolab.com/badge/Visual_Studio_Code-0078D4?style=for-the-badge&labelColor=999999&logo=visual%20studio%20code&logoColor=white)
+![VS Code Badge](https://custom-icon-badges.demolab.com/badge/VS_Code-0078D4?style=for-the-badge&labelColor=999999&logo=visual%20studio%20code&logoColor=white)
 ![PyCharm Badge](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&labelColor=999999&logo=pycharm&logoColor=white)
 ![IntelliJ IDEA Badge](https://img.shields.io/badge/intellij_idea-000000?style=for-the-badge&labelColor=999999&logo=intellijidea&logoColor=white)
-![NetBeans Badge](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&labelColor=999999&logo=apache%20netbeans%20IDE&logoColor=white)
-![Sublime Text Badge](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&labelColor=999999&logo=sublime-text&logoColor=white)
-![Notepad++ Badge](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&labelColor=999999&logo=notepad%2B%2B&logoColor=white)
+<!--![NetBeans Badge](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&labelColor=999999&logo=apache%20netbeans%20IDE&logoColor=white)-->
+<!--![Sublime Text Badge](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&labelColor=999999&logo=sublime-text&logoColor=white)-->
+<!--![Notepad++ Badge](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&labelColor=999999&logo=notepad%2B%2B&logoColor=white)-->
 ---
 #### Navegadores:
 
 ![Vivaldi Badge](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&labelColor=999999&logo=vivaldi&logoColor=white)
 ![Brave Badge](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&labelColor=999999&logo=brave&logoColor=white)
 ![Firefox Badge](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&labelColor=999999&logo=firefoxbrowser&logoColor=white)
-![Chrome Badge](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&labelColor=999999&logo=googlechrome&logoColor=white)
-![DuckDuckGo Badge](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&labelColor=999999&logo=duckduckgo&logoColor=white)
-![Zen Badge](https://img.shields.io/badge/zen-F76F53?style=for-the-badge&labelColor=999999&logo=zenbrowser&logoColor=white)
+<!--![Chrome Badge](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&labelColor=999999&logo=googlechrome&logoColor=white)-->
+<!--![DuckDuckGo Badge](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&labelColor=999999&logo=duckduckgo&logoColor=white)-->
+<!--![Zen Badge](https://img.shields.io/badge/zen-F76F53?style=for-the-badge&labelColor=999999&logo=zenbrowser&logoColor=white)-->
 ---
 #### Inteligência Artificial:
 
@@ -298,7 +301,7 @@ You can click the Preview link to take a look at your changes.
 #### Conteinerização:
 
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=999999&logo=docker&logoColor=white)
-![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&labelColor=999999&logo=kubernetes&logoColor=white)
+<!--![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&labelColor=999999&logo=kubernetes&logoColor=white)-->
 ---
 #### Design gráfico:
 

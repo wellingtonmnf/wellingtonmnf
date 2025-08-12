@@ -61,11 +61,8 @@ You can click the Preview link to take a look at your changes.
 [![LinkedIn Badge](https://custom-icon-badges.demolab.com/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoSource=feather&logoColor=white)](https://linkedin.com/in/wellingtonmnf)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)
 [![Outlook Badge](https://custom-icon-badges.demolab.com/badge/Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white)](https://mailto:wellingtonmnf@outlook.com)
-
-</br>
-
-[![X Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wellingtonmnf)
 [![Bluesky Badge](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/wellingtonmnf.bsky.social)
+[![X Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wellingtonmnf)
 [![Reddit Badge](https://img.shields.io/badge/reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/wellingtonmnf/)
 <!--[![Stack Overflow Badge](https://img.shields.io/badge/stack_overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/28856585/wellingtonmnf)-->
 <!--[![Discord Badge](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://x.com/wellingtonmnf)-->

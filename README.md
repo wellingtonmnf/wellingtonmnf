@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 - :man_technologist: Estou em processo de transição de carreira, estudando para me tornar um Desenvolvedor Salesforce
 - 🌱 Eu estou aprendendo atualmente: Salesforce (CRM), Apex, SOQL, HTML5, CSS3 e JavaScript
-- 👀 Me interesso por: Programação, Desenvolvimento Web, Análise de Dados, Design Gráfico e Arquitetura e Urbanismo
+- 👀 Me interesso por: Programação, Desenvolvimento Web, Análise de Dados, Inteligêngia Artificial, Design Gráfico e Arquitetura e Urbanismo
 - :thumbsup: Também gosto de escutar músicas e podcasts :headphones:, viajar e conhecer novos lugares :airplane::world_map::national_park:, sair com os amigos :man: :bearded_person: :woman: :curly_haired_woman: e do E.C. Vitória! :lion: :red_circle: :black_circle: :soccer:
 - :open_book: Você pode acompanhar minha transição de carreira lendo o meu blog [**Algoritmo Biomimético**](https://medium.com/algoritmo-biomimetico) :electron:
 
@@ -54,10 +54,14 @@ You can click the Preview link to take a look at your changes.
 
 <div id="contato" align='center'> 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wellingtonmnf)
+[![LinkedIn Badge](https://custom-icon-badges.demolab.com/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoSource=feather&logoColor=white)](https://linkedin.com/in/wellingtonmnf)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)
-[![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=mailboxdotorg&logoColor=white)](https://mailto:wellingtonmnf@outlook.com)
-<!--[![X Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wellingtonmnf)-->
+[![Outlook Badge](https://custom-icon-badges.demolab.com/badge/Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white)](https://mailto:wellingtonmnf@outlook.com)
+[![Bluesky Badge](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/wellingtonmnf.bsky.social)
+[![X Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wellingtonmnf)
+[![Reddit Badge](https://img.shields.io/badge/reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/wellingtonmnf/)
+<!--[![Stack Overflow Badge](https://img.shields.io/badge/stack_overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/28856585/wellingtonmnf)-->
+<!--[![Discord Badge](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://x.com/wellingtonmnf)-->
 
 </div>
 
@@ -80,6 +84,9 @@ You can click the Preview link to take a look at your changes.
 <summary><h4>:mortar_board: FORMAÇÃO:</h4></summary>
 
    #### :man_student: Acadêmica
+
+   * :books: **Pós-Graduação em Inteligência Artificial e Ciência de Dados (EAD) | _Em curso_** </br>
+     :classical_building: *Universidade Salvador (UNIFACS)* | :calendar: *2025.2 - 2026.1*
 
    * :books: **Bacharelado em Arquitetura e Urbanismo** </br>
      :classical_building: *Universidade Salvador (UNIFACS)* | :calendar: *2010 - 2015*
@@ -117,21 +124,24 @@ You can click the Preview link to take a look at your changes.
 
    + Pesquisa e estudo de mercado;
    + Retorno dos estudos na área de T.I. em busca de reinserção no mercado;
+
    + Cursos livres:
      - Lógica de Programação; 
      - Java, POO;
      - HTML5, CSS3;
-     - JavaScript;
      - MySQL;
-   + Imersões:  
-     - IA Generativa (Gemini, Google AI Studio) | Alura;
-     - Dev_ com Gemini (Front-end) | Alura
-     - Dev_ com Gemini (Back-end) | Alura
+     - Python;
+
+   + Imersões Alura:  
+     - Dados com Python | Análise de Dados;
+     - IA Generativa | Gemini, Google AI Studio (2x);
+     - Dev_ com Gemini | Front-end;
+     - Dev_ com Gemini | Back-end;
+
    + Estudo em Salesforce:
-     - Apex, CLI, Lightning, SOQL;
+     - Apex, SOQL;
      - Livro "Salesforce para não programadores e programadores";
-     - Livro "Salesforce APEX - Implemente soluções com padrões e técnicas de Orientação a Objetos"
-     - Plataforma Trailhead;  
+     - Livro "Salesforce APEX - Implemente soluções com padrões e técnicas de Orientação a Objetos"   
 
    #### :construction_worker: Arquiteto | Autônomo
 
@@ -213,13 +223,15 @@ You can click the Preview link to take a look at your changes.
 
 #### Programação:
 
-![Java Badge](https://img.shields.io/badge/java-red?style=for-the-badge&labelColor=999999&logo=CoffeeScript&logoColor=white)
+<!--![Java Badge](https://img.shields.io/badge/java-red?style=for-the-badge&labelColor=999999&logo=CoffeeScript&logoColor=white)-->
+![Java Badge](https://custom-icon-badges.demolab.com/badge/java-red?style=for-the-badge&labelColor=999999&logo=java&logoColor=white)
 ![Apex Badge](https://img.shields.io/badge/apex-00A1E0?style=for-the-badge&labelColor=999999&logo=salesforce&logoColor=white)
+![Python Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&labelColor=999999&logo=python&logoColor=white)
 ---
 #### Desenvolvimento Web:
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=999999&logo=html5&logoColor=white)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=999999&logo=css3&logoColor=white)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=999999&logo=css&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&labelColor=999999&logo=JavaScript&logoColor=white)
 ![Node.js Badge](https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&labelColor=999999&logo=nodedotjs&logoColor=white) 
 ![.Env Badge](https://img.shields.io/badge/.env-ECD53F?style=for-the-badge&labelColor=999999&logo=dotenv&logoColor=white) 
@@ -237,7 +249,8 @@ You can click the Preview link to take a look at your changes.
 
 #### SO:
 
-![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&labelColor=999999&logo=windows&logoColor=white)
+<!--![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&labelColor=999999&logo=windows&logoColor=white)-->
+![Windows Badge](https://custom-icon-badges.demolab.com/badge/Windows-0078D6.svg?style=for-the-badge&labelColor=999999&logo=windows&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&labelColor=999999&logo=linux&logoColor=white)
 ![Fedora OS Badge](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&labelColor=999999&logo=fedora&logoColor=white)
 ---
@@ -252,7 +265,9 @@ You can click the Preview link to take a look at your changes.
 ---
 #### Edição de código:
 
-![VS Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&labelColor=999999&logo=visual%20studio%20code&logoColor=white)
+<!--![VS Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&labelColor=999999&logo=visual%20studio%20code&logoColor=white)-->
+![VS Code Badge](https://custom-icon-badges.demolab.com/badge/Visual_Studio_Code-0078D4?style=for-the-badge&labelColor=999999&logo=visual%20studio%20code&logoColor=white)
+![PyCharm Badge](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&labelColor=999999&logo=pycharm&logoColor=white)
 ![IntelliJ IDEA Badge](https://img.shields.io/badge/intellij_idea-000000?style=for-the-badge&labelColor=999999&logo=intellijidea&logoColor=white)
 ![NetBeans Badge](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&labelColor=999999&logo=apache%20netbeans%20IDE&logoColor=white)
 ![Sublime Text Badge](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&labelColor=999999&logo=sublime-text&logoColor=white)
@@ -265,14 +280,16 @@ You can click the Preview link to take a look at your changes.
 ![Firefox Badge](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&labelColor=999999&logo=firefoxbrowser&logoColor=white)
 ![Chrome Badge](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&labelColor=999999&logo=googlechrome&logoColor=white)
 ![DuckDuckGo Badge](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&labelColor=999999&logo=duckduckgo&logoColor=white)
+![Zen Badge](https://img.shields.io/badge/zen-F76F53?style=for-the-badge&labelColor=999999&logo=zenbrowser&logoColor=white)
 ---
 #### Inteligência Artificial:
 
-![ChatGPT Badge](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&labelColor=999999&logo=openai&logoColor=white)
-![Gemini Badge](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&labelColor=999999&logo=googlegemini&logoColor=white)
-![Antrophic Badge](https://img.shields.io/badge/Claude-191919?style=for-the-badge&labelColor=999999&logo=anthropic&logoColor=white)
 ![Perplexity Badge](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&labelColor=999999&logo=perplexity&logoColor=white)
-![Alexa Badge](https://img.shields.io/badge/Alexa-00CAFF?style=for-the-badge&labelColor=999999&logo=amazonalexa&logoColor=white)
+![Gemini Badge](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&labelColor=999999&logo=googlegemini&logoColor=white)
+![ChatGPT Badge](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&labelColor=999999&logo=openai&logoColor=white)
+![Antrophic Badge](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&labelColor=999999&logo=anthropic&logoColor=white)
+![Alexa Badge](https://custom-icon-badges.demolab.com/badge/Alexa-00CAFF?style=for-the-badge&labelColor=999999&logo=aws&logoColor=white)
+<!--![Alexa Badge](https://img.shields.io/badge/Alexa-00CAFF?style=for-the-badge&labelColor=999999&logo=amazonalexa&logoColor=white)-->
 ---
 #### CRM:
 
@@ -285,8 +302,10 @@ You can click the Preview link to take a look at your changes.
 ---
 #### Design gráfico:
 
-![Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&labelColor=999999&logo=Adobe%20Photoshop&logoColor=white)
-![Illustrator Badge](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&labelColor=999999&logo=adobe%20illustrator&logoColor=white)
+<!--![Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&labelColor=999999&logo=Adobe%20Photoshop&logoColor=white)-->
+<!--![Illustrator Badge](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&labelColor=999999&logo=Adobe%20Illustrator&logoColor=white)-->
+![Photoshop Badge](https://custom-icon-badges.demolab.com/badge/Adobe%20Photoshop-001e36?style=for-the-badge&labelColor=999999&logo=photoshop&logoColor=white)
+![Illustrator Badge](https://custom-icon-badges.demolab.com/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&labelColor=999999&logo=illustrator&logoColor=)
 ---
 #### Escrita:
 
@@ -379,15 +398,15 @@ Acredito que a combinação dessas *"mad skills"* me permite ter uma visão equi
 #### :desktop_computer: SETUP \#01
 * **OS:** Windows 11
 * **Desktop:** ASUS TUF GAMING B550M-PLUS (Wi-Fi) | Ryzen 5 5600X | GeForce 3070Ti | RAM: 32 GB | SSD: 2,5 TB
-* **Navegadores:** Vivaldi | Brave | Firefox | Edge | Chrome | DuckDuckGo
+* **Navegadores:** Vivaldi | Brave | Firefox | Edge | Chrome | DuckDuckGo | Zen
 --- 
 #### :computer: SETUP \#02
-* **OS:** Fedora 41
+* **OS:** Fedora 42
 * **Laptop:** Dell Vostro 3550 | i5-2430M | Intel HD Graphics 3000 | RAM: 16 GB | SSD: 1 TB
 * **Navegadores:** Vivaldi | Brave | Firefox | Chromium
 ---
 #### :wrench: FERRAMENTAS
-* **Editores de código:** VS Code | IntelliJ IDEA | NetBeans | Sublime Text | Notepad++
+* **Editores de código:** VS Code | PyCharm | IntelliJ IDEA
 * **Banco de dados:** MySQL Workbench | PGAdmin4
 * **Versionamento:** Git 
 * **Repositório:** GitHub
@@ -396,7 +415,7 @@ Acredito que a combinação dessas *"mad skills"* me permite ter uma visão equi
 * **Design:** Illustrator | Photoshop
 * **Planejamento:** Notion
 * **Office:** ONLYOFFICE
-* **Inteligência Artificial:** ChatGPT | Gemini | Google AI Studio | Perplexity
+* **Inteligência Artificial:** Perplexity | Gemini | Google AI Studio | ChatGPT
 
 <br/>
 
@@ -461,11 +480,11 @@ Acredito que a combinação dessas *"mad skills"* me permite ter uma visão equi
 
 ### :bookmark_tabs: REFERÊNCIAS
 
-* :newspaper: ***Notícias:*** [The News](https://thenewscc.com.br/) **|** [CanalTech](https://canaltech.com.br/) **|** [IT Forum](https://itforum.com.br/) **|** [Guia de TI](https://guiadeti.com.br/)
-* :pencil: ***Blogs:*** [Tera](https://blog.somostera.com/) **|** [Data Hackers](https://www.datahackers.com.br/blog) **|** [Curso em Vídeo](https://www.cursoemvideo.com/blog/) **|** [DevMedia](https://www.devmedia.com.br/artigos/) 
-* :studio_microphone: ***Podcasts:*** [NerdTech](https://www.jovemnerd.com.br/podcasts/nerdtech) **|** [ScubaDev](https://www.scuba.dev.br/) **|** [Dev Sem Fronteiras](https://www.devsemfronteiras.tech/podcasts/) **|** [Data Hackers](https://www.datahackers.com.br/podcast) **|** [CanalTech](https://canaltech.com.br/podcast/podcast-canaltech/) **|** [Porta 101](https://canaltech.com.br/podcast/porta-101/)
-* :books: ***Livros:*** [Programação & T.I.](https://bookshelf.so/wellingtonmnf) **|** [Essencialismo](https://sextante.com.br/livros/essencialismo/) **|** [A coragem de não agradar](https://sextante.com.br/livros/a-coragem-de-nao-agradar/)
-* :microphone: ***Bandas:*** [Audioslave](https://www.youtube.com/@AudioslaveOfficial/featured) **|** [Green Day](https://www.youtube.com/@GreenDay) **|** [Linkin Park](https://www.youtube.com/channel/UCZU9T1ceaOgwfLRq7OKFU4Q)
+* :newspaper: ***Notícias:*** [The News](https://thenewscc.com.br/) **|** [IA Sob Controle](https://www.linkedin.com/newsletters/ia-sob-controle-7206276550437007360/) **|** [Tecnoblog](https://tecnoblog.net/) **|** [TechCrunch](https://techcrunch.com/)
+* :pencil: ***Blogs:*** [Tera](https://blog.somostera.com/) **|** [Data Hackers](https://www.datahackers.com.br/blog) **|** [Curso em Vídeo](https://www.cursoemvideo.com/blog/)  
+* :studio_microphone: ***Podcasts:*** [Tecnocast](https://tecnoblog.net/tecnocast/) **|** [Dev Sem Fronteiras](https://www.devsemfronteiras.tech/podcasts/) **|** [Data Hackers](https://www.datahackers.com.br/podcast) **|** [CanalTech](https://canaltech.com.br/podcast/podcast-canaltech/) **|** [Porta 101](https://canaltech.com.br/podcast/porta-101/) **|** [NerdTech](https://www.jovemnerd.com.br/podcasts/nerdtech)
+* :books: ***Livros:*** [Essencialismo](https://sextante.com.br/livros/essencialismo/) **|** [A coragem de não agradar](https://sextante.com.br/livros/a-coragem-de-nao-agradar/)
+* :microphone: ***Bandas:*** [Audioslave](https://www.youtube.com/@AudioslaveOfficial/featured) **|** [Linkin Park](https://www.youtube.com/channel/UCZU9T1ceaOgwfLRq7OKFU4Q) **|** [Green Day](https://www.youtube.com/@GreenDay)
 * :musical_note: ***Música:*** [*Simple Man (Acoustic Version)* - **Shinedown**](https://www.youtube.com/watch?v=rgFQ6WmxdMs)
 
 ---

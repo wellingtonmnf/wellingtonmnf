@@ -22,6 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 - :man_technologist: Estou em processo de transição de carreira, estudando para me tornar um Desenvolvedor Salesforce
 - 🌱 Eu estou aprendendo atualmente: Salesforce (CRM), Apex, SOQL, HTML5, CSS3 e JavaScript
+- 📚 Iniciei em 2025 uma Pós-Graduação em Inteligência Artificial e Ciência de Dados!
 - 👀 Me interesso por: Programação, Desenvolvimento Web, Análise de Dados, Inteligêngia Artificial, Design Gráfico e Arquitetura e Urbanismo
 - :thumbsup: Também gosto de escutar músicas e podcasts :headphones:, viajar e conhecer novos lugares :airplane::world_map::national_park:, sair com os amigos :man: :bearded_person: :woman: :curly_haired_woman: e do E.C. Vitória! :lion: :red_circle: :black_circle: :soccer:
 - :open_book: Você pode acompanhar minha transição de carreira lendo o meu blog [**Algoritmo Biomimético**](https://medium.com/algoritmo-biomimetico) :electron:
@@ -234,13 +235,13 @@ You can click the Preview link to take a look at your changes.
 ---
 #### Desenvolvimento Web:
 
+<!--![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=999999&logo=postman&logoColor=white)-->
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=999999&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=999999&logo=css&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&labelColor=999999&logo=JavaScript&logoColor=white)
 ![Node.js Badge](https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&labelColor=999999&logo=nodedotjs&logoColor=white) 
 ![.Env Badge](https://img.shields.io/badge/.env-ECD53F?style=for-the-badge&labelColor=999999&logo=dotenv&logoColor=white) 
 ![Insomnia Badge](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&labelColor=999999&logo=insomnia&logoColor=white)
-<!--![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=999999&logo=postman&logoColor=white)-->
 ---
 
 #### Banco de Dados:
@@ -270,30 +271,30 @@ You can click the Preview link to take a look at your changes.
 #### Edição de código:
 
 <!--![VS Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&labelColor=999999&logo=visual%20studio%20code&logoColor=white)-->
-![VS Code Badge](https://custom-icon-badges.demolab.com/badge/VS_Code-0078D4?style=for-the-badge&labelColor=999999&logo=visual%20studio%20code&logoColor=white)
-![PyCharm Badge](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&labelColor=999999&logo=pycharm&logoColor=white)
-![IntelliJ IDEA Badge](https://img.shields.io/badge/intellij_idea-000000?style=for-the-badge&labelColor=999999&logo=intellijidea&logoColor=white)
 <!--![NetBeans Badge](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&labelColor=999999&logo=apache%20netbeans%20IDE&logoColor=white)-->
 <!--![Sublime Text Badge](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&labelColor=999999&logo=sublime-text&logoColor=white)-->
 <!--![Notepad++ Badge](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&labelColor=999999&logo=notepad%2B%2B&logoColor=white)-->
+![VS Code Badge](https://custom-icon-badges.demolab.com/badge/VS_Code-0078D4?style=for-the-badge&labelColor=999999&logo=visual%20studio%20code&logoColor=white)
+![PyCharm Badge](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&labelColor=999999&logo=pycharm&logoColor=white)
+![IntelliJ IDEA Badge](https://img.shields.io/badge/intellij_idea-000000?style=for-the-badge&labelColor=999999&logo=intellijidea&logoColor=white)
 ---
 #### Navegadores:
 
-![Vivaldi Badge](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&labelColor=999999&logo=vivaldi&logoColor=white)
-![Brave Badge](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&labelColor=999999&logo=brave&logoColor=white)
-![Firefox Badge](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&labelColor=999999&logo=firefoxbrowser&logoColor=white)
 <!--![Chrome Badge](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&labelColor=999999&logo=googlechrome&logoColor=white)-->
 <!--![DuckDuckGo Badge](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&labelColor=999999&logo=duckduckgo&logoColor=white)-->
 <!--![Zen Badge](https://img.shields.io/badge/zen-F76F53?style=for-the-badge&labelColor=999999&logo=zenbrowser&logoColor=white)-->
+![Vivaldi Badge](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&labelColor=999999&logo=vivaldi&logoColor=white)
+![Brave Badge](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&labelColor=999999&logo=brave&logoColor=white)
+![Firefox Badge](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&labelColor=999999&logo=firefoxbrowser&logoColor=white)
 ---
 #### Inteligência Artificial:
 
+<!--![Alexa Badge](https://img.shields.io/badge/Alexa-00CAFF?style=for-the-badge&labelColor=999999&logo=amazonalexa&logoColor=white)-->
 ![Perplexity Badge](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&labelColor=999999&logo=perplexity&logoColor=white)
 ![Gemini Badge](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&labelColor=999999&logo=googlegemini&logoColor=white)
 ![ChatGPT Badge](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&labelColor=999999&logo=openai&logoColor=white)
 ![Antrophic Badge](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&labelColor=999999&logo=anthropic&logoColor=white)
 ![Alexa Badge](https://custom-icon-badges.demolab.com/badge/Alexa-00CAFF?style=for-the-badge&labelColor=999999&logo=aws&logoColor=white)
-<!--![Alexa Badge](https://img.shields.io/badge/Alexa-00CAFF?style=for-the-badge&labelColor=999999&logo=amazonalexa&logoColor=white)-->
 ---
 #### CRM:
 
@@ -301,8 +302,8 @@ You can click the Preview link to take a look at your changes.
 ---
 #### Conteinerização:
 
-![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=999999&logo=docker&logoColor=white)
 <!--![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&labelColor=999999&logo=kubernetes&logoColor=white)-->
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=999999&logo=docker&logoColor=white)
 ---
 #### Design gráfico:
 
@@ -402,12 +403,12 @@ Acredito que a combinação dessas *"mad skills"* me permite ter uma visão equi
 #### :desktop_computer: SETUP \#01
 * **OS:** Windows 11
 * **Desktop:** ASUS TUF GAMING B550M-PLUS (Wi-Fi) | Ryzen 5 5600X | GeForce 3070Ti | RAM: 32 GB | SSD: 2,5 TB
-* **Navegadores:** Vivaldi | Brave | Firefox | Edge | Chrome | DuckDuckGo | Zen
+* **Navegadores:** Vivaldi | Brave | Firefox <!--| Edge | Chrome | DuckDuckGo | Zen-->
 --- 
 #### :computer: SETUP \#02
 * **OS:** Fedora 42
 * **Laptop:** Dell Vostro 3550 | i5-2430M | Intel HD Graphics 3000 | RAM: 16 GB | SSD: 1 TB
-* **Navegadores:** Vivaldi | Brave | Firefox | Chromium
+* **Navegadores:** Vivaldi | Brave | Firefox <!--| Chromium-->
 ---
 #### :wrench: FERRAMENTAS
 * **Editores de código:** VS Code | PyCharm | IntelliJ IDEA
@@ -460,6 +461,22 @@ Acredito que a combinação dessas *"mad skills"* me permite ter uma visão equi
 
 --- 
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018b7190-2dea-4644-8f7b-cfc16c36978c/dd033ac0-4b0a-4bf7-ba12-7bdc65ff61a9.png" /></a>
+
+--- 
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018b7190-2dea-4644-8f7b-cfc16c36978c/75e7b71f-debe-4eae-982d-86dfa845733e.png" /></a>
+
+--- 
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018b7190-2dea-4644-8f7b-cfc16c36978c/3114906b-2967-4742-83fb-72743515bbb7.png" /></a>
+
+--- 
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018b7190-2dea-4644-8f7b-cfc16c36978c/bf7428c2-1a6b-41dc-83cb-8aa8020c047f.png" /></a>
+
+--- 
+
 <!-- <img  align="center"  src="https://github-readme-stats-wellingtonmnf.vercel.app/api/top-langs/?username=wellingtonmnf&locale=pt-br&layout=compact&theme=salesforce&card_width=500"/> 
 
 --- -->
@@ -484,9 +501,9 @@ Acredito que a combinação dessas *"mad skills"* me permite ter uma visão equi
 
 ### :bookmark_tabs: REFERÊNCIAS
 
-* :newspaper: ***Notícias:*** [The News](https://thenewscc.com.br/) **|** [IA Sob Controle](https://www.linkedin.com/newsletters/ia-sob-controle-7206276550437007360/) **|** [Tecnoblog](https://tecnoblog.net/) **|** [TechCrunch](https://techcrunch.com/)
+* :newspaper: ***Notícias:*** [The News](https://thenewscc.com.br/) **|** [IA Sob Controle](https://www.linkedin.com/newsletters/ia-sob-controle-7206276550437007360/) **|** [Tecnoblog](https://tecnoblog.net/) **|** [Diolinux](https://diolinux.com.br/) **|** [TechCrunch](https://techcrunch.com/) **|** [The Verge](https://www.theverge.com/) **|** [TestingCatalog](https://www.testingcatalog.com/) **|** [Futurism](https://futurism.com/) **|** [The Decoder](https://the-decoder.com/)
 * :pencil: ***Blogs:*** [Tera](https://blog.somostera.com/) **|** [Data Hackers](https://www.datahackers.com.br/blog) **|** [Curso em Vídeo](https://www.cursoemvideo.com/blog/)  
-* :studio_microphone: ***Podcasts:*** [Tecnocast](https://tecnoblog.net/tecnocast/) **|** [Dev Sem Fronteiras](https://www.devsemfronteiras.tech/podcasts/) **|** [Data Hackers](https://www.datahackers.com.br/podcast) **|** [CanalTech](https://canaltech.com.br/podcast/podcast-canaltech/) **|** [Porta 101](https://canaltech.com.br/podcast/porta-101/) **|** [NerdTech](https://www.jovemnerd.com.br/podcasts/nerdtech)
+* :studio_microphone: ***Podcasts:*** [Tecnocast](https://tecnoblog.net/tecnocast/) **|** [Dev Sem Fronteiras](https://www.devsemfronteiras.tech/podcasts/) **|** [Data Hackers](https://www.datahackers.com.br/podcast) **|** [Diocast](https://diolinux.com.br/diocast) **|** [CanalTech](https://canaltech.com.br/podcast/podcast-canaltech/) **|** [Porta 101](https://canaltech.com.br/podcast/porta-101/) **|** [NerdTech](https://www.jovemnerd.com.br/podcasts/nerdtech)
 * :books: ***Livros:*** [Essencialismo](https://sextante.com.br/livros/essencialismo/) **|** [A coragem de não agradar](https://sextante.com.br/livros/a-coragem-de-nao-agradar/)
 * :microphone: ***Bandas:*** [Audioslave](https://www.youtube.com/@AudioslaveOfficial/featured) **|** [Linkin Park](https://www.youtube.com/channel/UCZU9T1ceaOgwfLRq7OKFU4Q) **|** [Green Day](https://www.youtube.com/@GreenDay)
 * :musical_note: ***Música:*** [*Simple Man (Acoustic Version)* - **Shinedown**](https://www.youtube.com/watch?v=rgFQ6WmxdMs)

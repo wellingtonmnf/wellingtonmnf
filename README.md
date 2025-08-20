@@ -444,7 +444,7 @@ Acredito que a combinação dessas *"mad skills"* me permite ter uma visão equi
 
 </section>
 
-![LInha divisória README.md](imagens/linha-div.png)
+![Linha divisória README.md](imagens/linha-div.png)
 
 <!---STATUS--->
 
@@ -484,6 +484,8 @@ Acredito que a combinação dessas *"mad skills"* me permite ter uma visão equi
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@018b7190-2dea-4644-8f7b-cfc16c36978c/bf7428c2-1a6b-41dc-83cb-8aa8020c047f.png" /></a>
 
 <figure><embed src="https://wakatime.com/share/@018b7190-2dea-4644-8f7b-cfc16c36978c/da85740c-cd11-4f40-9115-31624bdaf6e5.svg"></embed></figure>
+
+![Gráfico do WakaTime](https://wakatime.com/share/@018b7190-2dea-4644-8f7b-cfc16c36978c/da85740c-cd11-4f40-9115-31624bdaf6e5.svg)
 
 --- 
 

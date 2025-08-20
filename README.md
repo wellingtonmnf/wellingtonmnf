@@ -3,6 +3,12 @@ wellingtonmnf/wellingtonmnf is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
+<!-- 
+COLOR CODE
+
+Azul (Salesforce) = 00A1E0 
+-->
+
 <!DOCTYPE html>
 <html lang="pt-br">
 
@@ -459,21 +465,25 @@ Acredito que a combinação dessas *"mad skills"* me permite ter uma visão equi
 
 <!-- <img  align="center"  src="https://github-readme-streak-stats-wellingtonmnf.vercel.app/src/demo/api?username=wellingtonmnf&locale=pt-br&theme=salesforce&card_width=500"/> -->
 
---- 
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018b7190-2dea-4644-8f7b-cfc16c36978c/dd033ac0-4b0a-4bf7-ba12-7bdc65ff61a9.png" /></a>
+<!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@018b7190-2dea-4644-8f7b-cfc16c36978c/dd033ac0-4b0a-4bf7-ba12-7bdc65ff61a9.png" /></a> -->
 
 --- 
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@018b7190-2dea-4644-8f7b-cfc16c36978c/75e7b71f-debe-4eae-982d-86dfa845733e.png" /></a>
 
+<figure><embed src="https://wakatime.com/share/@018b7190-2dea-4644-8f7b-cfc16c36978c/d5a9a4cf-55a8-4213-a441-00cd9e525de1.svg"></embed></figure>  
+
 --- 
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@018b7190-2dea-4644-8f7b-cfc16c36978c/3114906b-2967-4742-83fb-72743515bbb7.png" /></a>
 
+<figure><embed src="https://wakatime.com/share/@018b7190-2dea-4644-8f7b-cfc16c36978c/b793d00f-ef92-4cfe-97d8-ee705f666e97.svg"></embed></figure>
+
 --- 
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@018b7190-2dea-4644-8f7b-cfc16c36978c/bf7428c2-1a6b-41dc-83cb-8aa8020c047f.png" /></a>
+
+<figure><embed src="https://wakatime.com/share/@018b7190-2dea-4644-8f7b-cfc16c36978c/da85740c-cd11-4f40-9115-31624bdaf6e5.svg"></embed></figure>
 
 --- 
 

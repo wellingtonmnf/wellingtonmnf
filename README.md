@@ -23,8 +23,7 @@ Azul (Salesforce) = 00A1E0
 <section id="apresentacao">
 
 ![Topo README.md](imagens/topo-readme-01.png)
-![Topo README.md](imagens/topo-readme-02.png)
-![Topo README.md](imagens/topo-readme-03.png)
+<!--- ![Topo README.md](imagens/topo-readme-02.png)--->
 
 ## Olá, eu sou o [**Wellington**](https://github.com/wellingtonmnf) 👋
 
@@ -519,6 +518,8 @@ Acredito que a combinação dessas *"mad skills"* me permite ter uma visão equi
 * :microphone: ***Bandas:*** [Audioslave](https://www.youtube.com/@AudioslaveOfficial/featured) **|** [Linkin Park](https://www.youtube.com/channel/UCZU9T1ceaOgwfLRq7OKFU4Q) **|** [Green Day](https://www.youtube.com/@GreenDay)
 * :musical_note: ***Música:*** [*Simple Man (Acoustic Version)* - **Shinedown**](https://www.youtube.com/watch?v=rgFQ6WmxdMs)
 
+![Rodapé do quarto roxo README.md](imagens/rodape-readme-02.png)
+
 ---
 
 <div id="salvador" align="center">
@@ -527,7 +528,6 @@ Acredito que a combinação dessas *"mad skills"* me permite ter uma visão equi
 
 
 ![Rodapé do skyline de Salvador README.md](imagens/rodape-readme-01.png)
-![Rodapé do skyline de Salvador README.md](imagens/rodape-readme-02.png)
 
 </footer>
 

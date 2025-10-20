@@ -22,13 +22,14 @@ Azul (Salesforce) = 00A1E0
 <!---APRESENTAÇÃO--->
 <section id="apresentacao">
 
-![Topo README.md](imagens/topo-readme.png)
+![Topo README.md](imagens/topo-readme-01.png)
+![Topo README.md](imagens/topo-readme-02.png)
+![Topo README.md](imagens/topo-readme-03.png)
 
 ## Olá, eu sou o [**Wellington**](https://github.com/wellingtonmnf) 👋
 
-- :man_technologist: Estou em processo de transição de carreira, estudando para me tornar um Desenvolvedor Salesforce
-- 🌱 Eu estou aprendendo atualmente: Salesforce (CRM), Apex, SOQL, HTML5, CSS3 e JavaScript
-- 📚 Iniciei em 2025 uma Pós-Graduação em Inteligência Artificial e Ciência de Dados!
+- :man_technologist: Estou em processo de transição de carreira, estudando para me tornar um Especialista em Inteligência Artificial e Ciência de Dados!
+- 🌱 Eu estou aprendendo atualmente: Python, SQL, MongoDB
 - 👀 Me interesso por: Programação, Desenvolvimento Web, Análise de Dados, Inteligêngia Artificial, Design Gráfico e Arquitetura e Urbanismo
 - :thumbsup: Também gosto de escutar músicas e podcasts :headphones:, viajar e conhecer novos lugares :airplane::world_map::national_park:, sair com os amigos :man: :bearded_person: :woman: :curly_haired_woman: e do E.C. Vitória! :lion: :red_circle: :black_circle: :soccer:
 - :open_book: Você pode acompanhar minha transição de carreira lendo o meu blog [**Algoritmo Biomimético**](https://medium.com/algoritmo-biomimetico) :electron:
@@ -524,7 +525,9 @@ Acredito que a combinação dessas *"mad skills"* me permite ter uma visão equi
 <h3>:earth_americas: Com muito ORGULHO, com muito AMOR, eu sou de...</h3>
 </div>
 
-![Rodapé do skyline de Salvador README.md](imagens/rodape-readme.png)
+
+![Rodapé do skyline de Salvador README.md](imagens/rodape-readme-01.png)
+![Rodapé do skyline de Salvador README.md](imagens/rodape-readme-02.png)
 
 </footer>
 

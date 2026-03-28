@@ -137,11 +137,11 @@ Azul (Salesforce) = 00A1E0
    + Pesquisa e estudo de mercado;
    + Retorno dos estudos na área de T.I. em busca de reinserção no mercado;
 
-   ##### Pós-graduação:
+   #### Pós-graduação:
 
    + Inteligência Artificial e Ciência de Dados | UNIFACS; 
 
-   ##### Cursos livres:
+   #### Cursos livres:
 
    | Curso | Plataforma | Instrutor |
    | --- | --- | --- |
@@ -153,24 +153,26 @@ Azul (Salesforce) = 00A1E0
    | Banco de Dados (PostgreSQL) | Ada Tech | Tiago Marto |
    | Git e Versionamento | Ada Tech | Bruno Feitosa |
    | [Python (Mundo 1,2 e 3)](https://github.com/wellingtonmnf/python3-cursoemvideo) | Curso em Vídeo | Gustavo Guanabara |
+   
+   #### Imersões Alura:
 
-   ##### Imersões Alura:
-
-   | Imersão | Foco | Observações |
-   | --- | --- | --- |
-   | [Dados com Python](https://github.com/wellingtonmnf/imersao-dados-python-alura) | Análise de Dados |  |
-   | IA Generativa | Gemini, Google AI Studio | 2x |
-   | [Front-end com IA](https://github.com/wellingtonmnf/imersao-front-end-com-ia-alura) | Front-end |  |
-   | [Dev_ com Gemini](https://github.com/wellingtonmnf/onde_joga_isso_fora) | Front-end |  |
-   | [Dev_ com Gemini](https://github.com/wellingtonmnf/instalike-back) | Back-end |  |
-
-   ##### Estudo em Salesforce:
+   | Imersão | Foco |
+   | --- | --- |
+   | [Dados com Python](https://github.com/wellingtonmnf/imersao-dados-python-alura) | Análise de Dados |
+   | IA 2ª Edição | Gemini |
+   | IA 3ª Edição | Google AI Studio |
+   | IA 4ª Edição | Google AI Studio | 
+   | [Front-end com IA](https://github.com/wellingtonmnf/imersao-front-end-com-ia-alura) | Front-end |
+   | [Dev_ com Gemini](https://github.com/wellingtonmnf/onde_joga_isso_fora) | Front-end |
+   | [Dev_ com Gemini](https://github.com/wellingtonmnf/instalike-back) | Back-end |
+   
+   #### Estudo em Salesforce:
 
    | Fonte | Tema | Professor / Autor |
    | --- | --- | --- |
    | [Livro "Salesforce para não programadores e programadores"](https://github.com/wellingtonmnf/projeto_livro01_teste01) | Apex, SOQL | Tiago Corrêa Welter |
    | [Livro "Salesforce APEX - Implemente soluções com padrões e técnicas de Orientação a Objetos"](https://github.com/wellingtonmnf/salesforce-apex-book-cdc-alura) | Apex, SOQL | Eduardo 'Bisso' Carvalho |
-
+   ---
    #### :construction_worker: Arquiteto | Autônomo
 
    :calendar: **jan de 2016 - ago de 2022 · :hourglass: 6 anos 8 meses** </br>
@@ -182,7 +184,7 @@ Azul (Salesforce) = 00A1E0
    + Projetos de arquitetura de interiores;
    + Execução de reformas;
    + Laudos Técnicos;
-
+   ---
    #### :postbox: Estagiário de Arquitetura | Correios
 
    :calendar: **jun de 2012 - jun de 2014 · :hourglass: 2 anos 1 mês** </br>
@@ -249,23 +251,14 @@ Azul (Salesforce) = 00A1E0
 
 <div id="hard-skills-list" align="center">
 
-#### Inteligência Artificial:
-
-![Antrophic Badge](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&labelColor=999999&logo=anthropic&logoColor=white)
-![ChatGPT Badge](https://custom-icon-badges.demolab.com/badge/ChatGPT-412991?style=for-the-badge&labelColor=999999&logo=openai&logoColor=white)
-![Gemini Badge](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&labelColor=999999&logo=googlegemini&logoColor=white)
-![Perplexity Badge](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&labelColor=999999&logo=perplexity&logoColor=white)
-![Alexa Badge](https://custom-icon-badges.demolab.com/badge/Alexa-00CAFF?style=for-the-badge&labelColor=999999&logo=aws&logoColor=white)
-<!--![Alexa Badge](https://img.shields.io/badge/Alexa-00CAFF?style=for-the-badge&labelColor=999999&logo=amazonalexa&logoColor=white)-->
----
 #### Programação (Back-end):
 
 ![Python Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&labelColor=999999&logo=python&logoColor=white)
 ![Java Badge](https://custom-icon-badges.demolab.com/badge/java-red?style=for-the-badge&labelColor=999999&logo=java&logoColor=white) 
 <!--![Java Badge](https://img.shields.io/badge/java-red?style=for-the-badge&labelColor=999999&logo=CoffeeScript&logoColor=white)-->
 <!-- ![Apex Badge](https://img.shields.io/badge/apex-00A1E0?style=for-the-badge&labelColor=999999&logo=salesforce&logoColor=white) -->
-
 ---
+
 #### Desenvolvimento Web (Front-end):
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=999999&logo=html5&logoColor=white)
@@ -284,25 +277,39 @@ Azul (Salesforce) = 00A1E0
 <!-- ![MySQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&labelColor=999999&logo=mysql&logoColor=white) -->
 <!-- ![XAMPP Badge](https://img.shields.io/badge/xampp-FB7A24?style=for-the-badge&labelColor=999999&logo=xampp&logoColor=white) -->
 ---
+
 #### Versionamento:
 
 ![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&labelColor=999999&logo=git&logoColor=white)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&labelColor=999999&logo=github&logoColor=white)
 ---
+
 #### Edição de código:
 
-<!--![VS Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&labelColor=999999&logo=visual%20studio%20code&logoColor=white)-->
 ![VS Code Badge](https://custom-icon-badges.demolab.com/badge/VS_Code-0078D4?style=for-the-badge&labelColor=999999&logo=visual%20studio%20code&logoColor=white)
 ![PyCharm Badge](https://img.shields.io/badge/pycharm-B6FF60?style=for-the-badge&labelColor=999999&logo=pycharm&logoColor=white)
 ![IntelliJ IDEA Badge](https://img.shields.io/badge/intellij_idea-CE3DF3?style=for-the-badge&labelColor=999999&logo=intellijidea&logoColor=white)
 ![Google Colab Badge](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&labelColor=999999&logo=googlecolab&logoColor=white)
 ![Sublime Text Badge](https://img.shields.io/badge/sublime_text-FF9800?&style=for-the-badge&labelColor=999999&logo=sublimetext&logoColor=white)
 ---
+
 #### Conteinerização:
 
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=999999&logo=docker&logoColor=white)
 <!--![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&labelColor=999999&logo=kubernetes&logoColor=white)-->
 ---
+
+#### Virtualização:
+
+![VirtualBox Badge](https://img.shields.io/badge/virtualbox-183A61?style=for-the-badge&labelColor=999999&logo=virtualbox&logoColor=white)
+---
+
+#### Hardware: 
+
+![Manutenção de Micro Badge](https://img.shields.io/badge/Manutenção%20de%20Micro-B0C4DE?style=for-the-badge&labelColor=999999&logo=PCGamingWiki&logoColor=white)
+<!--![Análise de Specs Badge](https://img.shields.io/badge/Manutenção%20de%20Micro-B0C4DE?style=for-the-badge&labelColor=999999&logo=PCGamingWiki&logoColor=white)-->
+---
+
 #### SO:
 
 <!--![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&labelColor=999999&logo=windows&logoColor=white)-->
@@ -310,10 +317,7 @@ Azul (Salesforce) = 00A1E0
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&labelColor=999999&logo=linux&logoColor=white)
 ![Linux Mint Badge](https://img.shields.io/badge/Linux_Mint-86BE43?style=for-the-badge&labelColor=999999&logo=linuxmint&logoColor=white)
 ---
-#### Virtualização:
 
-![VirtualBox Badge](https://img.shields.io/badge/virtualbox-183A61?style=for-the-badge&labelColor=999999&logo=virtualbox&logoColor=white)
----
 #### Navegadores:
 
 ![Brave Badge](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&labelColor=999999&logo=brave&logoColor=white)
@@ -323,11 +327,19 @@ Azul (Salesforce) = 00A1E0
 <!--![DuckDuckGo Badge](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&labelColor=999999&logo=duckduckgo&logoColor=white)-->
 <!--![Vivaldi Badge](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&labelColor=999999&logo=vivaldi&logoColor=white)-->
 ---
-<!--#### CRM:
 
-![Salesforce Badge](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&labelColor=999999&logo=Salesforce&logoColor=white)
+#### Planejamento | Pacote Office:
+
+![Notion Badge](https://img.shields.io/badge/notion-000000?style=for-the-badge&labelColor=999999&logo=notion&logoColor=white)
+![Trello Badge](https://img.shields.io/badge/trello-0052CC?style=for-the-badge&labelColor=999999&logo=Trello&logoColor=white)
+![ONLYOFFICE Badge](https://img.shields.io/badge/onlyoffice-444444?style=for-the-badge&labelColor=999999&logo=onlyoffice&logoColor=white)
 ---
--->
+
+#### Escrita:
+
+![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&labelColor=999999&logo=medium&logoColor=white)
+---
+
 #### Design gráfico:
 
 <!--![Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&labelColor=999999&logo=Adobe%20Photoshop&logoColor=white)-->
@@ -335,21 +347,7 @@ Azul (Salesforce) = 00A1E0
 ![Photoshop Badge](https://custom-icon-badges.demolab.com/badge/Photoshop-001e36?style=for-the-badge&labelColor=999999&logo=photoshop&logoColor=white)
 ![Illustrator Badge](https://custom-icon-badges.demolab.com/badge/Illustrator-FF9A00?style=for-the-badge&labelColor=999999&logo=illustrator&logoColor=)
 ---
-#### Escrita:
 
-![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&labelColor=999999&logo=medium&logoColor=white)
----
-#### Planejamento | Pacote Office:
-
-![Notion Badge](https://img.shields.io/badge/notion-000000?style=for-the-badge&labelColor=999999&logo=notion&logoColor=white)
-![Trello Badge](https://img.shields.io/badge/trello-0052CC?style=for-the-badge&labelColor=999999&logo=Trello&logoColor=white)
-![ONLYOFFICE Badge](https://img.shields.io/badge/onlyoffice-444444?style=for-the-badge&labelColor=999999&logo=onlyoffice&logoColor=white)
----
-#### Hardware: 
-
-![Manutenção de Micro Badge](https://img.shields.io/badge/Manutenção%20de%20Micro-B0C4DE?style=for-the-badge&labelColor=999999&logo=PCGamingWiki&logoColor=white)
-<!--![Análise de Specs Badge](https://img.shields.io/badge/Manutenção%20de%20Micro-B0C4DE?style=for-the-badge&labelColor=999999&logo=PCGamingWiki&logoColor=white)-->
----
 #### BIM | CAD | Modelagem 3D | Renderização:
 
 ![Revit Badge](https://img.shields.io/badge/revit-186BFF?style=for-the-badge&labelColor=999999&logo=autodesk%20revit&logoColor=white)
@@ -357,6 +355,17 @@ Azul (Salesforce) = 00A1E0
 ![SketchUp Badge](https://img.shields.io/badge/sketchup-005F9E?style=for-the-badge&labelColor=999999&logo=sketchup&logoColor=white)
 ![Lumion 3D Badge](https://img.shields.io/badge/lumion-007aff?style=for-the-badge&labelColor=999999&logo=logstash&logoColor=white)
 ---
+
+#### Inteligência Artificial:
+
+![Antrophic Badge](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&labelColor=999999&logo=anthropic&logoColor=white)
+![ChatGPT Badge](https://custom-icon-badges.demolab.com/badge/ChatGPT-412991?style=for-the-badge&labelColor=999999&logo=openai&logoColor=white)
+![Gemini Badge](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&labelColor=999999&logo=googlegemini&logoColor=white)
+![Perplexity Badge](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&labelColor=999999&logo=perplexity&logoColor=white)
+![Alexa Badge](https://custom-icon-badges.demolab.com/badge/Alexa-00CAFF?style=for-the-badge&labelColor=999999&logo=aws&logoColor=white)
+<!--![Alexa Badge](https://img.shields.io/badge/Alexa-00CAFF?style=for-the-badge&labelColor=999999&logo=amazonalexa&logoColor=white)-->
+---
+
 </div>
 
 </details>

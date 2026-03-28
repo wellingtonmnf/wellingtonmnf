@@ -137,11 +137,11 @@ Azul (Salesforce) = 00A1E0
    + Pesquisa e estudo de mercado;
    + Retorno dos estudos na área de T.I. em busca de reinserção no mercado;
 
-   #### Pós-graduação:
+   #### :graduation_cap: Pós-graduação:
 
    + Inteligência Artificial e Ciência de Dados | UNIFACS; 
 
-   #### Cursos livres:
+   #### :unlock: Cursos livres:
 
    | Curso | Plataforma | Instrutor |
    | --- | --- | --- |
@@ -154,7 +154,7 @@ Azul (Salesforce) = 00A1E0
    | Git e Versionamento | Ada Tech | Bruno Feitosa |
    | [Python (Mundo 1,2 e 3)](https://github.com/wellingtonmnf/python3-cursoemvideo) | Curso em Vídeo | Gustavo Guanabara |
    
-   #### Imersões Alura:
+   #### :diving_mask: Imersões Alura:
 
    | Imersão | Foco |
    | --- | --- |
@@ -166,7 +166,7 @@ Azul (Salesforce) = 00A1E0
    | [Dev_ com Gemini](https://github.com/wellingtonmnf/onde_joga_isso_fora) | Front-end |
    | [Dev_ com Gemini](https://github.com/wellingtonmnf/instalike-back) | Back-end |
    
-   #### Estudo em Salesforce:
+   #### :cloud: Estudo em Salesforce:
 
    | Fonte | Tema | Professor / Autor |
    | --- | --- | --- |
@@ -255,8 +255,6 @@ Azul (Salesforce) = 00A1E0
 
 ![Python Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&labelColor=999999&logo=python&logoColor=white)
 ![Java Badge](https://custom-icon-badges.demolab.com/badge/java-red?style=for-the-badge&labelColor=999999&logo=java&logoColor=white) 
-<!--![Java Badge](https://img.shields.io/badge/java-red?style=for-the-badge&labelColor=999999&logo=CoffeeScript&logoColor=white)-->
-<!-- ![Apex Badge](https://img.shields.io/badge/apex-00A1E0?style=for-the-badge&labelColor=999999&logo=salesforce&logoColor=white) -->
 ---
 
 #### Desenvolvimento Web (Front-end):
@@ -267,15 +265,12 @@ Azul (Salesforce) = 00A1E0
 ![Node.js Badge](https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&labelColor=999999&logo=nodedotjs&logoColor=white) 
 ![.Env Badge](https://img.shields.io/badge/.env-ECD53F?style=for-the-badge&labelColor=999999&logo=dotenv&logoColor=white) 
 ![Insomnia Badge](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&labelColor=999999&logo=insomnia&logoColor=white)
-<!--![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=999999&logo=postman&logoColor=white)-->
 ---
 
 #### Banco de Dados:
 
 ![PSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&labelColor=999999&logo=postgresql&logoColor=white)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&labelColor=999999&logo=mongodb&logoColor=white)
-<!-- ![MySQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&labelColor=999999&logo=mysql&logoColor=white) -->
-<!-- ![XAMPP Badge](https://img.shields.io/badge/xampp-FB7A24?style=for-the-badge&labelColor=999999&logo=xampp&logoColor=white) -->
 ---
 
 #### Versionamento:
@@ -287,8 +282,8 @@ Azul (Salesforce) = 00A1E0
 #### Edição de código:
 
 ![VS Code Badge](https://custom-icon-badges.demolab.com/badge/VS_Code-0078D4?style=for-the-badge&labelColor=999999&logo=visual%20studio%20code&logoColor=white)
-![PyCharm Badge](https://img.shields.io/badge/pycharm-B6FF60?style=for-the-badge&labelColor=999999&logo=pycharm&logoColor=white)
-![IntelliJ IDEA Badge](https://img.shields.io/badge/intellij_idea-CE3DF3?style=for-the-badge&labelColor=999999&logo=intellijidea&logoColor=white)
+![PyCharm Badge](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&labelColor=999999&logo=pycharm&logoColor=white)
+![IntelliJ IDEA Badge](https://img.shields.io/badge/intellij_idea-000000?style=for-the-badge&labelColor=999999&logo=intellijidea&logoColor=white)
 ![Google Colab Badge](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&labelColor=999999&logo=googlecolab&logoColor=white)
 ![Sublime Text Badge](https://img.shields.io/badge/sublime_text-FF9800?&style=for-the-badge&labelColor=999999&logo=sublimetext&logoColor=white)
 ---
@@ -296,7 +291,6 @@ Azul (Salesforce) = 00A1E0
 #### Conteinerização:
 
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=999999&logo=docker&logoColor=white)
-<!--![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&labelColor=999999&logo=kubernetes&logoColor=white)-->
 ---
 
 #### Virtualização:
@@ -306,13 +300,12 @@ Azul (Salesforce) = 00A1E0
 
 #### Hardware: 
 
-![Manutenção de Micro Badge](https://img.shields.io/badge/Manutenção%20de%20Micro-B0C4DE?style=for-the-badge&labelColor=999999&logo=PCGamingWiki&logoColor=white)
-<!--![Análise de Specs Badge](https://img.shields.io/badge/Manutenção%20de%20Micro-B0C4DE?style=for-the-badge&labelColor=999999&logo=PCGamingWiki&logoColor=white)-->
+![Análise de Especificações Badge](https://img.shields.io/badge/Análise_de_Especificações-B0C4DE?style=for-the-badge&labelColor=999999&logo=specs-analysis&logoColor=white)
+![Manutenção de Micro Badge](https://img.shields.io/badge/Manutenção_de_Micro-B0C4DE?style=for-the-badge&labelColor=999999&logo=tools-maintenance&logoColor=white)
 ---
 
 #### SO:
 
-<!--![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&labelColor=999999&logo=windows&logoColor=white)-->
 ![Windows Badge](https://custom-icon-badges.demolab.com/badge/Windows-0078D6.svg?style=for-the-badge&labelColor=999999&logo=windows&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&labelColor=999999&logo=linux&logoColor=white)
 ![Linux Mint Badge](https://img.shields.io/badge/Linux_Mint-86BE43?style=for-the-badge&labelColor=999999&logo=linuxmint&logoColor=white)
@@ -323,9 +316,6 @@ Azul (Salesforce) = 00A1E0
 ![Brave Badge](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&labelColor=999999&logo=brave&logoColor=white)
 ![Firefox Badge](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&labelColor=999999&logo=firefoxbrowser&logoColor=white)
 ![Zen Badge](https://img.shields.io/badge/zen-F76F53?style=for-the-badge&labelColor=999999&logo=zenbrowser&logoColor=white)
-<!--![Chrome Badge](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&labelColor=999999&logo=googlechrome&logoColor=white)-->
-<!--![DuckDuckGo Badge](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&labelColor=999999&logo=duckduckgo&logoColor=white)-->
-<!--![Vivaldi Badge](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&labelColor=999999&logo=vivaldi&logoColor=white)-->
 ---
 
 #### Planejamento | Pacote Office:
@@ -342,8 +332,6 @@ Azul (Salesforce) = 00A1E0
 
 #### Design gráfico:
 
-<!--![Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&labelColor=999999&logo=Adobe%20Photoshop&logoColor=white)-->
-<!--![Illustrator Badge](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&labelColor=999999&logo=Adobe%20Illustrator&logoColor=white)-->
 ![Photoshop Badge](https://custom-icon-badges.demolab.com/badge/Photoshop-001e36?style=for-the-badge&labelColor=999999&logo=photoshop&logoColor=white)
 ![Illustrator Badge](https://custom-icon-badges.demolab.com/badge/Illustrator-FF9A00?style=for-the-badge&labelColor=999999&logo=illustrator&logoColor=)
 ---
@@ -363,7 +351,6 @@ Azul (Salesforce) = 00A1E0
 ![Gemini Badge](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&labelColor=999999&logo=googlegemini&logoColor=white)
 ![Perplexity Badge](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&labelColor=999999&logo=perplexity&logoColor=white)
 ![Alexa Badge](https://custom-icon-badges.demolab.com/badge/Alexa-00CAFF?style=for-the-badge&labelColor=999999&logo=aws&logoColor=white)
-<!--![Alexa Badge](https://img.shields.io/badge/Alexa-00CAFF?style=for-the-badge&labelColor=999999&logo=amazonalexa&logoColor=white)-->
 ---
 
 </div>
@@ -440,7 +427,7 @@ Acredito que a combinação dessas *"mad skills"* me permite ter uma visão equi
 --- 
 #### :desktop_computer: SETUP \#02
 * **OS:** Linux Mint Debian Edition (LMDE) 6 Faye
-* **Laptop:** Gigabyte GA-78LMT-USB3 R2 | AMD FX-8300 | Radeon RX 560 4 GB | RAM: 16 GB | SSD: 600 GB | HDD: 2 TB
+* **Desktop:** Gigabyte GA-78LMT-USB3 R2 | AMD FX-8300 | Radeon RX 560 4 GB | RAM: 16 GB | SSD: 600 GB | HDD: 2 TB
 * **Navegadores:** Brave | Firefox | Zen <!--| Chromium-->
 ---
 #### :computer: SETUP \#03
@@ -449,8 +436,8 @@ Acredito que a combinação dessas *"mad skills"* me permite ter uma visão equi
 * **Navegadores:** Brave | Firefox | Zen <!--| Chromium-->
 ---
 #### :wrench: FERRAMENTAS
-* **Editores de código:** VS Code | PyCharm | IntelliJ IDEA
-* **Banco de dados:** PGAdmin4
+* **Editores de código:** VS Code | PyCharm | IntelliJ IDEA | Google Colab
+* **Banco de dados:** PGAdmin4 | MongoDB
 * **Versionamento:** Git 
 * **Repositório:** GitHub
 * **Plataformas:** Java | Node.js 

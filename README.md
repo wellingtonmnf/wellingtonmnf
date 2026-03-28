@@ -28,8 +28,8 @@ Azul (Salesforce) = 00A1E0
 ## Olá, eu sou o [**Wellington**](https://github.com/wellingtonmnf) 👋
 
 - :man_technologist: Estou em processo de transição de carreira, estudando para me tornar um Especialista em Inteligência Artificial e Ciência de Dados!
-- 🌱 Eu estou aprendendo atualmente: Python, SQL, MongoDB
-- 👀 Me interesso por: Programação, Desenvolvimento Web, Análise de Dados, Inteligêngia Artificial, Design Gráfico e Arquitetura e Urbanismo
+- 🌱 Eu estou aprendendo atualmente: Big Data, SQL, MongoDB, Python, Machine Learning, PLN...
+- 👀 Me interesso por: Programação, Desenvolvimento Web, Ciência de Dados, Análise de Dados, Inteligêngia Artificial, Design Gráfico e Arquitetura e Urbanismo
 - :thumbsup: Também gosto de escutar músicas e podcasts :headphones:, viajar e conhecer novos lugares :airplane::world_map::national_park:, sair com os amigos :man: :bearded_person: :woman: :curly_haired_woman: e do E.C. Vitória! :lion: :red_circle: :black_circle: :soccer:
 - :open_book: Você pode acompanhar minha transição de carreira lendo o meu blog [**Algoritmo Biomimético**](https://medium.com/algoritmo-biomimetico) :electron:
 
@@ -49,7 +49,7 @@ Azul (Salesforce) = 00A1E0
 
 <p text-align="justify">Depois de anos atuando como Arquiteto e Urbanista, retorno aos estudos na área de T.I. para construir um portfólio e me reinserir no mercado de trabalho.</p>
 
-<p text-align="justify">Encaro essa mudança com muita disposição e entusiasmo, aprendendo, contribuindo e evoluindo diante das necessidades, das demandas e das oportunidades emergentes.</p>
+<p text-align="justify">Encaro essa mudança com muita disposição, entusiasmo e curiosidade, buscando sempre aprender, contribuir e evoluir diante das necessidades, das demandas e das oportunidades emergentes.</p>
 
 <p text-align="justify">Sou proficiente em softwares de edição de imagens e de modelagem 3D.</p>
 
@@ -68,11 +68,12 @@ Azul (Salesforce) = 00A1E0
 [![LinkedIn Badge](https://custom-icon-badges.demolab.com/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoSource=feather&logoColor=white)](https://linkedin.com/in/wellingtonmnf)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)
 [![Outlook Badge](https://custom-icon-badges.demolab.com/badge/Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white)](https://mailto:wellingtonmnf@outlook.com)
-[![Bluesky Badge](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/wellingtonmnf.bsky.social)
 [![X Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/wellingtonmnf)
+[![Bluesky Badge](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/wellingtonmnf.bsky.social)
 [![Reddit Badge](https://img.shields.io/badge/reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/wellingtonmnf/)
+[![Discord Badge](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://x.com/wellingtonmnf)
 <!--[![Stack Overflow Badge](https://img.shields.io/badge/stack_overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/28856585/wellingtonmnf)-->
-<!--[![Discord Badge](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://x.com/wellingtonmnf)-->
+
 
 </div>
 
@@ -136,23 +137,36 @@ Azul (Salesforce) = 00A1E0
    + Pesquisa e estudo de mercado;
    + Retorno dos estudos na área de T.I. em busca de reinserção no mercado;
 
-   + Cursos livres:
-     - Lógica de Programação; 
-     - Java, POO;
-     - HTML5, CSS3;
-     - MySQL;
-     - Python;
+   + Pós-graduação:
+     - Inteligência Artificial e Ciência de Dados | UNIFACS; 
 
-   + Imersões Alura:  
-     - Dados com Python | Análise de Dados;
-     - IA Generativa | Gemini, Google AI Studio (2x);
-     - Dev_ com Gemini | Front-end;
-     - Dev_ com Gemini | Back-end;
+   + Cursos livres:
+
+   | Curso | Plataforma | Instrutor |
+   | --- | --- | --- |
+   | Lógica de Programação | Curso em Vídeo | Gustavo Guanabara |
+   | Java Básico, Java POO | Curso em Vídeo | Gustavo Guanabara |
+   | [Maratona Java](https://github.com/wellingtonmnf/maratona-java) | DevDojo Academy | William Suane |
+   | [HTML5, CSS3](https://github.com/wellingtonmnf/google-glass) | Curso em Vídeo | Gustavo Guanabara |
+   | MySQL | Curso em Vídeo | Gustavo Guanabara |
+   | Banco de Dados (PostgreSQL) | Ada Tech | Tiago Marto |
+   | Git e Versionamento | Ada Tech | Bruno Feitosa |
+   | [Python (Mundo 1,2 e 3)](https://github.com/wellingtonmnf/python3-cursoemvideo) | Curso em Vídeo | Gustavo Guanabara |
+
+   + Imersões Alura:
+
+   | Imersão | Foco | Observações |
+   | --- | --- | --- |
+   | [Dados com Python](https://github.com/wellingtonmnf/imersao-dados-python-alura) | Análise de Dados |  |
+   | IA Generativa | Gemini, Google AI Studio | 2x |
+   | [Front-end com IA](https://github.com/wellingtonmnf/imersao-front-end-com-ia-alura) | Front-end |  |
+   | [Dev_ com Gemini](https://github.com/wellingtonmnf/onde_joga_isso_fora) | Front-end |  |
+   | [Dev_ com Gemini](https://github.com/wellingtonmnf/instalike-back) | Back-end |  |
 
    + Estudo em Salesforce:
      - Apex, SOQL;
-     - Livro "Salesforce para não programadores e programadores";
-     - Livro "Salesforce APEX - Implemente soluções com padrões e técnicas de Orientação a Objetos"   
+     - [Livro "Salesforce para não programadores e programadores"](https://github.com/wellingtonmnf/projeto_livro01_teste01);
+     - [Livro "Salesforce APEX - Implemente soluções com padrões e técnicas de Orientação a Objetos"](https://github.com/wellingtonmnf/salesforce-apex-book-cdc-alura)   
 
    #### :construction_worker: Arquiteto | Autônomo
 
@@ -234,28 +248,29 @@ Azul (Salesforce) = 00A1E0
 
 #### Programação:
 
-<!--![Java Badge](https://img.shields.io/badge/java-red?style=for-the-badge&labelColor=999999&logo=CoffeeScript&logoColor=white)-->
-![Java Badge](https://custom-icon-badges.demolab.com/badge/java-red?style=for-the-badge&labelColor=999999&logo=java&logoColor=white)
-![Apex Badge](https://img.shields.io/badge/apex-00A1E0?style=for-the-badge&labelColor=999999&logo=salesforce&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&labelColor=999999&logo=python&logoColor=white)
+![Java Badge](https://custom-icon-badges.demolab.com/badge/java-red?style=for-the-badge&labelColor=999999&logo=java&logoColor=white) -->
+<!--![Java Badge](https://img.shields.io/badge/java-red?style=for-the-badge&labelColor=999999&logo=CoffeeScript&logoColor=white)-->
+<!-- ![Apex Badge](https://img.shields.io/badge/apex-00A1E0?style=for-the-badge&labelColor=999999&logo=salesforce&logoColor=white) -->
+
 ---
 #### Desenvolvimento Web:
 
-<!--![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=999999&logo=postman&logoColor=white)-->
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=999999&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=999999&logo=css&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&labelColor=999999&logo=JavaScript&logoColor=white)
 ![Node.js Badge](https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&labelColor=999999&logo=nodedotjs&logoColor=white) 
 ![.Env Badge](https://img.shields.io/badge/.env-ECD53F?style=for-the-badge&labelColor=999999&logo=dotenv&logoColor=white) 
 ![Insomnia Badge](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&labelColor=999999&logo=insomnia&logoColor=white)
+<!--![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=999999&logo=postman&logoColor=white)-->
 ---
 
 #### Banco de Dados:
 
-![MySQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&labelColor=999999&logo=mysql&logoColor=white)
-![XAMPP Badge](https://img.shields.io/badge/xampp-FB7A24?style=for-the-badge&labelColor=999999&logo=xampp&logoColor=white)
 ![PSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&labelColor=999999&logo=postgresql&logoColor=white)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&labelColor=999999&logo=mongodb&logoColor=white)
+<!-- ![MySQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&labelColor=999999&logo=mysql&logoColor=white) -->
+<!-- ![XAMPP Badge](https://img.shields.io/badge/xampp-FB7A24?style=for-the-badge&labelColor=999999&logo=xampp&logoColor=white) -->
 --- 
 
 #### SO:
@@ -263,7 +278,7 @@ Azul (Salesforce) = 00A1E0
 <!--![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&labelColor=999999&logo=windows&logoColor=white)-->
 ![Windows Badge](https://custom-icon-badges.demolab.com/badge/Windows-0078D6.svg?style=for-the-badge&labelColor=999999&logo=windows&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&labelColor=999999&logo=linux&logoColor=white)
-![Fedora OS Badge](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&labelColor=999999&logo=fedora&logoColor=white)
+![Linux Mint Badge](https://img.shields.io/badge/Linux_Mint-86BE43?style=for-the-badge&labelColor=999999&logo=linuxmint&logoColor=white)
 ---
 #### Virtualização:
 
@@ -277,39 +292,40 @@ Azul (Salesforce) = 00A1E0
 #### Edição de código:
 
 <!--![VS Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&labelColor=999999&logo=visual%20studio%20code&logoColor=white)-->
-<!--![NetBeans Badge](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&labelColor=999999&logo=apache%20netbeans%20IDE&logoColor=white)-->
-<!--![Sublime Text Badge](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&labelColor=999999&logo=sublime-text&logoColor=white)-->
-<!--![Notepad++ Badge](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&labelColor=999999&logo=notepad%2B%2B&logoColor=white)-->
 ![VS Code Badge](https://custom-icon-badges.demolab.com/badge/VS_Code-0078D4?style=for-the-badge&labelColor=999999&logo=visual%20studio%20code&logoColor=white)
 ![PyCharm Badge](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&labelColor=999999&logo=pycharm&logoColor=white)
 ![IntelliJ IDEA Badge](https://img.shields.io/badge/intellij_idea-000000?style=for-the-badge&labelColor=999999&logo=intellijidea&logoColor=white)
+![Google Colab Badge](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&labelColor=999999&logo=googlecolab&logoColor=white)
+![Sublime Text Badge](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&labelColor=999999&logo=sublime-text&logoColor=white)
 ---
 #### Navegadores:
 
-<!--![Chrome Badge](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&labelColor=999999&logo=googlechrome&logoColor=white)-->
-<!--![DuckDuckGo Badge](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&labelColor=999999&logo=duckduckgo&logoColor=white)-->
-<!--![Zen Badge](https://img.shields.io/badge/zen-F76F53?style=for-the-badge&labelColor=999999&logo=zenbrowser&logoColor=white)-->
-![Vivaldi Badge](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&labelColor=999999&logo=vivaldi&logoColor=white)
 ![Brave Badge](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&labelColor=999999&logo=brave&logoColor=white)
 ![Firefox Badge](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&labelColor=999999&logo=firefoxbrowser&logoColor=white)
+![Zen Badge](https://img.shields.io/badge/zen-F76F53?style=for-the-badge&labelColor=999999&logo=zenbrowser&logoColor=white)
+<!--![Chrome Badge](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&labelColor=999999&logo=googlechrome&logoColor=white)-->
+<!--![DuckDuckGo Badge](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&labelColor=999999&logo=duckduckgo&logoColor=white)-->
+<!--![Vivaldi Badge](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&labelColor=999999&logo=vivaldi&logoColor=white)-->
 ---
 #### Inteligência Artificial:
 
-<!--![Alexa Badge](https://img.shields.io/badge/Alexa-00CAFF?style=for-the-badge&labelColor=999999&logo=amazonalexa&logoColor=white)-->
-![Perplexity Badge](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&labelColor=999999&logo=perplexity&logoColor=white)
-![Gemini Badge](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&labelColor=999999&logo=googlegemini&logoColor=white)
-![ChatGPT Badge](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&labelColor=999999&logo=openai&logoColor=white)
 ![Antrophic Badge](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&labelColor=999999&logo=anthropic&logoColor=white)
+![ChatGPT Badge](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&labelColor=999999&logo=openai&logoColor=white)
+![Gemini Badge](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&labelColor=999999&logo=googlegemini&logoColor=white)
+![Perplexity Badge](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&labelColor=999999&logo=perplexity&logoColor=white)
 ![Alexa Badge](https://custom-icon-badges.demolab.com/badge/Alexa-00CAFF?style=for-the-badge&labelColor=999999&logo=aws&logoColor=white)
+<!--![Alexa Badge](https://img.shields.io/badge/Alexa-00CAFF?style=for-the-badge&labelColor=999999&logo=amazonalexa&logoColor=white)-->
 ---
+<!-->
 #### CRM:
 
 ![Salesforce Badge](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&labelColor=999999&logo=Salesforce&logoColor=white)
 ---
+-->
 #### Conteinerização:
 
-<!--![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&labelColor=999999&logo=kubernetes&logoColor=white)-->
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=999999&logo=docker&logoColor=white)
+<!--![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&labelColor=999999&logo=kubernetes&logoColor=white)-->
 ---
 #### Design gráfico:
 
@@ -408,25 +424,30 @@ Acredito que a combinação dessas *"mad skills"* me permite ter uma visão equi
 
 #### :desktop_computer: SETUP \#01
 * **OS:** Windows 11
-* **Desktop:** ASUS TUF GAMING B550M-PLUS (Wi-Fi) | Ryzen 5 5600X | GeForce 3070Ti | RAM: 32 GB | SSD: 2,5 TB
-* **Navegadores:** Vivaldi | Brave | Firefox <!--| Edge | Chrome | DuckDuckGo | Zen-->
+* **Desktop:** ASUS TUF GAMING B550M-PLUS (Wi-Fi) | AMD Ryzen 5 5600X | GeForce 3070 Ti 8 GB | RAM: 32 GB | SSD: 2,5 TB
+* **Navegadores:** Brave | Firefox | Zen | Comet <!--| Edge | Chrome | DuckDuckGo -->
 --- 
-#### :computer: SETUP \#02
-* **OS:** Fedora 42
-* **Laptop:** Dell Vostro 3550 | i5-2430M | Intel HD Graphics 3000 | RAM: 16 GB | SSD: 1 TB
-* **Navegadores:** Vivaldi | Brave | Firefox <!--| Chromium-->
+#### :desktop_computer: SETUP \#02
+* **OS:** Linux Mint Debian Edition (LMDE) 6 Faye
+* **Laptop:** Gigabyte GA-78LMT-USB3 R2 | AMD FX-8300 | Radeon RX 560 4 GB | RAM: 16 GB | SSD: 600 GB | HDD: 2 TB
+* **Navegadores:** Brave | Firefox | Zen <!--| Chromium-->
+---
+#### :computer: SETUP \#03
+* **OS:** Linux Mint Debian Edition (LMDE) 6 Faye
+* **Laptop:** Dell Vostro 3550 | Intel i5-2430M | Intel HD Graphics 3000 | RAM: 16 GB | SSD: 640 GB
+* **Navegadores:** Brave | Firefox | Zen <!--| Chromium-->
 ---
 #### :wrench: FERRAMENTAS
 * **Editores de código:** VS Code | PyCharm | IntelliJ IDEA
-* **Banco de dados:** MySQL Workbench | PGAdmin4
+* **Banco de dados:** PGAdmin4
 * **Versionamento:** Git 
 * **Repositório:** GitHub
-* **Plataformas:** Java | Node.js | XAMPP
+* **Plataformas:** Java | Node.js 
 * **Virtualização:** VirtualBox
 * **Design:** Illustrator | Photoshop
 * **Planejamento:** Notion
 * **Office:** ONLYOFFICE
-* **Inteligência Artificial:** Perplexity | Gemini | Google AI Studio | ChatGPT
+* **Inteligência Artificial:** Claude | ChatGPT | Gemini | Google AI Studio | Perplexity 
 
 <br/>
 

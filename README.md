@@ -196,6 +196,7 @@ Azul (Salesforce) = 00A1E0
    + Auxílio na criação de Layouts;
    + Foco em adaptar espaços para cumprir requisitos de acessibilidade diante Termo de Compromisso de Ajuste de Conduta assinado pelos Correios, para democratizar o acesso de todas as pessoas as suas instalações;
    + Co-autor no desenvolvimento do projeto de reforma e adequação ao TCAC da agência dos Correios AC Correntina, situada no município de Correntina - BA;
+   ---
 
 </details>  
 
@@ -300,8 +301,8 @@ Azul (Salesforce) = 00A1E0
 
 #### Hardware: 
 
-![Análise de Especificações Badge](https://img.shields.io/badge/Análise_de_Especificações-B0C4DE?style=for-the-badge&labelColor=999999&logo=specs-analysis&logoColor=white)
-![Manutenção de Micro Badge](https://img.shields.io/badge/Manutenção_de_Micro-B0C4DE?style=for-the-badge&labelColor=999999&logo=tools-maintenance&logoColor=white)
+![Análise de Especificações Badge](https://custom-icon-badges.demolab.com/badge/Análise_de_Especificações-B0C4DE?style=for-the-badge&labelColor=999999&logo=specs-analysis&logoColor=white)
+![Manutenção de Micro Badge](https://custom-icon-badges.demolab.com/badge/Manutenção_de_Micro-B0C4DE?style=for-the-badge&labelColor=999999&logo=tools-maintenance&logoColor=white)
 ---
 
 #### SO:

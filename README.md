@@ -301,8 +301,8 @@ Azul (Salesforce) = 00A1E0
 
 #### Hardware: 
 
-![Análise de Especificações Badge](https://custom-icon-badges.demolab.com/badge/Análise_de_Especificações-B0C4DE?style=for-the-badge&labelColor=999999&logo=specs-analysis&logoColor=white)
-![Manutenção de Micro Badge](https://custom-icon-badges.demolab.com/badge/Manutenção_de_Micro-B0C4DE?style=for-the-badge&labelColor=999999&logo=tools-maintenance&logoColor=white)
+![Análise de Especificações Badge](https://custom-icon-badges.demolab.com/badge/Análise_de_Especificações-B0C4DE?style=for-the-badge&labelColor=999999&logo=specs-analytics&logoColor=white)
+![Manutenção de Micro Badge](https://custom-icon-badges.demolab.com/badge/Manutenção_de_Micro-B0C4DE?style=for-the-badge&labelColor=999999&logo=tools-icon&logoColor=white)
 ---
 
 #### SO:

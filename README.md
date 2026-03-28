@@ -137,11 +137,11 @@ Azul (Salesforce) = 00A1E0
    + Pesquisa e estudo de mercado;
    + Retorno dos estudos na área de T.I. em busca de reinserção no mercado;
 
-   #### :graduation_cap: Pós-graduação:
+   ## :mortar_board: Pós-graduação:
 
    + Inteligência Artificial e Ciência de Dados | UNIFACS; 
 
-   #### :unlock: Cursos livres:
+   ## :open_book: Cursos livres:
 
    | Curso | Plataforma | Instrutor |
    | --- | --- | --- |
@@ -154,7 +154,7 @@ Azul (Salesforce) = 00A1E0
    | Git e Versionamento | Ada Tech | Bruno Feitosa |
    | [Python (Mundo 1,2 e 3)](https://github.com/wellingtonmnf/python3-cursoemvideo) | Curso em Vídeo | Gustavo Guanabara |
    
-   #### :diving_mask: Imersões Alura:
+   ## :diving_mask: Imersões Alura:
 
    | Imersão | Foco |
    | --- | --- |
@@ -166,7 +166,7 @@ Azul (Salesforce) = 00A1E0
    | [Dev_ com Gemini](https://github.com/wellingtonmnf/onde_joga_isso_fora) | Front-end |
    | [Dev_ com Gemini](https://github.com/wellingtonmnf/instalike-back) | Back-end |
    
-   #### :cloud: Estudo em Salesforce:
+   ## :cloud: Estudo em Salesforce:
 
    | Fonte | Tema | Professor / Autor |
    | --- | --- | --- |

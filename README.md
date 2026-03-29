@@ -1,8 +1,3 @@
-<!---
-wellingtonmnf/wellingtonmnf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <!-- 
 COLOR CODE
 
@@ -72,8 +67,6 @@ Azul (Salesforce) = 00A1E0
 [![Bluesky Badge](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/wellingtonmnf.bsky.social)
 [![Reddit Badge](https://img.shields.io/badge/reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/wellingtonmnf/)
 [![Discord Badge](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://x.com/wellingtonmnf)
-<!--[![Stack Overflow Badge](https://img.shields.io/badge/stack_overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/28856585/wellingtonmnf)-->
-
 
 </div>
 
@@ -474,48 +467,24 @@ Acredito que a combinação dessas *"mad skills"* me permite ter uma visão equi
 <summary><h3>:bar_chart: MÉTRICAS | GITHUB</h3></summary>
 
 <div id="cards" align="center">
-<!--
---- -->
-
-<!--<img  align="center"  src="https://github-readme-stats-wellingtonmnf.vercel.app/api?username=wellingtonmnf&locale=pt-br&show_icons=true&theme=salesforce&card_width=500"/> -->
 
 ---
 
 <img  align="center" src="https://streak-stats.demolab.com?user=wellingtonmnf&theme=transparent&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=500&background=FFFFFF&border=00A1E0&stroke=00A1E0&ring=00A1E0&fire=00A1E0&currStreakNum=00A1E0&sideNums=00A1E0&currStreakLabel=00A1E0&sideLabels=00A1E0&dates=00B1E8&excludeDaysLabel=00A1E0"/>
 
-<!-- <img  align="center"  src="https://github-readme-streak-stats-wellingtonmnf.vercel.app/src/demo/api?username=wellingtonmnf&locale=pt-br&theme=salesforce&card_width=500"/> -->
-
-<!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@018b7190-2dea-4644-8f7b-cfc16c36978c/dd033ac0-4b0a-4bf7-ba12-7bdc65ff61a9.png" /></a> -->
-
 --- 
-
-<!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@018b7190-2dea-4644-8f7b-cfc16c36978c/75e7b71f-debe-4eae-982d-86dfa845733e.png" /></a> -->
 
 ![Gráfico de Linguagens | WakaTime](https://wakatime.com/share/@018b7190-2dea-4644-8f7b-cfc16c36978c/d5a9a4cf-55a8-4213-a441-00cd9e525de1.svg)
 
 --- 
 
-<!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@018b7190-2dea-4644-8f7b-cfc16c36978c/3114906b-2967-4742-83fb-72743515bbb7.png" /></a> -->
-
 ![Gráfico de IDE's | WakaTime](https://wakatime.com/share/@018b7190-2dea-4644-8f7b-cfc16c36978c/b793d00f-ef92-4cfe-97d8-ee705f666e97.svg)
 
 --- 
 
-<!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@018b7190-2dea-4644-8f7b-cfc16c36978c/bf7428c2-1a6b-41dc-83cb-8aa8020c047f.png" /></a> -->
-
 ![Gráfico de Sistemas Operacionais | WakaTime](https://wakatime.com/share/@018b7190-2dea-4644-8f7b-cfc16c36978c/da85740c-cd11-4f40-9115-31624bdaf6e5.svg)
 
 --- 
-
-<!-- <img  align="center"  src="https://github-readme-stats-wellingtonmnf.vercel.app/api/top-langs/?username=wellingtonmnf&locale=pt-br&layout=compact&theme=salesforce&card_width=500"/> 
-
---- -->
-
-<!-- <img align="center"  src="https://github-readme-activity-graph-wellingtonmnf.vercel.app/graph?username=wellingtonmnf&locale=pt-br&theme=salesforce"/> 
-
---- -->
-
-<!-- <img align="center"  src="https://github-readme-stats-wellingtonmnf.vercel.app/api/pin/?username=wellingtonmnf&repo=github-readme-stats&locale=pt-br&theme=salesforce"/> -->
 
 </div>
 

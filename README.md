@@ -22,11 +22,11 @@ Azul (Salesforce) = 00A1E0
 
 ## Olá, eu sou o [**Wellington**](https://github.com/wellingtonmnf) 👋
 
-- :man_technologist: Estou em processo de transição de carreira, estudando para me tornar um Especialista em Inteligência Artificial e Ciência de Dados!
-- 🌱 Eu estou aprendendo atualmente: Big Data, SQL, MongoDB, Python, Machine Learning, PLN...
-- 👀 Me interesso por: Programação, Desenvolvimento Web, Ciência de Dados, Análise de Dados, Inteligêngia Artificial, Design Gráfico e Arquitetura e Urbanismo
-- :thumbsup: Também gosto de escutar músicas e podcasts :headphones:, viajar e conhecer novos lugares :airplane::world_map::national_park:, sair com os amigos :man: :bearded_person: :woman: :curly_haired_woman: e do E.C. Vitória! :lion: :red_circle: :black_circle: :soccer:
-- :open_book: Você pode acompanhar minha transição de carreira lendo o meu blog [**Algoritmo Biomimético**](https://medium.com/algoritmo-biomimetico) :electron:
+- :man_technologist: Recentemente me tornei Especialista em Inteligência Artificial e Ciência de Dados!
+- 🌱 Tenho estudado: Big Data, SQL, MongoDB, Python, Machine Learning, PLN...
+- 👀 Me interesso por: Análise de Dados, Ciência de Dados, Inteligêngia Artificial, Programação, Desenvolvimento Web, Design Gráfico e Arquitetura e Urbanismo
+- :thumbsup: Também gosto de ouvir rock e podcasts :headphones:, viajar e conhecer novos lugares :airplane::world_map::national_park:, sair com os amigos :man: :bearded_person: :woman: :curly_haired_woman: e amo o E.C. Vitória! :lion: :red_circle: :black_circle: :soccer:
+- :open_book: Você pode acompanhar minha trajetória lendo o meu blog [**Algoritmo Biomimético**](https://medium.com/algoritmo-biomimetico) :electron:
 
 ![Linha divisória README.md](imagens/linha-div.png)
 
@@ -42,11 +42,11 @@ Azul (Salesforce) = 00A1E0
 
 #### #OpentoWork :man_mechanic:
 
-<p text-align="justify">Depois de anos atuando como Arquiteto e Urbanista, retorno aos estudos na área de T.I. para construir um portfólio e me reinserir no mercado de trabalho.</p>
+<p text-align="justify">Depois de anos atuando como Arquiteto e Urbanista, retornei aos estudos na área de T.I. para construir um portfólio e busco me reinserir no mercado de trabalho nesse novo contexto.</p>
 
-<p text-align="justify">Encaro essa mudança com muita disposição, entusiasmo e curiosidade, buscando sempre aprender, contribuir e evoluir diante das necessidades, das demandas e das oportunidades emergentes.</p>
+<p text-align="justify">Encaro essa mudança com disposição, entusiasmo e curiosidade, buscando sempre aprender, contribuir e evoluir diante das necessidades, das demandas e das oportunidades emergentes.</p>
 
-<p text-align="justify">Sou proficiente em softwares de edição de imagens e de modelagem 3D.</p>
+<p text-align="justify">Sou proficiente em softwares de edição de imagens e de modelagem 3D, além de um curioso tecnológico nato.</p>
 
 </div>
 
@@ -81,7 +81,7 @@ Azul (Salesforce) = 00A1E0
 <section id="curriculo">
 
 <details>
-<summary><h3>:page_facing_up: CURRÍCULO | <a href="curriculo/Currículo - T.I. (SALESFORCE) - RGB - A4.pdf">[PDF]</a></h3></summary>
+<summary><h3>:page_facing_up: CURRÍCULO | <!-- <a href="curriculo/Currículo - T.I. (SALESFORCE) - RGB - A4.pdf">[PDF]</a> --></h3></summary>
 
 <div id="formacao">
 
@@ -90,8 +90,8 @@ Azul (Salesforce) = 00A1E0
 
    #### :man_student: Acadêmica
 
-   * :books: **Pós-Graduação em Inteligência Artificial e Ciência de Dados (EAD) | _Em curso_** </br>
-     :classical_building: *Universidade Salvador (UNIFACS)* | :calendar: *2025.2 - 2026.1*
+   * :books: **Pós-Graduação em Inteligência Artificial e Ciência de Dados (EAD)** </br>
+     :classical_building: *Universidade Salvador (UNIFACS)* | :calendar: *2025 - 2026*
 
    * :books: **Bacharelado em Arquitetura e Urbanismo** </br>
      :classical_building: *Universidade Salvador (UNIFACS)* | :calendar: *2010 - 2015*
@@ -109,6 +109,9 @@ Azul (Salesforce) = 00A1E0
 
    * :books: **Curso Básico de REVIT Architecture (:hourglass: 30 horas)** </br>
      :classical_building: *Andrade Casaes Arquitetura* | :calendar: *2014*
+
+   * :books: **Lógica de Programação para Mainframe (:hourglass: 40 horas)** </br>
+     :classical_building: *SENAI - CETIND* | :calendar: *2008*      
 
    * :books: **Manutenção de Microcomputadores (:hourglass: 600 horas)** </br>
      :classical_building: *SENAI* | :calendar: *2006*  
@@ -128,7 +131,9 @@ Azul (Salesforce) = 00A1E0
    :mailbox_closed: *Salvador, Bahia*
 
    + Pesquisa e estudo de mercado;
-   + Retorno dos estudos na área de T.I. em busca de reinserção no mercado;
+   + Construção de lastro técnico através de cursos livres;
+   + Criação de portfólio;
+   + Especialização de nível superior; 
 
    #### :mortar_board: Pós-graduação:
 
@@ -312,7 +317,7 @@ Azul (Salesforce) = 00A1E0
 ![Zen Badge](https://img.shields.io/badge/zen-F76F53?style=for-the-badge&labelColor=999999&logo=zenbrowser&logoColor=white)
 ---
 
-#### Planejamento | Pacote Office:
+#### Planejamento | Suíte Office:
 
 ![Notion Badge](https://img.shields.io/badge/notion-000000?style=for-the-badge&labelColor=999999&logo=notion&logoColor=white)
 ![Trello Badge](https://img.shields.io/badge/trello-0052CC?style=for-the-badge&labelColor=999999&logo=Trello&logoColor=white)
@@ -336,13 +341,16 @@ Azul (Salesforce) = 00A1E0
 ![AutoCAD Badge](https://img.shields.io/badge/autocad-E51050?style=for-the-badge&labelColor=999999&logo=autocad&logoColor=white)
 ![SketchUp Badge](https://img.shields.io/badge/sketchup-005F9E?style=for-the-badge&labelColor=999999&logo=sketchup&logoColor=white)
 ![Lumion 3D Badge](https://img.shields.io/badge/lumion-007aff?style=for-the-badge&labelColor=999999&logo=logstash&logoColor=white)
+![Twinmotion Badge](https://img.shields.io/badge/twinmotion-000000?style=for-the-badge&labelColor=999999&logo=logstash&logoColor=white)
+
 ---
 
 #### Inteligência Artificial:
 
-![Antrophic Badge](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&labelColor=999999&logo=anthropic&logoColor=white)
 ![ChatGPT Badge](https://custom-icon-badges.demolab.com/badge/ChatGPT-412991?style=for-the-badge&labelColor=999999&logo=openai&logoColor=white)
+![Antrophic Badge](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&labelColor=999999&logo=anthropic&logoColor=white)
 ![Gemini Badge](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&labelColor=999999&logo=googlegemini&logoColor=white)
+![Gemini Notebook Badge](https://img.shields.io/badge/notebooklm-000000?style=for-the-badge&labelColor=999999&logo=googlegemini&logoColor=white)
 ![Perplexity Badge](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&labelColor=999999&logo=perplexity&logoColor=white)
 ![Alexa Badge](https://custom-icon-badges.demolab.com/badge/Alexa-00CAFF?style=for-the-badge&labelColor=999999&logo=aws&logoColor=white)
 ---
@@ -434,12 +442,12 @@ Acredito que a combinação dessas *"mad skills"* me permite ter uma visão equi
 * **Banco de dados:** PGAdmin4 | MongoDB
 * **Versionamento:** Git 
 * **Repositório:** GitHub
-* **Plataformas:** Java | Node.js 
+* **Plataformas:** Java | Node.js
 * **Virtualização:** VirtualBox
 * **Design:** Illustrator | Photoshop
 * **Planejamento:** Notion
 * **Office:** ONLYOFFICE
-* **Inteligência Artificial:** Claude | ChatGPT | Gemini | Google AI Studio | Perplexity 
+* **Inteligência Artificial:** ChatGPT | Claude | Gemini | Gemini Notebook | Perplexity 
 
 <br/>
 
@@ -500,12 +508,11 @@ Acredito que a combinação dessas *"mad skills"* me permite ter uma visão equi
 
 ### :bookmark_tabs: REFERÊNCIAS
 
-* :newspaper: ***Notícias:*** [The News](https://thenewscc.com.br/) **|** [IA Sob Controle](https://www.linkedin.com/newsletters/ia-sob-controle-7206276550437007360/) **|** [Tecnoblog](https://tecnoblog.net/) **|** [Diolinux](https://diolinux.com.br/) **|** [TechCrunch](https://techcrunch.com/) **|** [The Verge](https://www.theverge.com/) **|** [TestingCatalog](https://www.testingcatalog.com/) **|** [Futurism](https://futurism.com/) **|** [The Decoder](https://the-decoder.com/)
-* :pencil: ***Blogs:*** [Tera](https://blog.somostera.com/) **|** [Data Hackers](https://www.datahackers.com.br/blog) **|** [Curso em Vídeo](https://www.cursoemvideo.com/blog/)  
-* :studio_microphone: ***Podcasts:*** [Tecnocast](https://tecnoblog.net/tecnocast/) **|** [Dev Sem Fronteiras](https://www.devsemfronteiras.tech/podcasts/) **|** [Data Hackers](https://www.datahackers.com.br/podcast) **|** [Diocast](https://diolinux.com.br/diocast) **|** [CanalTech](https://canaltech.com.br/podcast/podcast-canaltech/) **|** [Porta 101](https://canaltech.com.br/podcast/porta-101/) **|** [NerdTech](https://www.jovemnerd.com.br/podcasts/nerdtech)
+* :newspaper: ***Notícias:*** [The News](https://thenewscc.com.br/) **|** [Tech Drops](https://www.techdrops.com.br/) **|** [AI Drops](https://www.aidrops.com.br/) **|** [Diolinux](https://diolinux.com.br/)
+* :studio_microphone: ***Podcasts:*** [IA Sob Controle](https://www.iasobcontrole.tech/) **|** [Dev Sem Fronteiras](https://www.devsemfronteiras.tech/podcasts/) **|** [Data Hackers](https://www.datahackers.com.br/podcast) **|** [Diocast](https://diolinux.com.br/diocast) **|** [NerdTech](https://www.jovemnerd.com.br/podcasts/nerdtech)
 * :books: ***Livros:*** [Essencialismo](https://sextante.com.br/livros/essencialismo/) **|** [A coragem de não agradar](https://sextante.com.br/livros/a-coragem-de-nao-agradar/)
-* :microphone: ***Bandas:*** [Audioslave](https://www.youtube.com/@AudioslaveOfficial/featured) **|** [Linkin Park](https://www.youtube.com/channel/UCZU9T1ceaOgwfLRq7OKFU4Q) **|** [Green Day](https://www.youtube.com/@GreenDay)
-* :musical_note: ***Música:*** [*Simple Man (Acoustic Version)* - **Shinedown**](https://www.youtube.com/watch?v=rgFQ6WmxdMs)
+* :microphone: ***Bandas:*** [Audioslave](https://www.youtube.com/@AudioslaveOfficial/featured) **|** [Green Day](https://www.youtube.com/@GreenDay) **|** [Linkin Park](https://www.youtube.com/channel/UCZU9T1ceaOgwfLRq7OKFU4Q)
+* :musical_note: ***Músicas:*** [*Be Yourself* - **Audioslave**](https://www.youtube.com/watch?v=WC5FdFlUcl0) **|** [*I am the Highway* - **Audioslave**](https://www.youtube.com/watch?v=9ZDAYg196x8) **|** [*Simple Man (Acoustic Version)* - **Shinedown**](https://www.youtube.com/watch?v=rgFQ6WmxdMs) 
 
 ![Rodapé do quarto roxo README.md](imagens/rodape-readme-02.png)
 

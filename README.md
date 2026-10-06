@@ -81,7 +81,7 @@ Azul (Salesforce) = 00A1E0
 <section id="curriculo">
 
 <details>
-<summary><h3>:page_facing_up: CURRÍCULO | <!-- <a href="curriculo/Currículo - T.I. (SALESFORCE) - RGB - A4.pdf">[PDF]</a> --></h3></summary>
+<summary><h3>:page_facing_up: CURRÍCULO <!-- | <a href="curriculo/Currículo - T.I. (SALESFORCE) - RGB - A4.pdf">[PDF]</a> --></h3></summary>
 
 <div id="formacao">
 
@@ -341,16 +341,15 @@ Azul (Salesforce) = 00A1E0
 ![AutoCAD Badge](https://img.shields.io/badge/autocad-E51050?style=for-the-badge&labelColor=999999&logo=autocad&logoColor=white)
 ![SketchUp Badge](https://img.shields.io/badge/sketchup-005F9E?style=for-the-badge&labelColor=999999&logo=sketchup&logoColor=white)
 ![Lumion 3D Badge](https://img.shields.io/badge/lumion-007aff?style=for-the-badge&labelColor=999999&logo=logstash&logoColor=white)
-![Twinmotion Badge](https://img.shields.io/badge/twinmotion-000000?style=for-the-badge&labelColor=999999&logo=logstash&logoColor=white)
-
+![Twinmotion Badge](https://img.shields.io/badge/twinmotion-000000?style=for-the-badge&labelColor=999999&logo=twinmotion&logoColor=white)
 ---
 
 #### Inteligência Artificial:
 
-![ChatGPT Badge](https://custom-icon-badges.demolab.com/badge/ChatGPT-412991?style=for-the-badge&labelColor=999999&logo=openai&logoColor=white)
+![ChatGPT Badge](https://custom-icon-badges.demolab.com/badge/ChatGPT-000000?style=for-the-badge&labelColor=999999&logo=openai&logoColor=white)
 ![Antrophic Badge](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&labelColor=999999&logo=anthropic&logoColor=white)
 ![Gemini Badge](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&labelColor=999999&logo=googlegemini&logoColor=white)
-![Gemini Notebook Badge](https://img.shields.io/badge/notebooklm-000000?style=for-the-badge&labelColor=999999&logo=googlegemini&logoColor=white)
+![Gemini Notebook Badge](https://img.shields.io/badge/gemini_notebook-007aff?style=for-the-badge&labelColor=999999&logo=notebooklm&logoColor=white)
 ![Perplexity Badge](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&labelColor=999999&logo=perplexity&logoColor=white)
 ![Alexa Badge](https://custom-icon-badges.demolab.com/badge/Alexa-00CAFF?style=for-the-badge&labelColor=999999&logo=aws&logoColor=white)
 ---
@@ -512,7 +511,7 @@ Acredito que a combinação dessas *"mad skills"* me permite ter uma visão equi
 * :studio_microphone: ***Podcasts:*** [IA Sob Controle](https://www.iasobcontrole.tech/) **|** [Dev Sem Fronteiras](https://www.devsemfronteiras.tech/podcasts/) **|** [Data Hackers](https://www.datahackers.com.br/podcast) **|** [Diocast](https://diolinux.com.br/diocast) **|** [NerdTech](https://www.jovemnerd.com.br/podcasts/nerdtech)
 * :books: ***Livros:*** [Essencialismo](https://sextante.com.br/livros/essencialismo/) **|** [A coragem de não agradar](https://sextante.com.br/livros/a-coragem-de-nao-agradar/)
 * :microphone: ***Bandas:*** [Audioslave](https://www.youtube.com/@AudioslaveOfficial/featured) **|** [Green Day](https://www.youtube.com/@GreenDay) **|** [Linkin Park](https://www.youtube.com/channel/UCZU9T1ceaOgwfLRq7OKFU4Q)
-* :musical_note: ***Músicas:*** [*Be Yourself* - **Audioslave**](https://www.youtube.com/watch?v=WC5FdFlUcl0) **|** [*I am the Highway* - **Audioslave**](https://www.youtube.com/watch?v=9ZDAYg196x8) **|** [*Simple Man (Acoustic Version)* - **Shinedown**](https://www.youtube.com/watch?v=rgFQ6WmxdMs) 
+* :musical_note: ***Músicas:*** [*Be Yourself* - **Audioslave**](https://www.youtube.com/watch?v=WC5FdFlUcl0) **|** [*I am the Highway* - **Audioslave**](https://www.youtube.com/watch?v=9ZDAYg196x8) **|** [*Simple Man (Acoustic)* - **Shinedown**](https://www.youtube.com/watch?v=rgFQ6WmxdMs) 
 
 ![Rodapé do quarto roxo README.md](imagens/rodape-readme-02.png)
 

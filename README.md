@@ -102,6 +102,8 @@ Azul (Salesforce) = 00A1E0
    * :books: **Ensino Médio Completo** </br>
      :classical_building: *Escola Reitor Miguel Calmon - SESI* | :calendar: *2005 - 2007*
 
+  ---
+  
   #### :dart: Complementar
 
    * :books: **Estruturas para Arquitetos (:hourglass: 48 horas)** </br>
@@ -116,6 +118,8 @@ Azul (Salesforce) = 00A1E0
    * :books: **Manutenção de Microcomputadores (:hourglass: 600 horas)** </br>
      :classical_building: *SENAI* | :calendar: *2006* 
 
+  ---
+  
   #### :open_book: Cursos livres:
 
    | Curso | Plataforma | Instrutor |
@@ -129,6 +133,8 @@ Azul (Salesforce) = 00A1E0
    | Git e Versionamento | Ada Tech | Bruno Feitosa |
    | [Python (Mundo 1, 2 e 3)](https://github.com/wellingtonmnf/python3-cursoemvideo) | Curso em Vídeo | Gustavo Guanabara |
    
+  ---
+  
   #### :diving_mask: Imersões Alura:
 
    | Imersão | Foco |
@@ -140,6 +146,8 @@ Azul (Salesforce) = 00A1E0
    | [Front-end com IA](https://github.com/wellingtonmnf/imersao-front-end-com-ia-alura) | Front-end |
    | [Dev_ com Gemini](https://github.com/wellingtonmnf/onde_joga_isso_fora) | Front-end |
    | [Dev_ com Gemini](https://github.com/wellingtonmnf/instalike-back) | Back-end |
+
+  --- 
    
   #### :cloud: Estudo em Salesforce:
 

@@ -114,32 +114,9 @@ Azul (Salesforce) = 00A1E0
      :classical_building: *SENAI - CETIND* | :calendar: *2008*      
 
    * :books: **Manutenção de Microcomputadores (:hourglass: 600 horas)** </br>
-     :classical_building: *SENAI* | :calendar: *2006*  
+     :classical_building: *SENAI* | :calendar: *2006* 
 
-</details>
-
-</div>
-
-<div id="xp-prof">
-
-<details>
-<summary><h4>:necktie: EXPERIÊNCIA PROFISSIONAL:</h4></summary>
-
-   #### :arrows_counterclockwise: Transição de Carreira | Pausa na carreira
-
-   :calendar: **ago de 2022 - o momento** </br>
-   :mailbox_closed: *Salvador, Bahia*
-
-   + Pesquisa e estudo de mercado;
-   + Construção de lastro técnico através de cursos livres;
-   + Criação de portfólio;
-   + Especialização de nível superior; 
-
-   #### :mortar_board: Pós-graduação:
-
-   + Inteligência Artificial e Ciência de Dados | UNIFACS; 
-
-   #### :open_book: Cursos livres:
+  #### :open_book: Cursos livres:
 
    | Curso | Plataforma | Instrutor |
    | --- | --- | --- |
@@ -152,7 +129,7 @@ Azul (Salesforce) = 00A1E0
    | Git e Versionamento | Ada Tech | Bruno Feitosa |
    | [Python (Mundo 1, 2 e 3)](https://github.com/wellingtonmnf/python3-cursoemvideo) | Curso em Vídeo | Gustavo Guanabara |
    
-   #### :diving_mask: Imersões Alura:
+  #### :diving_mask: Imersões Alura:
 
    | Imersão | Foco |
    | --- | --- |
@@ -164,12 +141,31 @@ Azul (Salesforce) = 00A1E0
    | [Dev_ com Gemini](https://github.com/wellingtonmnf/onde_joga_isso_fora) | Front-end |
    | [Dev_ com Gemini](https://github.com/wellingtonmnf/instalike-back) | Back-end |
    
-   #### :cloud: Estudo em Salesforce:
+  #### :cloud: Estudo em Salesforce:
 
    | Fonte | Tema | Professor / Autor |
    | --- | --- | --- |
    | [Livro "Salesforce para não programadores e programadores"](https://github.com/wellingtonmnf/projeto_livro01_teste01) | Apex, SOQL | Tiago Corrêa Welter |
-   | [Livro "Salesforce APEX - Implemente soluções com padrões e técnicas de Orientação a Objetos"](https://github.com/wellingtonmnf/salesforce-apex-book-cdc-alura) | Apex, SOQL | Eduardo 'Bisso' Carvalho |
+   | [Livro "Salesforce APEX - Implemente soluções com padrões e técnicas de Orientação a Objetos"](https://github.com/wellingtonmnf/salesforce-apex-book-cdc-alura) | Apex, SOQL | Eduardo 'Bisso' Carvalho |      
+
+</details>
+
+</div>
+
+<div id="xp-prof">
+
+<details>
+<summary><h4>:necktie: EXPERIÊNCIA PROFISSIONAL:</h4></summary>
+
+   #### :arrows_counterclockwise: Transição de Carreira | Estudos
+
+   :calendar: **ago de 2022 - o momento** </br>
+   :mailbox_closed: *Salvador, Bahia*
+
+   + Pesquisa e estudo de mercado;
+   + Construção de lastro técnico através de cursos livres e imersões;
+   + Criação de portfólio;
+   + Especialização de nível superior; 
    ---
    #### :construction_worker: Arquiteto | Autônomo
 
@@ -508,7 +504,7 @@ Acredito que a combinação dessas *"mad skills"* me permite ter uma visão equi
 ### :bookmark_tabs: REFERÊNCIAS
 
 * :newspaper: ***Notícias:*** [The News](https://thenewscc.com.br/) **|** [Tech Drops](https://www.techdrops.com.br/) **|** [AI Drops](https://www.aidrops.com.br/) **|** [Diolinux](https://diolinux.com.br/)
-* :studio_microphone: ***Podcasts:*** [IA Sob Controle](https://www.iasobcontrole.tech/) **|** [Dev Sem Fronteiras](https://www.devsemfronteiras.tech/podcasts/) **|** [Data Hackers](https://www.datahackers.com.br/podcast) **|** [Diocast](https://diolinux.com.br/diocast) **|** [NerdTech](https://www.jovemnerd.com.br/podcasts/nerdtech)
+* :studio_microphone: ***Podcasts:*** [IA Sob Controle](https://www.iasobcontrole.tech/) **|** [Carreira Sem Fronteiras](https://www.carreirasemfronteiras.com.br/podcasts/) **|** [Data Hackers](https://www.datahackers.com.br/podcast) **|** [Diocast](https://diolinux.com.br/diocast) **|** [NerdTech](https://www.jovemnerd.com.br/podcasts/nerdtech)
 * :books: ***Livros:*** [Essencialismo](https://sextante.com.br/livros/essencialismo/) **|** [A coragem de não agradar](https://sextante.com.br/livros/a-coragem-de-nao-agradar/)
 * :microphone: ***Bandas:*** [Audioslave](https://www.youtube.com/@AudioslaveOfficial/featured) **|** [Green Day](https://www.youtube.com/@GreenDay) **|** [Linkin Park](https://www.youtube.com/channel/UCZU9T1ceaOgwfLRq7OKFU4Q)
 * :musical_note: ***Músicas:*** [*Be Yourself* - **Audioslave**](https://www.youtube.com/watch?v=WC5FdFlUcl0) **|** [*I am the Highway* - **Audioslave**](https://www.youtube.com/watch?v=9ZDAYg196x8) **|** [*Simple Man (Acoustic)* - **Shinedown**](https://www.youtube.com/watch?v=rgFQ6WmxdMs) 
